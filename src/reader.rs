@@ -6,6 +6,10 @@ use std::{
     path::Path,
 };
 
+use regex::Regex;
+
+use crate::parser::Expr;
+
 pub fn is_compressed<P: AsRef<Path>>(p: &P) -> bool {
     let ext = p.as_ref().extension();
 
@@ -113,6 +117,9 @@ pub struct InterproGffReader<R: BufRead> {
     reader: R,
     comment: char,
     finish_line: String,
+    id_expr: Option<Expr>,
+    domain_expr: Option<Expr>,
+    source_expr: Option<Expr>,
 }
 
 impl<R: BufRead> InterproGffReader<R> {
@@ -121,6 +128,9 @@ impl<R: BufRead> InterproGffReader<R> {
             reader,
             comment: '#',
             finish_line: "## FASTA ##".to_string(),
+            id_expr: None,
+            domain_expr: None,
+            source_expr: None,
         }
     }
 
@@ -131,6 +141,21 @@ impl<R: BufRead> InterproGffReader<R> {
 
     pub fn with_finish_line(mut self, finish_line: String) -> Self {
         self.finish_line = finish_line;
+        self
+    }
+
+    pub fn with_id_expr(mut self, expr: Option<Expr>) -> Self {
+        self.id_expr = expr;
+        self
+    }
+
+    pub fn with_domain_expr(mut self, expr: Option<Expr>) -> Self {
+        self.domain_expr = expr;
+        self
+    }
+
+    pub fn with_source_expr(mut self, expr: Option<Expr>) -> Self {
+        self.source_expr = expr;
         self
     }
 

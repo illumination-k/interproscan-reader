@@ -1,6 +1,7 @@
 use std::{error::Error, fs::File, io::BufReader};
 
 mod opt;
+mod parser;
 mod reader;
 
 fn main() -> Result<(), Box<dyn Error>> {
