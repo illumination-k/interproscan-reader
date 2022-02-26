@@ -1,0 +1,1000 @@
+kfl00063_0090_v1.1	.	polypeptide	1	1378	.	+	.	ID=kfl00063_0090_v1.1;md5=4a9d57d71a755d8530879de3c58a2545
+kfl00063_0090_v1.1	CDD	protein_match	103	170	5.71601E-12	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 103 170;ID=match$1_103_170;signature_desc=BRCT;Name=cd00027;status=T
+kfl00063_0090_v1.1	ProSiteProfiles	protein_match	99	184	14.313	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 99 184;ID=match$2_99_184;signature_desc=BRCT domain profile.;Name=PS50172;status=T;Dbxref="InterPro:IPR001357"
+kfl00063_0090_v1.1	MobiDBLite	protein_match	903	932	.	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 903 932;ID=match$3_903_932;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00063_0090_v1.1	MobiDBLite	protein_match	1030	1060	.	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 1030 1060;ID=match$4_1030_1060;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00063_0090_v1.1	MobiDBLite	protein_match	934	954	.	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 934 954;ID=match$5_934_954;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00063_0090_v1.1	SUPERFAMILY	protein_match	751	873	1.57E-25	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 751 873;ID=match$6_751_873;Name=SSF52113;status=T;Dbxref="InterPro:IPR036420"
+kfl00063_0090_v1.1	Gene3D	protein_match	96	184	6.2E-17	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 96 184;ID=match$7_96_184;Name=G3DSA:3.40.50.10190;status=T;Dbxref="InterPro:IPR036420"
+kfl00063_0090_v1.1	ProSiteProfiles	protein_match	345	437	13.284	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 345 437;ID=match$8_345_437;signature_desc=BRCT domain profile.;Name=PS50172;status=T;Dbxref="InterPro:IPR001357"
+kfl00063_0090_v1.1	SUPERFAMILY	protein_match	185	274	1.96E-23	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 185 274;ID=match$9_185_274;Name=SSF52113;status=T;Dbxref="InterPro:IPR036420"
+kfl00063_0090_v1.1	MobiDBLite	protein_match	631	647	.	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 631 647;ID=match$10_631_647;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00063_0090_v1.1	MobiDBLite	protein_match	876	1323	.	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 876 1323;ID=match$11_876_1323;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00063_0090_v1.1	MobiDBLite	protein_match	1110	1144	.	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 1110 1144;ID=match$12_1110_1144;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00063_0090_v1.1	Pfam	protein_match	793	854	1.3E-9	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 793 854;ID=match$13_793_854;signature_desc=twin BRCT domain;Name=PF12738;status=T;Dbxref="InterPro:IPR001357"
+kfl00063_0090_v1.1	Pfam	protein_match	190	254	2.1E-14	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 190 254;ID=match$13_190_254;signature_desc=twin BRCT domain;Name=PF12738;status=T;Dbxref="InterPro:IPR001357"
+kfl00063_0090_v1.1	Pfam	protein_match	103	166	2.6E-9	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 103 166;ID=match$13_103_166;signature_desc=twin BRCT domain;Name=PF12738;status=T;Dbxref="InterPro:IPR001357"
+kfl00063_0090_v1.1	MobiDBLite	protein_match	672	686	.	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 672 686;ID=match$14_672_686;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00063_0090_v1.1	Pfam	protein_match	690	773	9.4E-9	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 690 773;ID=match$15_690_773;signature_desc=BRCT domain, a BRCA1 C-terminus domain;Name=PF16589;status=T;Dbxref="InterPro:IPR001357"
+kfl00063_0090_v1.1	SMART	protein_match	347	427	0.0023	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 347 427;ID=match$16_347_427;Name=SM00292;status=T;Dbxref="InterPro:IPR001357"
+kfl00063_0090_v1.1	SMART	protein_match	184	262	4.3E-12	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 184 262;ID=match$16_184_262;Name=SM00292;status=T;Dbxref="InterPro:IPR001357"
+kfl00063_0090_v1.1	SMART	protein_match	786	862	8.9E-11	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 786 862;ID=match$16_786_862;Name=SM00292;status=T;Dbxref="InterPro:IPR001357"
+kfl00063_0090_v1.1	SMART	protein_match	690	766	0.052	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 690 766;ID=match$16_690_766;Name=SM00292;status=T;Dbxref="InterPro:IPR001357"
+kfl00063_0090_v1.1	SMART	protein_match	96	174	2.7E-7	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 96 174;ID=match$16_96_174;Name=SM00292;status=T;Dbxref="InterPro:IPR001357"
+kfl00063_0090_v1.1	MobiDBLite	protein_match	958	972	.	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 958 972;ID=match$17_958_972;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00063_0090_v1.1	ProSiteProfiles	protein_match	784	872	15.704	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 784 872;ID=match$18_784_872;signature_desc=BRCT domain profile.;Name=PS50172;status=T;Dbxref="InterPro:IPR001357"
+kfl00063_0090_v1.1	CDD	protein_match	185	262	1.00703E-29	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 185 262;ID=match$19_185_262;signature_desc=BRCT_TopBP1_rpt2_like;Name=cd17731;status=T
+kfl00063_0090_v1.1	MobiDBLite	protein_match	1341	1355	.	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 1341 1355;ID=match$20_1341_1355;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00063_0090_v1.1	SUPERFAMILY	protein_match	58	184	4.43E-21	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 58 184;ID=match$21_58_184;Name=SSF52113;status=T;Dbxref="InterPro:IPR036420"
+kfl00063_0090_v1.1	MobiDBLite	protein_match	490	507	.	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 490 507;ID=match$22_490_507;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00063_0090_v1.1	CDD	protein_match	344	428	8.38645E-30	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 344 428;ID=match$23_344_428;signature_desc=BRCT_TopBP1_rpt3;Name=cd17718;status=T
+kfl00063_0090_v1.1	MobiDBLite	protein_match	444	536	.	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 444 536;ID=match$24_444_536;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00063_0090_v1.1	MobiDBLite	protein_match	628	686	.	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 628 686;ID=match$25_628_686;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00063_0090_v1.1	Gene3D	protein_match	783	876	1.5E-19	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 783 876;ID=match$26_783_876;Name=G3DSA:3.40.50.10190;status=T;Dbxref="InterPro:IPR036420"
+kfl00063_0090_v1.1	ProSiteProfiles	protein_match	182	272	16.428	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 182 272;ID=match$27_182_272;signature_desc=BRCT domain profile.;Name=PS50172;status=T;Dbxref="InterPro:IPR001357"
+kfl00063_0090_v1.1	SUPERFAMILY	protein_match	347	438	1.7E-12	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 347 438;ID=match$28_347_438;Name=SSF52113;status=T;Dbxref="InterPro:IPR036420"
+kfl00063_0090_v1.1	Gene3D	protein_match	680	776	1.2E-13	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 680 776;ID=match$29_680_776;Name=G3DSA:3.40.50.10190;status=T;Dbxref="InterPro:IPR036420"
+kfl00063_0090_v1.1	Gene3D	protein_match	185	272	1.3E-22	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 185 272;ID=match$30_185_272;Name=G3DSA:3.40.50.10190;status=T;Dbxref="InterPro:IPR036420"
+kfl00063_0090_v1.1	Gene3D	protein_match	338	438	1.1E-12	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 338 438;ID=match$30_338_438;Name=G3DSA:3.40.50.10190;status=T;Dbxref="InterPro:IPR036420"
+kfl00063_0090_v1.1	ProSiteProfiles	protein_match	688	776	16.205	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 688 776;ID=match$31_688_776;signature_desc=BRCT domain profile.;Name=PS50172;status=T;Dbxref="InterPro:IPR001357"
+kfl00063_0090_v1.1	MobiDBLite	protein_match	455	469	.	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 455 469;ID=match$32_455_469;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00063_0090_v1.1	MobiDBLite	protein_match	1238	1276	.	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 1238 1276;ID=match$33_1238_1276;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00063_0090_v1.1	MobiDBLite	protein_match	1174	1202	.	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 1174 1202;ID=match$34_1174_1202;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00063_0090_v1.1	MobiDBLite	protein_match	1339	1378	.	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 1339 1378;ID=match$35_1339_1378;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00063_0090_v1.1	PANTHER	protein_match	48	1347	7.8E-96	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 48 1347;ID=match$36_48_1347;Name=PTHR13561;status=T
+kfl00063_0090_v1.1	SUPERFAMILY	protein_match	689	773	8.51E-9	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 689 773;ID=match$37_689_773;Name=SSF52113;status=T;Dbxref="InterPro:IPR036420"
+kfl00063_0090_v1.1	CDD	protein_match	792	858	2.58491E-13	+	.	date=21-02-2022;Target=kfl00063_0090_v1.1 792 858;ID=match$38_792_858;signature_desc=BRCT;Name=cd00027;status=T
+kfl00228_0010_v1.1	.	polypeptide	1	86	.	+	.	ID=kfl00228_0010_v1.1;md5=bfcd7cd812d9003408cc5f814abff810
+kfl00228_0010_v1.1	PIRSF	protein_match	2	83	3.4E-20	+	.	date=21-02-2022;Target=kfl00228_0010_v1.1 2 83;ID=match$39_2_83;Name=PIRSF037188;status=T
+kfl00228_0010_v1.1	PANTHER	protein_match	1	77	4.0E-40	+	.	date=21-02-2022;Target=kfl00228_0010_v1.1 1 77;ID=match$40_1_77;Name=PTHR10553:SF29;status=T
+kfl00228_0010_v1.1	Pfam	protein_match	9	72	1.2E-23	+	.	date=21-02-2022;Target=kfl00228_0010_v1.1 9 72;ID=match$41_9_72;signature_desc=LSM domain;Name=PF01423;status=T;Dbxref="InterPro:IPR001163"
+kfl00228_0010_v1.1	PANTHER	protein_match	1	77	4.0E-40	+	.	date=21-02-2022;Target=kfl00228_0010_v1.1 1 77;ID=match$42_1_77;Name=PTHR10553;status=T;Dbxref="InterPro:IPR044641"
+kfl00228_0010_v1.1	SUPERFAMILY	protein_match	8	78	1.11E-21	+	.	date=21-02-2022;Target=kfl00228_0010_v1.1 8 78;ID=match$43_8_78;Name=SSF50182;status=T;Dbxref="InterPro:IPR010920"
+kfl00228_0010_v1.1	SMART	protein_match	8	73	5.5E-26	+	.	date=21-02-2022;Target=kfl00228_0010_v1.1 8 73;ID=match$44_8_73;Name=SM00651;status=T;Dbxref="InterPro:IPR001163"
+kfl00228_0010_v1.1	Gene3D	protein_match	1	77	4.8E-27	+	.	date=21-02-2022;Target=kfl00228_0010_v1.1 1 77;ID=match$45_1_77;Name=G3DSA:2.30.30.100;status=T
+kfl00228_0010_v1.1	CDD	protein_match	6	75	1.30722E-42	+	.	date=21-02-2022;Target=kfl00228_0010_v1.1 6 75;ID=match$46_6_75;signature_desc=Sm_G;Name=cd01719;status=T;Dbxref="InterPro:IPR034098"
+kfl00234_0010_v1.1	.	polypeptide	1	779	.	+	.	ID=kfl00234_0010_v1.1;md5=06c76730ac40d9533a1ef060e743aa83
+kfl00234_0010_v1.1	Pfam	protein_match	42	763	1.7E-250	+	.	date=21-02-2022;Target=kfl00234_0010_v1.1 42 763;ID=match$47_42_763;signature_desc=Inorganic H+ pyrophosphatase;Name=PF03030;status=T;Dbxref="InterPro:IPR004131"
+kfl00234_0010_v1.1	PANTHER	protein_match	34	775	0.0	+	.	date=21-02-2022;Target=kfl00234_0010_v1.1 34 775;ID=match$48_34_775;Name=PTHR31998:SF34;status=T
+kfl00234_0010_v1.1	TIGRFAM	protein_match	33	773	0.0	+	.	date=21-02-2022;Target=kfl00234_0010_v1.1 33 773;ID=match$49_33_773;signature_desc=V_PPase: V-type H(+)-translocating pyrophosphatase;Name=TIGR01104;status=T;Dbxref="InterPro:IPR004131"
+kfl00234_0010_v1.1	PIRSF	protein_match	27	775	1.1E-269	+	.	date=21-02-2022;Target=kfl00234_0010_v1.1 27 775;ID=match$50_27_775;Name=PIRSF001265;status=T;Dbxref="InterPro:IPR004131"
+kfl00234_0010_v1.1	PANTHER	protein_match	34	775	0.0	+	.	date=21-02-2022;Target=kfl00234_0010_v1.1 34 775;ID=match$51_34_775;Name=PTHR31998;status=T;Dbxref="InterPro:IPR004131"
+kfl00862_0020_v1.1	.	polypeptide	1	435	.	+	.	ID=kfl00862_0020_v1.1;md5=f3d71bcb9a71b7e6ce38d6ab7e55fa24
+kfl00862_0020_v1.1	Coils	protein_match	135	155	.	+	.	date=21-02-2022;Target=kfl00862_0020_v1.1 135 155;ID=match$52_135_155;Name=Coil;status=T
+kfl00862_0020_v1.1	MobiDBLite	protein_match	401	423	.	+	.	date=21-02-2022;Target=kfl00862_0020_v1.1 401 423;ID=match$53_401_423;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00862_0020_v1.1	Coils	protein_match	44	64	.	+	.	date=21-02-2022;Target=kfl00862_0020_v1.1 44 64;ID=match$54_44_64;Name=Coil;status=T
+kfl00862_0020_v1.1	Coils	protein_match	173	208	.	+	.	date=21-02-2022;Target=kfl00862_0020_v1.1 173 208;ID=match$55_173_208;Name=Coil;status=T
+kfl00862_0020_v1.1	MobiDBLite	protein_match	401	422	.	+	.	date=21-02-2022;Target=kfl00862_0020_v1.1 401 422;ID=match$56_401_422;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00862_0020_v1.1	MobiDBLite	protein_match	1	33	.	+	.	date=21-02-2022;Target=kfl00862_0020_v1.1 1 33;ID=match$57_1_33;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00170_0140_v1.1	.	polypeptide	1	915	.	+	.	ID=kfl00170_0140_v1.1;md5=ca1e5c584336fa3ccca8646b885a163f
+kfl00170_0140_v1.1	Coils	protein_match	434	461	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 434 461;ID=match$58_434_461;Name=Coil;status=T
+kfl00170_0140_v1.1	MobiDBLite	protein_match	32	57	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 32 57;ID=match$59_32_57;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00170_0140_v1.1	Coils	protein_match	169	189	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 169 189;ID=match$60_169_189;Name=Coil;status=T
+kfl00170_0140_v1.1	MobiDBLite	protein_match	893	915	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 893 915;ID=match$61_893_915;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00170_0140_v1.1	Coils	protein_match	596	672	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 596 672;ID=match$62_596_672;Name=Coil;status=T
+kfl00170_0140_v1.1	PANTHER	protein_match	327	834	3.8E-86	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 327 834;ID=match$63_327_834;Name=PTHR18921:SF3;status=T
+kfl00170_0140_v1.1	MobiDBLite	protein_match	278	325	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 278 325;ID=match$64_278_325;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00170_0140_v1.1	PANTHER	protein_match	327	834	3.8E-86	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 327 834;ID=match$65_327_834;Name=PTHR18921;status=T
+kfl00170_0140_v1.1	MobiDBLite	protein_match	806	825	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 806 825;ID=match$66_806_825;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00170_0140_v1.1	Coils	protein_match	102	167	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 102 167;ID=match$67_102_167;Name=Coil;status=T
+kfl00170_0140_v1.1	MobiDBLite	protein_match	868	915	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 868 915;ID=match$68_868_915;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00170_0140_v1.1	PANTHER	protein_match	1	127	3.8E-86	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 1 127;ID=match$69_1_127;Name=PTHR18921:SF3;status=T
+kfl00170_0140_v1.1	MobiDBLite	protein_match	346	389	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 346 389;ID=match$70_346_389;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00170_0140_v1.1	MobiDBLite	protein_match	407	480	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 407 480;ID=match$71_407_480;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00170_0140_v1.1	MobiDBLite	protein_match	279	293	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 279 293;ID=match$72_279_293;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00170_0140_v1.1	MobiDBLite	protein_match	358	389	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 358 389;ID=match$73_358_389;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00170_0140_v1.1	Coils	protein_match	205	249	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 205 249;ID=match$74_205_249;Name=Coil;status=T
+kfl00170_0140_v1.1	Coils	protein_match	551	575	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 551 575;ID=match$75_551_575;Name=Coil;status=T
+kfl00170_0140_v1.1	Coils	protein_match	67	87	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 67 87;ID=match$76_67_87;Name=Coil;status=T
+kfl00170_0140_v1.1	Coils	protein_match	777	801	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 777 801;ID=match$77_777_801;Name=Coil;status=T
+kfl00170_0140_v1.1	Coils	protein_match	466	546	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 466 546;ID=match$78_466_546;Name=Coil;status=T
+kfl00170_0140_v1.1	PANTHER	protein_match	1	127	3.8E-86	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 1 127;ID=match$79_1_127;Name=PTHR18921;status=T
+kfl00170_0140_v1.1	MobiDBLite	protein_match	19	57	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 19 57;ID=match$80_19_57;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00170_0140_v1.1	Coils	protein_match	356	383	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 356 383;ID=match$81_356_383;Name=Coil;status=T
+kfl00170_0140_v1.1	Coils	protein_match	261	351	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 261 351;ID=match$82_261_351;Name=Coil;status=T
+kfl00170_0140_v1.1	Coils	protein_match	403	423	.	+	.	date=21-02-2022;Target=kfl00170_0140_v1.1 403 423;ID=match$83_403_423;Name=Coil;status=T
+kfl00019_0480_v1.1	.	polypeptide	1	178	.	+	.	ID=kfl00019_0480_v1.1;md5=fb77d4b894e41a62b3eae25ba4df15a3
+kfl00019_0480_v1.1	ProSiteProfiles	protein_match	61	158	52.317	+	.	date=21-02-2022;Target=kfl00019_0480_v1.1 61 158;ID=match$84_61_158;signature_desc=Yippee domain profile.;Name=PS51792;status=T;Dbxref="InterPro:IPR034751"
+kfl00019_0480_v1.1	Pfam	protein_match	63	154	2.1E-16	+	.	date=21-02-2022;Target=kfl00019_0480_v1.1 63 154;ID=match$85_63_154;signature_desc=Yippee zinc-binding/DNA-binding /Mis18, centromere assembly;Name=PF03226;status=T;Dbxref="InterPro:IPR004910"
+kfl00019_0480_v1.1	PANTHER	protein_match	50	176	9.5E-56	+	.	date=21-02-2022;Target=kfl00019_0480_v1.1 50 176;ID=match$86_50_176;Name=PTHR13848;status=T;Dbxref="InterPro:IPR039058"
+kfl00019_0480_v1.1	PANTHER	protein_match	50	176	9.5E-56	+	.	date=21-02-2022;Target=kfl00019_0480_v1.1 50 176;ID=match$87_50_176;Name=PTHR13848:SF56;status=T
+kfl00710_g3_v1.1	.	polypeptide	1	262	.	+	.	ID=kfl00710_g3_v1.1;md5=12148b374236bfb16f19b1a308c07edb
+kfl00710_g3_v1.1	PANTHER	protein_match	14	261	4.8E-114	+	.	date=21-02-2022;Target=kfl00710_g3_v1.1 14 261;ID=match$88_14_261;Name=PTHR43860;status=T
+kfl00710_g3_v1.1	Pfam	protein_match	27	261	6.0E-63	+	.	date=21-02-2022;Target=kfl00710_g3_v1.1 27 261;ID=match$89_27_261;signature_desc=Aldehyde dehydrogenase family;Name=PF00171;status=T;Dbxref="InterPro:IPR015590"
+kfl00710_g3_v1.1	Gene3D	protein_match	15	262	2.1E-80	+	.	date=21-02-2022;Target=kfl00710_g3_v1.1 15 262;ID=match$90_15_262;Name=G3DSA:3.40.605.10;status=T;Dbxref="InterPro:IPR016162"
+kfl00710_g3_v1.1	SUPERFAMILY	protein_match	14	261	1.57E-64	+	.	date=21-02-2022;Target=kfl00710_g3_v1.1 14 261;ID=match$91_14_261;Name=SSF53720;status=T;Dbxref="InterPro:IPR016161"
+kfl00693_0050_v1.1	.	polypeptide	1	473	.	+	.	ID=kfl00693_0050_v1.1;md5=e4f12c03a41692f5a4759e76a107387e
+kfl00693_0050_v1.1	ProSitePatterns	protein_match	94	109	.	+	.	date=21-02-2022;Target=kfl00693_0050_v1.1 94 109;ID=match$92_94_109;signature_desc=Chorismate synthase signature 1.;Name=PS00787;status=T;Dbxref="InterPro:IPR020541"
+kfl00693_0050_v1.1	PANTHER	protein_match	59	447	1.9E-196	+	.	date=21-02-2022;Target=kfl00693_0050_v1.1 59 447;ID=match$93_59_447;Name=PTHR21085;status=T;Dbxref="InterPro:IPR000453"
+kfl00693_0050_v1.1	TIGRFAM	protein_match	88	439	4.3E-138	+	.	date=21-02-2022;Target=kfl00693_0050_v1.1 88 439;ID=match$94_88_439;signature_desc=aroC: chorismate synthase;Name=TIGR00033;status=T;Dbxref="InterPro:IPR000453"
+kfl00693_0050_v1.1	CDD	protein_match	88	432	0.0	+	.	date=21-02-2022;Target=kfl00693_0050_v1.1 88 432;ID=match$95_88_432;signature_desc=Chorismate_synthase;Name=cd07304;status=T;Dbxref="InterPro:IPR000453"
+kfl00693_0050_v1.1	ProSitePatterns	protein_match	409	425	.	+	.	date=21-02-2022;Target=kfl00693_0050_v1.1 409 425;ID=match$96_409_425;signature_desc=Chorismate synthase signature 3.;Name=PS00789;status=T;Dbxref="InterPro:IPR020541"
+kfl00693_0050_v1.1	Gene3D	protein_match	88	471	3.0E-154	+	.	date=21-02-2022;Target=kfl00693_0050_v1.1 88 471;ID=match$97_88_471;Name=G3DSA:3.60.150.10;status=T;Dbxref="InterPro:IPR035904"
+kfl00693_0050_v1.1	SUPERFAMILY	protein_match	82	441	1.05E-138	+	.	date=21-02-2022;Target=kfl00693_0050_v1.1 82 441;ID=match$98_82_441;Name=SSF103263;status=T;Dbxref="InterPro:IPR035904"
+kfl00693_0050_v1.1	Coils	protein_match	473	473	.	+	.	date=21-02-2022;Target=kfl00693_0050_v1.1 473 473;ID=match$99_473_473;Name=Coil;status=T
+kfl00693_0050_v1.1	ProSitePatterns	protein_match	202	218	.	+	.	date=21-02-2022;Target=kfl00693_0050_v1.1 202 218;ID=match$100_202_218;signature_desc=Chorismate synthase signature 2.;Name=PS00788;status=T;Dbxref="InterPro:IPR020541"
+kfl00693_0050_v1.1	Pfam	protein_match	88	435	1.2E-139	+	.	date=21-02-2022;Target=kfl00693_0050_v1.1 88 435;ID=match$101_88_435;signature_desc=Chorismate synthase;Name=PF01264;status=T;Dbxref="InterPro:IPR000453"
+kfl00693_0050_v1.1	PANTHER	protein_match	59	447	1.9E-196	+	.	date=21-02-2022;Target=kfl00693_0050_v1.1 59 447;ID=match$102_59_447;Name=PTHR21085:SF1;status=T
+kfl00896_0030_v1.1	.	polypeptide	1	634	.	+	.	ID=kfl00896_0030_v1.1;md5=94741039f934d3b3f470819b7d3c800d
+kfl00896_0030_v1.1	MobiDBLite	protein_match	354	373	.	+	.	date=21-02-2022;Target=kfl00896_0030_v1.1 354 373;ID=match$103_354_373;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00896_0030_v1.1	SUPERFAMILY	protein_match	115	254	1.7E-7	+	.	date=21-02-2022;Target=kfl00896_0030_v1.1 115 254;ID=match$104_115_254;Name=SSF52540;status=T;Dbxref="InterPro:IPR027417"
+kfl00896_0030_v1.1	PANTHER	protein_match	7	631	6.2E-158	+	.	date=21-02-2022;Target=kfl00896_0030_v1.1 7 631;ID=match$105_7_631;Name=PTHR33477;status=T
+kfl00896_0030_v1.1	MobiDBLite	protein_match	507	537	.	+	.	date=21-02-2022;Target=kfl00896_0030_v1.1 507 537;ID=match$106_507_537;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00896_0030_v1.1	Gene3D	protein_match	113	291	7.0E-8	+	.	date=21-02-2022;Target=kfl00896_0030_v1.1 113 291;ID=match$107_113_291;Name=G3DSA:3.40.50.300;status=T
+kfl00896_0030_v1.1	PANTHER	protein_match	7	631	6.2E-158	+	.	date=21-02-2022;Target=kfl00896_0030_v1.1 7 631;ID=match$108_7_631;Name=PTHR33477:SF2;status=T
+kfl00896_0030_v1.1	MobiDBLite	protein_match	229	315	.	+	.	date=21-02-2022;Target=kfl00896_0030_v1.1 229 315;ID=match$109_229_315;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00896_0030_v1.1	MobiDBLite	protein_match	404	538	.	+	.	date=21-02-2022;Target=kfl00896_0030_v1.1 404 538;ID=match$110_404_538;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00896_0030_v1.1	MobiDBLite	protein_match	480	494	.	+	.	date=21-02-2022;Target=kfl00896_0030_v1.1 480 494;ID=match$111_480_494;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00896_0030_v1.1	MobiDBLite	protein_match	231	294	.	+	.	date=21-02-2022;Target=kfl00896_0030_v1.1 231 294;ID=match$112_231_294;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00242_0170_v1.1	.	polypeptide	1	178	.	+	.	ID=kfl00242_0170_v1.1;md5=9c0d637e4a4f30465732b7c2d180b8d6
+kfl00242_0170_v1.1	PANTHER	protein_match	40	164	1.1E-45	+	.	date=21-02-2022;Target=kfl00242_0170_v1.1 40 164;ID=match$113_40_164;Name=PTHR15907:SF165;status=T
+kfl00242_0170_v1.1	TIGRFAM	protein_match	46	148	7.3E-28	+	.	date=21-02-2022;Target=kfl00242_0170_v1.1 46 148;ID=match$114_46_148;signature_desc=A_thal_Cys_rich: uncharacterized Cys-rich domain;Name=TIGR01571;status=T;Dbxref="InterPro:IPR006461"
+kfl00242_0170_v1.1	PANTHER	protein_match	40	164	1.1E-45	+	.	date=21-02-2022;Target=kfl00242_0170_v1.1 40 164;ID=match$115_40_164;Name=PTHR15907;status=T;Dbxref="InterPro:IPR006461"
+kfl00242_0170_v1.1	Pfam	protein_match	48	146	9.5E-24	+	.	date=21-02-2022;Target=kfl00242_0170_v1.1 48 146;ID=match$116_48_146;signature_desc=PLAC8 family;Name=PF04749;status=T;Dbxref="InterPro:IPR006461"
+kfl00348_0050_v1.1	.	polypeptide	1	334	.	+	.	ID=kfl00348_0050_v1.1;md5=a07e422f6d15af76f8cf857298da9a23
+kfl00348_0050_v1.1	PANTHER	protein_match	7	334	3.8E-118	+	.	date=21-02-2022;Target=kfl00348_0050_v1.1 7 334;ID=match$117_7_334;Name=PTHR10802:SF4;status=T
+kfl00348_0050_v1.1	CDD	protein_match	53	333	5.60402E-100	+	.	date=21-02-2022;Target=kfl00348_0050_v1.1 53 333;ID=match$118_53_333;signature_desc=Porin3_Tom40;Name=cd07305;status=T;Dbxref="InterPro:IPR037930"
+kfl00348_0050_v1.1	Gene3D	protein_match	52	332	1.9E-28	+	.	date=21-02-2022;Target=kfl00348_0050_v1.1 52 332;ID=match$119_52_332;Name=G3DSA:2.40.160.10;status=T;Dbxref="InterPro:IPR023614"
+kfl00348_0050_v1.1	PANTHER	protein_match	7	334	3.8E-118	+	.	date=21-02-2022;Target=kfl00348_0050_v1.1 7 334;ID=match$120_7_334;Name=PTHR10802;status=T;Dbxref="InterPro:IPR037930"
+kfl00348_0050_v1.1	MobiDBLite	protein_match	1	32	.	+	.	date=21-02-2022;Target=kfl00348_0050_v1.1 1 32;ID=match$121_1_32;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00348_0050_v1.1	Pfam	protein_match	56	327	5.6E-63	+	.	date=21-02-2022;Target=kfl00348_0050_v1.1 56 327;ID=match$122_56_327;signature_desc=Eukaryotic porin;Name=PF01459;status=T;Dbxref="InterPro:IPR027246"
+kfl00219_0110_v1.1	.	polypeptide	1	520	.	+	.	ID=kfl00219_0110_v1.1;md5=f81a520074d6464c815f4f7b2e6f1df9
+kfl00219_0110_v1.1	Coils	protein_match	370	390	.	+	.	date=21-02-2022;Target=kfl00219_0110_v1.1 370 390;ID=match$123_370_390;Name=Coil;status=T
+kfl00219_0110_v1.1	MobiDBLite	protein_match	147	181	.	+	.	date=21-02-2022;Target=kfl00219_0110_v1.1 147 181;ID=match$124_147_181;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00219_0110_v1.1	MobiDBLite	protein_match	376	494	.	+	.	date=21-02-2022;Target=kfl00219_0110_v1.1 376 494;ID=match$125_376_494;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00219_0110_v1.1	MobiDBLite	protein_match	467	493	.	+	.	date=21-02-2022;Target=kfl00219_0110_v1.1 467 493;ID=match$126_467_493;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00219_0110_v1.1	MobiDBLite	protein_match	89	115	.	+	.	date=21-02-2022;Target=kfl00219_0110_v1.1 89 115;ID=match$127_89_115;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00219_0110_v1.1	MobiDBLite	protein_match	66	212	.	+	.	date=21-02-2022;Target=kfl00219_0110_v1.1 66 212;ID=match$128_66_212;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00219_0110_v1.1	MobiDBLite	protein_match	420	447	.	+	.	date=21-02-2022;Target=kfl00219_0110_v1.1 420 447;ID=match$129_420_447;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00219_0110_v1.1	Pfam	protein_match	265	349	2.5E-32	+	.	date=21-02-2022;Target=kfl00219_0110_v1.1 265 349;ID=match$130_265_349;signature_desc=Family of unknown function (DUF5767);Name=PF19071;status=T;Dbxref="InterPro:IPR043910"
+kfl00219_0110_v1.1	MobiDBLite	protein_match	376	397	.	+	.	date=21-02-2022;Target=kfl00219_0110_v1.1 376 397;ID=match$131_376_397;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00021_0230_v1.1	.	polypeptide	1	417	.	+	.	ID=kfl00021_0230_v1.1;md5=6f0d25dca24b0b2e371e2db0de475297
+kfl00021_0230_v1.1	SUPERFAMILY	protein_match	103	368	1.88E-94	+	.	date=21-02-2022;Target=kfl00021_0230_v1.1 103 368;ID=match$132_103_368;Name=SSF51621;status=T;Dbxref="InterPro:IPR015813"
+kfl00021_0230_v1.1	Pfam	protein_match	102	364	8.6E-108	+	.	date=21-02-2022;Target=kfl00021_0230_v1.1 102 364;ID=match$133_102_364;signature_desc=Ketopantoate hydroxymethyltransferase;Name=PF02548;status=T;Dbxref="InterPro:IPR003700"
+kfl00021_0230_v1.1	PANTHER	protein_match	79	399	4.6E-153	+	.	date=21-02-2022;Target=kfl00021_0230_v1.1 79 399;ID=match$134_79_399;Name=PTHR20881;status=T;Dbxref="InterPro:IPR003700"
+kfl00021_0230_v1.1	PANTHER	protein_match	79	399	4.6E-153	+	.	date=21-02-2022;Target=kfl00021_0230_v1.1 79 399;ID=match$135_79_399;Name=PTHR20881:SF1;status=T
+kfl00021_0230_v1.1	PIRSR	protein_match	110	364	1.9E-90	+	.	date=21-02-2022;Target=kfl00021_0230_v1.1 110 364;ID=match$136_110_364;Name=PIRSR000388-1;status=T
+kfl00021_0230_v1.1	Gene3D	protein_match	100	381	1.1E-117	+	.	date=21-02-2022;Target=kfl00021_0230_v1.1 100 381;ID=match$137_100_381;Name=G3DSA:3.20.20.60;status=T;Dbxref="InterPro:IPR040442"
+kfl00021_0230_v1.1	CDD	protein_match	107	363	3.43495E-153	+	.	date=21-02-2022;Target=kfl00021_0230_v1.1 107 363;ID=match$138_107_363;signature_desc=KPHMT-like;Name=cd06557;status=T;Dbxref="InterPro:IPR003700"
+kfl00021_0230_v1.1	TIGRFAM	protein_match	104	367	1.9E-90	+	.	date=21-02-2022;Target=kfl00021_0230_v1.1 104 367;ID=match$139_104_367;signature_desc=panB: 3-methyl-2-oxobutanoate hydroxymethyltransferase;Name=TIGR00222;status=T;Dbxref="InterPro:IPR003700"
+kfl00556_0110_v1.1	.	polypeptide	1	478	.	+	.	ID=kfl00556_0110_v1.1;md5=96a234872bcfe5caf3b264d14f4e68a6
+kfl00556_0110_v1.1	MobiDBLite	protein_match	452	478	.	+	.	date=21-02-2022;Target=kfl00556_0110_v1.1 452 478;ID=match$140_452_478;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00556_0110_v1.1	MobiDBLite	protein_match	127	150	.	+	.	date=21-02-2022;Target=kfl00556_0110_v1.1 127 150;ID=match$141_127_150;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00556_0110_v1.1	MobiDBLite	protein_match	104	254	.	+	.	date=21-02-2022;Target=kfl00556_0110_v1.1 104 254;ID=match$142_104_254;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00556_0110_v1.1	MobiDBLite	protein_match	192	239	.	+	.	date=21-02-2022;Target=kfl00556_0110_v1.1 192 239;ID=match$143_192_239;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00556_0110_v1.1	MobiDBLite	protein_match	271	432	.	+	.	date=21-02-2022;Target=kfl00556_0110_v1.1 271 432;ID=match$144_271_432;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00556_0110_v1.1	MobiDBLite	protein_match	298	362	.	+	.	date=21-02-2022;Target=kfl00556_0110_v1.1 298 362;ID=match$145_298_362;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00556_0110_v1.1	MobiDBLite	protein_match	155	170	.	+	.	date=21-02-2022;Target=kfl00556_0110_v1.1 155 170;ID=match$146_155_170;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00556_0110_v1.1	MobiDBLite	protein_match	277	291	.	+	.	date=21-02-2022;Target=kfl00556_0110_v1.1 277 291;ID=match$147_277_291;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00511_0070_v1.1	.	polypeptide	1	436	.	+	.	ID=kfl00511_0070_v1.1;md5=c59ebdbeff23a9d02abfb0ecddf8dd61
+kfl00511_0070_v1.1	Gene3D	protein_match	334	427	2.1E-5	+	.	date=21-02-2022;Target=kfl00511_0070_v1.1 334 427;ID=match$148_334_427;Name=G3DSA:3.30.40.10;status=T;Dbxref="InterPro:IPR013083"
+kfl00511_0070_v1.1	ProSiteProfiles	protein_match	359	419	8.816	+	.	date=21-02-2022;Target=kfl00511_0070_v1.1 359 419;ID=match$149_359_419;signature_desc=Zinc finger RING-type profile.;Name=PS50089;status=T;Dbxref="InterPro:IPR001841"
+kfl01062_0020_v1.1	.	polypeptide	1	1429	.	+	.	ID=kfl01062_0020_v1.1;md5=d2379b50eba9dc561f645fc07b41418d
+kfl01062_0020_v1.1	MobiDBLite	protein_match	1017	1043	.	+	.	date=21-02-2022;Target=kfl01062_0020_v1.1 1017 1043;ID=match$150_1017_1043;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl01062_0020_v1.1	SUPERFAMILY	protein_match	618	643	2.79E-5	+	.	date=21-02-2022;Target=kfl01062_0020_v1.1 618 643;ID=match$151_618_643;Name=SSF57756;status=T;Dbxref="InterPro:IPR036875"
+kfl01062_0020_v1.1	SMART	protein_match	623	639	0.011	+	.	date=21-02-2022;Target=kfl01062_0020_v1.1 623 639;ID=match$152_623_639;Name=SM00343;status=T;Dbxref="InterPro:IPR001878"
+kfl01062_0020_v1.1	SMART	protein_match	667	683	0.02	+	.	date=21-02-2022;Target=kfl01062_0020_v1.1 667 683;ID=match$152_667_683;Name=SM00343;status=T;Dbxref="InterPro:IPR001878"
+kfl01062_0020_v1.1	Gene3D	protein_match	608	690	1.0E-9	+	.	date=21-02-2022;Target=kfl01062_0020_v1.1 608 690;ID=match$153_608_690;Name=G3DSA:4.10.60.10;status=T
+kfl01062_0020_v1.1	MobiDBLite	protein_match	306	352	.	+	.	date=21-02-2022;Target=kfl01062_0020_v1.1 306 352;ID=match$154_306_352;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl01062_0020_v1.1	Coils	protein_match	302	325	.	+	.	date=21-02-2022;Target=kfl01062_0020_v1.1 302 325;ID=match$155_302_325;Name=Coil;status=T
+kfl01062_0020_v1.1	MobiDBLite	protein_match	776	803	.	+	.	date=21-02-2022;Target=kfl01062_0020_v1.1 776 803;ID=match$156_776_803;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl01062_0020_v1.1	MobiDBLite	protein_match	638	659	.	+	.	date=21-02-2022;Target=kfl01062_0020_v1.1 638 659;ID=match$157_638_659;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl01062_0020_v1.1	Pfam	protein_match	623	639	0.0045	+	.	date=21-02-2022;Target=kfl01062_0020_v1.1 623 639;ID=match$158_623_639;signature_desc=Zinc knuckle;Name=PF00098;status=T;Dbxref="InterPro:IPR001878"
+kfl01062_0020_v1.1	ProSiteProfiles	protein_match	668	683	8.812	+	.	date=21-02-2022;Target=kfl01062_0020_v1.1 668 683;ID=match$159_668_683;signature_desc=Zinc finger CCHC-type profile.;Name=PS50158;status=T;Dbxref="InterPro:IPR001878"
+kfl01062_0020_v1.1	MobiDBLite	protein_match	956	996	.	+	.	date=21-02-2022;Target=kfl01062_0020_v1.1 956 996;ID=match$160_956_996;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl01062_0020_v1.1	ProSiteProfiles	protein_match	624	639	9.603	+	.	date=21-02-2022;Target=kfl01062_0020_v1.1 624 639;ID=match$161_624_639;signature_desc=Zinc finger CCHC-type profile.;Name=PS50158;status=T;Dbxref="InterPro:IPR001878"
+kfl00512_0060_v1.1	.	polypeptide	1	485	.	+	.	ID=kfl00512_0060_v1.1;md5=2feaa0f27b8236d53b0d2b9c59692aa4
+kfl00512_0060_v1.1	Gene3D	protein_match	147	446	8.1E-52	+	.	date=21-02-2022;Target=kfl00512_0060_v1.1 147 446;ID=match$162_147_446;Name=G3DSA:3.20.20.190;status=T;Dbxref="InterPro:IPR017946"
+kfl00512_0060_v1.1	SUPERFAMILY	protein_match	156	439	9.42E-41	+	.	date=21-02-2022;Target=kfl00512_0060_v1.1 156 439;ID=match$163_156_439;Name=SSF51695;status=T;Dbxref="InterPro:IPR017946"
+kfl00512_0060_v1.1	ProSiteProfiles	protein_match	169	445	37.18	+	.	date=21-02-2022;Target=kfl00512_0060_v1.1 169 445;ID=match$164_169_445;signature_desc=GP-PDE domain profile.;Name=PS51704;status=T;Dbxref="InterPro:IPR030395"
+kfl00512_0060_v1.1	Pfam	protein_match	161	438	3.4E-51	+	.	date=21-02-2022;Target=kfl00512_0060_v1.1 161 438;ID=match$165_161_438;signature_desc=Glycerophosphoryl diester phosphodiesterase family;Name=PF03009;status=T;Dbxref="InterPro:IPR030395"
+kfl00512_0060_v1.1	PANTHER	protein_match	153	441	2.8E-102	+	.	date=21-02-2022;Target=kfl00512_0060_v1.1 153 441;ID=match$166_153_441;Name=PTHR22958;status=T
+kfl00098_0080_v1.1	.	polypeptide	1	256	.	+	.	ID=kfl00098_0080_v1.1;md5=76589cd12b1f535e38b0f5c6765c1601
+kfl00098_0080_v1.1	Gene3D	protein_match	47	249	4.4E-86	+	.	date=21-02-2022;Target=kfl00098_0080_v1.1 47 249;ID=match$167_47_249;Name=G3DSA:1.10.3460.10;status=T;Dbxref="InterPro:IPR023329"
+kfl00098_0080_v1.1	Pfam	protein_match	57	222	1.3E-49	+	.	date=21-02-2022;Target=kfl00098_0080_v1.1 57 222;ID=match$168_57_222;signature_desc=Chlorophyll A-B binding protein;Name=PF00504;status=T;Dbxref="InterPro:IPR022796"
+kfl00098_0080_v1.1	PANTHER	protein_match	12	255	9.6E-138	+	.	date=21-02-2022;Target=kfl00098_0080_v1.1 12 255;ID=match$169_12_255;Name=PTHR21649;status=T;Dbxref="InterPro:IPR001344"
+kfl00098_0080_v1.1	PANTHER	protein_match	12	255	9.6E-138	+	.	date=21-02-2022;Target=kfl00098_0080_v1.1 12 255;ID=match$170_12_255;Name=PTHR21649:SF99;status=T
+kfl00098_0080_v1.1	SUPERFAMILY	protein_match	40	252	9.02E-76	+	.	date=21-02-2022;Target=kfl00098_0080_v1.1 40 252;ID=match$171_40_252;Name=SSF103511;status=T
+kfl00179_0280_v1.1	.	polypeptide	1	790	.	+	.	ID=kfl00179_0280_v1.1;md5=3fc20c10d84f7868d6fb1b99ea1e7abb
+kfl00179_0280_v1.1	MobiDBLite	protein_match	319	345	.	+	.	date=21-02-2022;Target=kfl00179_0280_v1.1 319 345;ID=match$172_319_345;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00179_0280_v1.1	MobiDBLite	protein_match	247	268	.	+	.	date=21-02-2022;Target=kfl00179_0280_v1.1 247 268;ID=match$173_247_268;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00179_0280_v1.1	MobiDBLite	protein_match	639	666	.	+	.	date=21-02-2022;Target=kfl00179_0280_v1.1 639 666;ID=match$174_639_666;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00179_0280_v1.1	MobiDBLite	protein_match	224	243	.	+	.	date=21-02-2022;Target=kfl00179_0280_v1.1 224 243;ID=match$175_224_243;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00179_0280_v1.1	MobiDBLite	protein_match	515	702	.	+	.	date=21-02-2022;Target=kfl00179_0280_v1.1 515 702;ID=match$176_515_702;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00179_0280_v1.1	PANTHER	protein_match	24	762	2.2E-81	+	.	date=21-02-2022;Target=kfl00179_0280_v1.1 24 762;ID=match$177_24_762;Name=PTHR14326:SF9;status=T
+kfl00179_0280_v1.1	PANTHER	protein_match	24	762	2.2E-81	+	.	date=21-02-2022;Target=kfl00179_0280_v1.1 24 762;ID=match$178_24_762;Name=PTHR14326;status=T;Dbxref="InterPro:IPR009675"
+kfl00179_0280_v1.1	MobiDBLite	protein_match	753	790	.	+	.	date=21-02-2022;Target=kfl00179_0280_v1.1 753 790;ID=match$179_753_790;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00179_0280_v1.1	MobiDBLite	protein_match	224	281	.	+	.	date=21-02-2022;Target=kfl00179_0280_v1.1 224 281;ID=match$180_224_281;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00179_0280_v1.1	Pfam	protein_match	697	775	1.2E-20	+	.	date=21-02-2022;Target=kfl00179_0280_v1.1 697 775;ID=match$181_697_775;signature_desc=Targeting protein for Xklp2 (TPX2) domain;Name=PF06886;status=T;Dbxref="InterPro:IPR027329"
+kfl00179_0280_v1.1	Pfam	protein_match	349	446	3.0E-21	+	.	date=21-02-2022;Target=kfl00179_0280_v1.1 349 446;ID=match$182_349_446;signature_desc=Cell cycle regulated microtubule associated protein;Name=PF12214;status=T;Dbxref="InterPro:IPR027330"
+kfl00179_0280_v1.1	Pfam	protein_match	457	611	8.6E-18	+	.	date=21-02-2022;Target=kfl00179_0280_v1.1 457 611;ID=match$182_457_611;signature_desc=Cell cycle regulated microtubule associated protein;Name=PF12214;status=T;Dbxref="InterPro:IPR027330"
+kfl00179_0280_v1.1	MobiDBLite	protein_match	554	609	.	+	.	date=21-02-2022;Target=kfl00179_0280_v1.1 554 609;ID=match$183_554_609;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00179_0280_v1.1	Coils	protein_match	713	745	.	+	.	date=21-02-2022;Target=kfl00179_0280_v1.1 713 745;ID=match$184_713_745;Name=Coil;status=T
+kfl00475_0120_v1.1	.	polypeptide	1	506	.	+	.	ID=kfl00475_0120_v1.1;md5=34480e4791d5397d6d6e55d61683cc91
+kfl00475_0120_v1.1	MobiDBLite	protein_match	449	478	.	+	.	date=21-02-2022;Target=kfl00475_0120_v1.1 449 478;ID=match$185_449_478;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00475_0120_v1.1	MobiDBLite	protein_match	416	435	.	+	.	date=21-02-2022;Target=kfl00475_0120_v1.1 416 435;ID=match$186_416_435;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00475_0120_v1.1	MobiDBLite	protein_match	13	28	.	+	.	date=21-02-2022;Target=kfl00475_0120_v1.1 13 28;ID=match$187_13_28;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00475_0120_v1.1	MobiDBLite	protein_match	449	506	.	+	.	date=21-02-2022;Target=kfl00475_0120_v1.1 449 506;ID=match$188_449_506;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00475_0120_v1.1	MobiDBLite	protein_match	244	291	.	+	.	date=21-02-2022;Target=kfl00475_0120_v1.1 244 291;ID=match$189_244_291;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00475_0120_v1.1	Pfam	protein_match	349	379	2.0E-5	+	.	date=21-02-2022;Target=kfl00475_0120_v1.1 349 379;ID=match$190_349_379;signature_desc=Nuclear fragile X mental retardation-interacting protein 1 (NUFIP1);Name=PF10453;status=T;Dbxref="InterPro:IPR019496"
+kfl00475_0120_v1.1	MobiDBLite	protein_match	248	269	.	+	.	date=21-02-2022;Target=kfl00475_0120_v1.1 248 269;ID=match$191_248_269;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00475_0120_v1.1	MobiDBLite	protein_match	408	435	.	+	.	date=21-02-2022;Target=kfl00475_0120_v1.1 408 435;ID=match$192_408_435;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00475_0120_v1.1	MobiDBLite	protein_match	1	35	.	+	.	date=21-02-2022;Target=kfl00475_0120_v1.1 1 35;ID=match$193_1_35;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00475_0120_v1.1	MobiDBLite	protein_match	486	506	.	+	.	date=21-02-2022;Target=kfl00475_0120_v1.1 486 506;ID=match$194_486_506;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00405_0050_v1.1	.	polypeptide	1	291	.	+	.	ID=kfl00405_0050_v1.1;md5=4dd55bfe760d23d7e1627f5af2774d3f
+kfl00405_0050_v1.1	ProSiteProfiles	protein_match	239	271	11.674	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 239 271;ID=match$195_239_271;signature_desc=Ankyrin repeat profile.;Name=PS50088;status=T;Dbxref="InterPro:IPR002110"
+kfl00405_0050_v1.1	ProSiteProfiles	protein_match	206	238	16.162	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 206 238;ID=match$196_206_238;signature_desc=Ankyrin repeat profile.;Name=PS50088;status=T;Dbxref="InterPro:IPR002110"
+kfl00405_0050_v1.1	MobiDBLite	protein_match	263	291	.	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 263 291;ID=match$197_263_291;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00405_0050_v1.1	MobiDBLite	protein_match	1	54	.	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 1 54;ID=match$198_1_54;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00405_0050_v1.1	PANTHER	protein_match	25	288	1.3E-45	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 25 288;ID=match$199_25_288;Name=PTHR24119:SF4;status=T
+kfl00405_0050_v1.1	ProSiteProfiles	protein_match	48	136	34.475	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 48 136;ID=match$200_48_136;signature_desc=Acyl-CoA-binding (ACB) domain profile.;Name=PS51228;status=T;Dbxref="InterPro:IPR000582"
+kfl00405_0050_v1.1	SUPERFAMILY	protein_match	48	134	1.7E-24	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 48 134;ID=match$201_48_134;Name=SSF47027;status=T;Dbxref="InterPro:IPR035984"
+kfl00405_0050_v1.1	Gene3D	protein_match	171	282	8.5E-36	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 171 282;ID=match$202_171_282;Name=G3DSA:1.25.40.20;status=T;Dbxref="InterPro:IPR036770"
+kfl00405_0050_v1.1	MobiDBLite	protein_match	138	182	.	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 138 182;ID=match$203_138_182;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00405_0050_v1.1	MobiDBLite	protein_match	142	159	.	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 142 159;ID=match$204_142_159;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00405_0050_v1.1	Pfam	protein_match	49	130	8.6E-24	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 49 130;ID=match$205_49_130;signature_desc=Acyl CoA binding protein;Name=PF00887;status=T;Dbxref="InterPro:IPR000582"
+kfl00405_0050_v1.1	PRINTS	protein_match	207	222	6.6E-5	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 207 222;ID=match$206_207_222;signature_desc=Ankyrin repeat signature;Name=PR01415;status=T;Dbxref="InterPro:IPR002110"
+kfl00405_0050_v1.1	PRINTS	protein_match	255	269	6.6E-5	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 255 269;ID=match$206_255_269;signature_desc=Ankyrin repeat signature;Name=PR01415;status=T;Dbxref="InterPro:IPR002110"
+kfl00405_0050_v1.1	SUPERFAMILY	protein_match	177	279	7.77E-30	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 177 279;ID=match$207_177_279;Name=SSF48403;status=T;Dbxref="InterPro:IPR036770"
+kfl00405_0050_v1.1	SMART	protein_match	239	268	0.007	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 239 268;ID=match$208_239_268;Name=SM00248;status=T;Dbxref="InterPro:IPR002110"
+kfl00405_0050_v1.1	SMART	protein_match	206	235	1.2E-8	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 206 235;ID=match$208_206_235;Name=SM00248;status=T;Dbxref="InterPro:IPR002110"
+kfl00405_0050_v1.1	Pfam	protein_match	193	247	2.4E-16	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 193 247;ID=match$209_193_247;signature_desc=Ankyrin repeats (many copies);Name=PF13857;status=T
+kfl00405_0050_v1.1	PRINTS	protein_match	92	107	1.3E-10	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 92 107;ID=match$210_92_107;signature_desc=Acyl-coA-binding protein signature;Name=PR00689;status=T;Dbxref="InterPro:IPR000582"
+kfl00405_0050_v1.1	PRINTS	protein_match	113	130	1.3E-10	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 113 130;ID=match$210_113_130;signature_desc=Acyl-coA-binding protein signature;Name=PR00689;status=T;Dbxref="InterPro:IPR000582"
+kfl00405_0050_v1.1	PRINTS	protein_match	69	87	1.3E-10	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 69 87;ID=match$210_69_87;signature_desc=Acyl-coA-binding protein signature;Name=PR00689;status=T;Dbxref="InterPro:IPR000582"
+kfl00405_0050_v1.1	PANTHER	protein_match	25	288	1.3E-45	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 25 288;ID=match$211_25_288;Name=PTHR24119;status=T
+kfl00405_0050_v1.1	Gene3D	protein_match	44	148	1.1E-28	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 44 148;ID=match$212_44_148;Name=G3DSA:1.20.80.10;status=T;Dbxref="InterPro:IPR014352"
+kfl00405_0050_v1.1	ProSiteProfiles	protein_match	182	279	32.545	+	.	date=21-02-2022;Target=kfl00405_0050_v1.1 182 279;ID=match$213_182_279;signature_desc=Ankyrin repeat region circular profile.;Name=PS50297;status=T;Dbxref="InterPro:IPR020683"
+kfl00722_0010_v1.1	.	polypeptide	1	580	.	+	.	ID=kfl00722_0010_v1.1;md5=a41e5811d68c13c74344946d477ae708
+kfl00722_0010_v1.1	Pfam	protein_match	114	573	6.8E-173	+	.	date=21-02-2022;Target=kfl00722_0010_v1.1 114 573;ID=match$214_114_573;signature_desc=Aldehyde dehydrogenase family;Name=PF00171;status=T;Dbxref="InterPro:IPR015590"
+kfl00722_0010_v1.1	SUPERFAMILY	protein_match	109	577	6.68E-174	+	.	date=21-02-2022;Target=kfl00722_0010_v1.1 109 577;ID=match$215_109_577;Name=SSF53720;status=T;Dbxref="InterPro:IPR016161"
+kfl00722_0010_v1.1	PANTHER	protein_match	102	577	3.8E-233	+	.	date=21-02-2022;Target=kfl00722_0010_v1.1 102 577;ID=match$216_102_577;Name=PTHR43353;status=T
+kfl00722_0010_v1.1	CDD	protein_match	125	573	0.0	+	.	date=21-02-2022;Target=kfl00722_0010_v1.1 125 573;ID=match$217_125_573;signature_desc=ALDH_F5_SSADH_GabD;Name=cd07103;status=T
+kfl00722_0010_v1.1	ProSitePatterns	protein_match	349	356	.	+	.	date=21-02-2022;Target=kfl00722_0010_v1.1 349 356;ID=match$218_349_356;signature_desc=Aldehyde dehydrogenases glutamic acid active site.;Name=PS00687;status=T;Dbxref="InterPro:IPR029510"
+kfl00722_0010_v1.1	PANTHER	protein_match	102	577	3.8E-233	+	.	date=21-02-2022;Target=kfl00722_0010_v1.1 102 577;ID=match$219_102_577;Name=PTHR43353:SF5;status=T
+kfl00722_0010_v1.1	TIGRFAM	protein_match	125	571	1.8E-210	+	.	date=21-02-2022;Target=kfl00722_0010_v1.1 125 571;ID=match$220_125_571;signature_desc=SSADH: succinate-semialdehyde dehydrogenase;Name=TIGR01780;status=T;Dbxref="InterPro:IPR010102"
+kfl00722_0010_v1.1	ProSitePatterns	protein_match	377	388	.	+	.	date=21-02-2022;Target=kfl00722_0010_v1.1 377 388;ID=match$221_377_388;signature_desc=Aldehyde dehydrogenases cysteine active site.;Name=PS00070;status=T;Dbxref="InterPro:IPR016160"
+kfl00722_0010_v1.1	Gene3D	protein_match	353	542	3.0E-183	+	.	date=21-02-2022;Target=kfl00722_0010_v1.1 353 542;ID=match$222_353_542;Name=G3DSA:3.40.309.10;status=T;Dbxref="InterPro:IPR016163"
+kfl00722_0010_v1.1	Gene3D	protein_match	120	567	3.0E-183	+	.	date=21-02-2022;Target=kfl00722_0010_v1.1 120 567;ID=match$223_120_567;Name=G3DSA:3.40.605.10;status=T;Dbxref="InterPro:IPR016162"
+kfl00109_0070_v1.1	.	polypeptide	1	341	.	+	.	ID=kfl00109_0070_v1.1;md5=e1ac567545c51ac7b58893805a259c61
+kfl00109_0070_v1.1	ProSiteProfiles	protein_match	121	336	36.878	+	.	date=21-02-2022;Target=kfl00109_0070_v1.1 121 336;ID=match$224_121_336;signature_desc=SAM-dependent O-methyltransferase class I-type profile.;Name=PS51682;status=T;Dbxref="InterPro:IPR002935"
+kfl00109_0070_v1.1	SUPERFAMILY	protein_match	152	336	7.34E-27	+	.	date=21-02-2022;Target=kfl00109_0070_v1.1 152 336;ID=match$225_152_336;Name=SSF53335;status=T;Dbxref="InterPro:IPR029063"
+kfl00109_0070_v1.1	Pfam	protein_match	140	291	8.1E-20	+	.	date=21-02-2022;Target=kfl00109_0070_v1.1 140 291;ID=match$226_140_291;signature_desc=O-methyltransferase;Name=PF01596;status=T;Dbxref="InterPro:IPR002935"
+kfl00109_0070_v1.1	PANTHER	protein_match	113	336	7.9E-45	+	.	date=21-02-2022;Target=kfl00109_0070_v1.1 113 336;ID=match$227_113_336;Name=PTHR43836:SF2;status=T
+kfl00109_0070_v1.1	PANTHER	protein_match	113	336	7.9E-45	+	.	date=21-02-2022;Target=kfl00109_0070_v1.1 113 336;ID=match$228_113_336;Name=PTHR43836;status=T
+kfl00109_0070_v1.1	Gene3D	protein_match	125	341	2.5E-49	+	.	date=21-02-2022;Target=kfl00109_0070_v1.1 125 341;ID=match$229_125_341;Name=G3DSA:3.40.50.150;status=T
+kfl00254_0160_v1.1	.	polypeptide	1	539	.	+	.	ID=kfl00254_0160_v1.1;md5=0b0220ed25ff72d5e8392232adfbe6b2
+kfl00254_0160_v1.1	PANTHER	protein_match	17	514	6.2E-161	+	.	date=21-02-2022;Target=kfl00254_0160_v1.1 17 514;ID=match$230_17_514;Name=PTHR23316:SF1;status=T
+kfl00254_0160_v1.1	PIRSF	protein_match	3	535	9.6E-105	+	.	date=21-02-2022;Target=kfl00254_0160_v1.1 3 535;ID=match$231_3_535;Name=PIRSF005673;status=T;Dbxref="InterPro:IPR024931"
+kfl00254_0160_v1.1	Pfam	protein_match	344	371	1.2E-5	+	.	date=21-02-2022;Target=kfl00254_0160_v1.1 344 371;ID=match$232_344_371;signature_desc=Armadillo/beta-catenin-like repeat;Name=PF00514;status=T;Dbxref="InterPro:IPR000225"
+kfl00254_0160_v1.1	PANTHER	protein_match	17	514	6.2E-161	+	.	date=21-02-2022;Target=kfl00254_0160_v1.1 17 514;ID=match$233_17_514;Name=PTHR23316;status=T
+kfl00254_0160_v1.1	SMART	protein_match	155	192	44.0	+	.	date=21-02-2022;Target=kfl00254_0160_v1.1 155 192;ID=match$234_155_192;Name=SM00185;status=T;Dbxref="InterPro:IPR000225"
+kfl00254_0160_v1.1	SMART	protein_match	110	152	4.4	+	.	date=21-02-2022;Target=kfl00254_0160_v1.1 110 152;ID=match$234_110_152;Name=SM00185;status=T;Dbxref="InterPro:IPR000225"
+kfl00254_0160_v1.1	SMART	protein_match	327	372	39.0	+	.	date=21-02-2022;Target=kfl00254_0160_v1.1 327 372;ID=match$234_327_372;Name=SM00185;status=T;Dbxref="InterPro:IPR000225"
+kfl00254_0160_v1.1	SMART	protein_match	240	281	16.0	+	.	date=21-02-2022;Target=kfl00254_0160_v1.1 240 281;ID=match$234_240_281;Name=SM00185;status=T;Dbxref="InterPro:IPR000225"
+kfl00254_0160_v1.1	SMART	protein_match	194	237	60.0	+	.	date=21-02-2022;Target=kfl00254_0160_v1.1 194 237;ID=match$234_194_237;Name=SM00185;status=T;Dbxref="InterPro:IPR000225"
+kfl00254_0160_v1.1	SMART	protein_match	283	324	0.043	+	.	date=21-02-2022;Target=kfl00254_0160_v1.1 283 324;ID=match$234_283_324;Name=SM00185;status=T;Dbxref="InterPro:IPR000225"
+kfl00254_0160_v1.1	SMART	protein_match	374	414	13.0	+	.	date=21-02-2022;Target=kfl00254_0160_v1.1 374 414;ID=match$234_374_414;Name=SM00185;status=T;Dbxref="InterPro:IPR000225"
+kfl00254_0160_v1.1	MobiDBLite	protein_match	1	33	.	+	.	date=21-02-2022;Target=kfl00254_0160_v1.1 1 33;ID=match$235_1_33;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00254_0160_v1.1	SUPERFAMILY	protein_match	29	507	9.22E-55	+	.	date=21-02-2022;Target=kfl00254_0160_v1.1 29 507;ID=match$236_29_507;Name=SSF48371;status=T;Dbxref="InterPro:IPR016024"
+kfl00254_0160_v1.1	Gene3D	protein_match	67	506	7.3E-91	+	.	date=21-02-2022;Target=kfl00254_0160_v1.1 67 506;ID=match$237_67_506;Name=G3DSA:1.25.10.10;status=T;Dbxref="InterPro:IPR011989"
+kfl00254_0160_v1.1	MobiDBLite	protein_match	516	539	.	+	.	date=21-02-2022;Target=kfl00254_0160_v1.1 516 539;ID=match$238_516_539;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00254_0160_v1.1	Pfam	protein_match	472	515	2.3E-8	+	.	date=21-02-2022;Target=kfl00254_0160_v1.1 472 515;ID=match$239_472_515;signature_desc=Atypical Arm repeat;Name=PF16186;status=T;Dbxref="InterPro:IPR032413"
+kfl00030_0120_v1.1	.	polypeptide	1	802	.	+	.	ID=kfl00030_0120_v1.1;md5=3d504be63ba7884bba564ff8e2dae2bb
+kfl00030_0120_v1.1	Pfam	protein_match	231	334	2.0E-25	+	.	date=21-02-2022;Target=kfl00030_0120_v1.1 231 334;ID=match$240_231_334;signature_desc=Copper amine oxidase, N3 domain;Name=PF02728;status=T;Dbxref="InterPro:IPR015802"
+kfl00030_0120_v1.1	Pfam	protein_match	364	775	4.0E-153	+	.	date=21-02-2022;Target=kfl00030_0120_v1.1 364 775;ID=match$241_364_775;signature_desc=Copper amine oxidase, enzyme domain;Name=PF01179;status=T;Dbxref="InterPro:IPR015798"
+kfl00030_0120_v1.1	Gene3D	protein_match	236	339	1.2E-32	+	.	date=21-02-2022;Target=kfl00030_0120_v1.1 236 339;ID=match$242_236_339;Name=G3DSA:3.10.450.40;status=T
+kfl00030_0120_v1.1	PANTHER	protein_match	85	777	0.0	+	.	date=21-02-2022;Target=kfl00030_0120_v1.1 85 777;ID=match$243_85_777;Name=PTHR10638;status=T;Dbxref="InterPro:IPR000269"
+kfl00030_0120_v1.1	Gene3D	protein_match	87	234	5.3E-20	+	.	date=21-02-2022;Target=kfl00030_0120_v1.1 87 234;ID=match$244_87_234;Name=G3DSA:3.10.450.40;status=T
+kfl00030_0120_v1.1	SUPERFAMILY	protein_match	356	775	6.8E-150	+	.	date=21-02-2022;Target=kfl00030_0120_v1.1 356 775;ID=match$245_356_775;Name=SSF49998;status=T;Dbxref="InterPro:IPR036460"
+kfl00030_0120_v1.1	SUPERFAMILY	protein_match	230	346	5.89E-30	+	.	date=21-02-2022;Target=kfl00030_0120_v1.1 230 346;ID=match$246_230_346;Name=SSF54416;status=T;Dbxref="InterPro:IPR016182"
+kfl00030_0120_v1.1	SUPERFAMILY	protein_match	95	229	1.73E-11	+	.	date=21-02-2022;Target=kfl00030_0120_v1.1 95 229;ID=match$247_95_229;Name=SSF54416;status=T;Dbxref="InterPro:IPR016182"
+kfl00030_0120_v1.1	Gene3D	protein_match	350	775	1.1E-161	+	.	date=21-02-2022;Target=kfl00030_0120_v1.1 350 775;ID=match$248_350_775;Name=G3DSA:2.70.98.20;status=T;Dbxref="InterPro:IPR036460"
+kfl00030_0120_v1.1	PANTHER	protein_match	85	777	0.0	+	.	date=21-02-2022;Target=kfl00030_0120_v1.1 85 777;ID=match$249_85_777;Name=PTHR10638:SF81;status=T
+kfl00030_0120_v1.1	ProSitePatterns	protein_match	513	526	.	+	.	date=21-02-2022;Target=kfl00030_0120_v1.1 513 526;ID=match$250_513_526;signature_desc=Copper amine oxidase topaquinone signature.;Name=PS01164;status=T;Dbxref="InterPro:IPR000269"
+kfl01814_0600_v1.1	.	polypeptide	1	88	.	+	.	ID=kfl01814_0600_v1.1;md5=af07ac8603e8c69c9d658455584b3b3a
+kfl01814_0600_v1.1	Pfam	protein_match	10	74	2.0E-5	+	.	date=21-02-2022;Target=kfl01814_0600_v1.1 10 74;ID=match$251_10_74;signature_desc=CybS, succinate dehydrogenase cytochrome B small subunit;Name=PF05328;status=T
+kfl01814_0600_v1.1	PANTHER	protein_match	11	85	8.5E-13	+	.	date=21-02-2022;Target=kfl01814_0600_v1.1 11 85;ID=match$252_11_85;Name=PTHR36358:SF1;status=T
+kfl01814_0600_v1.1	SUPERFAMILY	protein_match	3	78	1.61E-10	+	.	date=21-02-2022;Target=kfl01814_0600_v1.1 3 78;ID=match$253_3_78;Name=SSF81343;status=T;Dbxref="InterPro:IPR034804"
+kfl01814_0600_v1.1	Gene3D	protein_match	4	85	3.8E-10	+	.	date=21-02-2022;Target=kfl01814_0600_v1.1 4 85;ID=match$254_4_85;Name=G3DSA:1.20.1300.10;status=T;Dbxref="InterPro:IPR034804"
+kfl01814_0600_v1.1	PANTHER	protein_match	11	85	8.5E-13	+	.	date=21-02-2022;Target=kfl01814_0600_v1.1 11 85;ID=match$255_11_85;Name=PTHR36358;status=T
+kfl00092_0040_v1.1	.	polypeptide	1	1117	.	+	.	ID=kfl00092_0040_v1.1;md5=c79c58ba6178f91a04c428accb9e63d7
+kfl00092_0040_v1.1	Gene3D	protein_match	366	460	1.3E-18	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 366 460;ID=match$256_366_460;Name=G3DSA:3.30.70.330;status=T;Dbxref="InterPro:IPR012677"
+kfl00092_0040_v1.1	MobiDBLite	protein_match	156	232	.	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 156 232;ID=match$257_156_232;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00092_0040_v1.1	SUPERFAMILY	protein_match	915	1000	3.63E-16	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 915 1000;ID=match$258_915_1000;Name=SSF54928;status=T;Dbxref="InterPro:IPR035979"
+kfl00092_0040_v1.1	MobiDBLite	protein_match	194	225	.	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 194 225;ID=match$259_194_225;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00092_0040_v1.1	SMART	protein_match	915	991	1.7	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 915 991;ID=match$260_915_991;Name=SM00360;status=T;Dbxref="InterPro:IPR000504"
+kfl00092_0040_v1.1	SMART	protein_match	463	531	6.9E-15	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 463 531;ID=match$260_463_531;Name=SM00360;status=T;Dbxref="InterPro:IPR000504"
+kfl00092_0040_v1.1	SMART	protein_match	378	446	2.4E-12	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 378 446;ID=match$260_378_446;Name=SM00360;status=T;Dbxref="InterPro:IPR000504"
+kfl00092_0040_v1.1	Gene3D	protein_match	461	545	2.0E-16	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 461 545;ID=match$261_461_545;Name=G3DSA:3.30.70.330;status=T;Dbxref="InterPro:IPR012677"
+kfl00092_0040_v1.1	MobiDBLite	protein_match	1034	1082	.	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 1034 1082;ID=match$262_1034_1082;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00092_0040_v1.1	MobiDBLite	protein_match	42	59	.	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 42 59;ID=match$263_42_59;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00092_0040_v1.1	MobiDBLite	protein_match	349	374	.	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 349 374;ID=match$264_349_374;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00092_0040_v1.1	Pfam	protein_match	913	1009	2.6E-54	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 913 1009;ID=match$265_913_1009;signature_desc=RNA recognition motif 2;Name=PF04059;status=T;Dbxref="InterPro:IPR007201"
+kfl00092_0040_v1.1	PANTHER	protein_match	878	1042	5.0E-240	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 878 1042;ID=match$266_878_1042;Name=PTHR23189:SF98;status=T
+kfl00092_0040_v1.1	Pfam	protein_match	464	529	4.3E-12	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 464 529;ID=match$267_464_529;signature_desc=RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain);Name=PF00076;status=T;Dbxref="InterPro:IPR000504"
+kfl00092_0040_v1.1	Pfam	protein_match	379	443	2.2E-10	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 379 443;ID=match$267_379_443;signature_desc=RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain);Name=PF00076;status=T;Dbxref="InterPro:IPR000504"
+kfl00092_0040_v1.1	MobiDBLite	protein_match	778	892	.	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 778 892;ID=match$268_778_892;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00092_0040_v1.1	Coils	protein_match	164	184	.	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 164 184;ID=match$269_164_184;Name=Coil;status=T
+kfl00092_0040_v1.1	PANTHER	protein_match	209	639	5.0E-240	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 209 639;ID=match$270_209_639;Name=PTHR23189;status=T
+kfl00092_0040_v1.1	PANTHER	protein_match	878	1042	5.0E-240	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 878 1042;ID=match$271_878_1042;Name=PTHR23189;status=T
+kfl00092_0040_v1.1	PANTHER	protein_match	209	639	5.0E-240	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 209 639;ID=match$272_209_639;Name=PTHR23189:SF98;status=T
+kfl00092_0040_v1.1	CDD	protein_match	376	452	2.17627E-50	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 376 452;ID=match$273_376_452;signature_desc=RRM1_MEI2_like;Name=cd12524;status=T;Dbxref="InterPro:IPR034453"
+kfl00092_0040_v1.1	MobiDBLite	protein_match	91	112	.	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 91 112;ID=match$274_91_112;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00092_0040_v1.1	MobiDBLite	protein_match	608	658	.	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 608 658;ID=match$275_608_658;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00092_0040_v1.1	MobiDBLite	protein_match	594	665	.	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 594 665;ID=match$276_594_665;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00092_0040_v1.1	MobiDBLite	protein_match	161	180	.	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 161 180;ID=match$277_161_180;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00092_0040_v1.1	CDD	protein_match	916	1001	2.52145E-62	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 916 1001;ID=match$278_916_1001;signature_desc=RRM3_MEI2_like;Name=cd12531;status=T;Dbxref="InterPro:IPR034454"
+kfl00092_0040_v1.1	ProSiteProfiles	protein_match	377	450	14.146	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 377 450;ID=match$279_377_450;signature_desc=Eukaryotic RNA Recognition Motif (RRM) profile.;Name=PS50102;status=T;Dbxref="InterPro:IPR000504"
+kfl00092_0040_v1.1	MobiDBLite	protein_match	782	832	.	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 782 832;ID=match$280_782_832;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00092_0040_v1.1	MobiDBLite	protein_match	1052	1082	.	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 1052 1082;ID=match$281_1052_1082;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00092_0040_v1.1	MobiDBLite	protein_match	20	37	.	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 20 37;ID=match$282_20_37;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00092_0040_v1.1	MobiDBLite	protein_match	1	122	.	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 1 122;ID=match$283_1_122;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00092_0040_v1.1	ProSiteProfiles	protein_match	462	535	14.778	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 462 535;ID=match$284_462_535;signature_desc=Eukaryotic RNA Recognition Motif (RRM) profile.;Name=PS50102;status=T;Dbxref="InterPro:IPR000504"
+kfl00092_0040_v1.1	SUPERFAMILY	protein_match	374	536	1.22E-32	+	.	date=21-02-2022;Target=kfl00092_0040_v1.1 374 536;ID=match$285_374_536;Name=SSF54928;status=T;Dbxref="InterPro:IPR035979"
+kfl00053_0270_v1.1	.	polypeptide	1	282	.	+	.	ID=kfl00053_0270_v1.1;md5=dc0ad75a83fb7ca7a70b0e1c6ffa1e1b
+kfl00053_0270_v1.1	PANTHER	protein_match	4	282	9.5E-110	+	.	date=21-02-2022;Target=kfl00053_0270_v1.1 4 282;ID=match$286_4_282;Name=PTHR28110;status=T
+kfl00115_0160_v1.1	.	polypeptide	1	650	.	+	.	ID=kfl00115_0160_v1.1;md5=dbe6bf35d7b86052e36eb6e630628509
+kfl00115_0160_v1.1	PANTHER	protein_match	272	638	1.6E-148	+	.	date=21-02-2022;Target=kfl00115_0160_v1.1 272 638;ID=match$287_272_638;Name=PTHR30544:SF5;status=T
+kfl00115_0160_v1.1	MobiDBLite	protein_match	77	112	.	+	.	date=21-02-2022;Target=kfl00115_0160_v1.1 77 112;ID=match$288_77_112;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00115_0160_v1.1	MobiDBLite	protein_match	131	150	.	+	.	date=21-02-2022;Target=kfl00115_0160_v1.1 131 150;ID=match$289_131_150;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00115_0160_v1.1	Gene3D	protein_match	276	333	7.3E-15	+	.	date=21-02-2022;Target=kfl00115_0160_v1.1 276 333;ID=match$290_276_333;Name=G3DSA:1.10.150.530;status=T
+kfl00115_0160_v1.1	SFLD	protein_match	275	632	0.0	+	.	date=21-02-2022;Target=kfl00115_0160_v1.1 275 632;ID=match$291_275_632;signature_desc=adenosine C2 methyltransferase (RlmN-like);Name=SFLDF00275;status=T;Dbxref="InterPro:IPR004383"
+kfl00115_0160_v1.1	Gene3D	protein_match	339	634	1.3E-104	+	.	date=21-02-2022;Target=kfl00115_0160_v1.1 339 634;ID=match$292_339_634;Name=G3DSA:3.20.20.70;status=T;Dbxref="InterPro:IPR013785"
+kfl00115_0160_v1.1	MobiDBLite	protein_match	1	35	.	+	.	date=21-02-2022;Target=kfl00115_0160_v1.1 1 35;ID=match$293_1_35;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00115_0160_v1.1	MobiDBLite	protein_match	77	244	.	+	.	date=21-02-2022;Target=kfl00115_0160_v1.1 77 244;ID=match$294_77_244;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00115_0160_v1.1	Pfam	protein_match	397	556	7.7E-14	+	.	date=21-02-2022;Target=kfl00115_0160_v1.1 397 556;ID=match$295_397_556;signature_desc=Radical SAM superfamily;Name=PF04055;status=T;Dbxref="InterPro:IPR007197"
+kfl00115_0160_v1.1	TIGRFAM	protein_match	277	629	6.7E-117	+	.	date=21-02-2022;Target=kfl00115_0160_v1.1 277 629;ID=match$296_277_629;signature_desc=rRNA_mod_RlmN: 23S rRNA (adenine(2503)-C(2))-methyltransferase;Name=TIGR00048;status=T;Dbxref="InterPro:IPR027492"
+kfl00115_0160_v1.1	MobiDBLite	protein_match	220	236	.	+	.	date=21-02-2022;Target=kfl00115_0160_v1.1 220 236;ID=match$297_220_236;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00115_0160_v1.1	PANTHER	protein_match	272	638	1.6E-148	+	.	date=21-02-2022;Target=kfl00115_0160_v1.1 272 638;ID=match$298_272_638;Name=PTHR30544;status=T;Dbxref="InterPro:IPR040072"
+kfl00115_0160_v1.1	SUPERFAMILY	protein_match	391	602	1.83E-15	+	.	date=21-02-2022;Target=kfl00115_0160_v1.1 391 602;ID=match$299_391_602;Name=SSF102114;status=T
+kfl00115_0160_v1.1	MobiDBLite	protein_match	162	176	.	+	.	date=21-02-2022;Target=kfl00115_0160_v1.1 162 176;ID=match$300_162_176;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00115_0160_v1.1	CDD	protein_match	401	591	3.26456E-11	+	.	date=21-02-2022;Target=kfl00115_0160_v1.1 401 591;ID=match$301_401_591;signature_desc=Radical_SAM;Name=cd01335;status=T
+kfl00115_0160_v1.1	SFLD	protein_match	275	632	0.0	+	.	date=21-02-2022;Target=kfl00115_0160_v1.1 275 632;ID=match$302_275_632;signature_desc=methyltransferase (Class A);Name=SFLDG01062;status=T
+kfl00115_0160_v1.1	SMART	protein_match	392	600	0.007	+	.	date=21-02-2022;Target=kfl00115_0160_v1.1 392 600;ID=match$303_392_600;Name=SM00729;status=T;Dbxref="InterPro:IPR006638"
+kfl01147_g3_v1.1	.	polypeptide	1	103	.	+	.	ID=kfl01147_g3_v1.1;md5=aa94942878b3027a32882986eb3e7b02
+kfl01147_g3_v1.1	MobiDBLite	protein_match	1	20	.	+	.	date=21-02-2022;Target=kfl01147_g3_v1.1 1 20;ID=match$304_1_20;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	.	polypeptide	1	2468	.	+	.	ID=kfl00142_0130_v1.1;md5=97a72b4c088406ed063b7eab935c16e8
+kfl00142_0130_v1.1	Coils	protein_match	712	732	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 712 732;ID=match$305_712_732;Name=Coil;status=T
+kfl00142_0130_v1.1	MobiDBLite	protein_match	1637	1687	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 1637 1687;ID=match$306_1637_1687;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	MobiDBLite	protein_match	485	538	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 485 538;ID=match$307_485_538;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	MobiDBLite	protein_match	2069	2097	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 2069 2097;ID=match$308_2069_2097;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	MobiDBLite	protein_match	2322	2364	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 2322 2364;ID=match$309_2322_2364;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	MobiDBLite	protein_match	235	311	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 235 311;ID=match$310_235_311;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	MobiDBLite	protein_match	1967	2175	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 1967 2175;ID=match$311_1967_2175;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	MobiDBLite	protein_match	784	843	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 784 843;ID=match$312_784_843;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	MobiDBLite	protein_match	2016	2050	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 2016 2050;ID=match$313_2016_2050;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	Gene3D	protein_match	127	206	7.9E-8	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 127 206;ID=match$314_127_206;Name=G3DSA:1.10.10.10;status=T;Dbxref="InterPro:IPR036388"
+kfl00142_0130_v1.1	MobiDBLite	protein_match	1621	1698	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 1621 1698;ID=match$315_1621_1698;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	MobiDBLite	protein_match	478	557	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 478 557;ID=match$316_478_557;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	MobiDBLite	protein_match	1910	1934	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 1910 1934;ID=match$317_1910_1934;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	MobiDBLite	protein_match	1456	1484	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 1456 1484;ID=match$318_1456_1484;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	MobiDBLite	protein_match	1358	1385	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 1358 1385;ID=match$319_1358_1385;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	MobiDBLite	protein_match	1335	1404	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 1335 1404;ID=match$320_1335_1404;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	MobiDBLite	protein_match	70	95	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 70 95;ID=match$321_70_95;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	MobiDBLite	protein_match	1335	1350	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 1335 1350;ID=match$322_1335_1350;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	Coils	protein_match	1011	1038	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 1011 1038;ID=match$323_1011_1038;Name=Coil;status=T
+kfl00142_0130_v1.1	PANTHER	protein_match	1	768	3.1E-131	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 1 768;ID=match$324_1_768;Name=PTHR15180;status=T;Dbxref="InterPro:IPR044210"
+kfl00142_0130_v1.1	PANTHER	protein_match	1088	2425	3.1E-131	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 1088 2425;ID=match$324_1088_2425;Name=PTHR15180;status=T;Dbxref="InterPro:IPR044210"
+kfl00142_0130_v1.1	MobiDBLite	protein_match	2100	2115	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 2100 2115;ID=match$325_2100_2115;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	Pfam	protein_match	155	227	1.6E-11	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 155 227;ID=match$326_155_227;signature_desc=B-block binding subunit of TFIIIC;Name=PF04182;status=T;Dbxref="InterPro:IPR007309"
+kfl00142_0130_v1.1	Coils	protein_match	2468	2468	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 2468 2468;ID=match$327_2468_2468;Name=Coil;status=T
+kfl00142_0130_v1.1	MobiDBLite	protein_match	1738	1760	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 1738 1760;ID=match$328_1738_1760;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	MobiDBLite	protein_match	934	995	.	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 934 995;ID=match$329_934_995;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00142_0130_v1.1	SUPERFAMILY	protein_match	135	205	3.52E-8	+	.	date=21-02-2022;Target=kfl00142_0130_v1.1 135 205;ID=match$330_135_205;Name=SSF46785;status=T;Dbxref="InterPro:IPR036390"
+kfl00259_0180_v1.1	.	polypeptide	1	210	.	+	.	ID=kfl00259_0180_v1.1;md5=aff754b95a5ecff6f6bbc62f845798ae
+kfl00259_0180_v1.1	CDD	protein_match	6	196	8.57288E-57	+	.	date=21-02-2022;Target=kfl00259_0180_v1.1 6 196;ID=match$331_6_196;signature_desc=MIP;Name=cd00333;status=T;Dbxref="InterPro:IPR000425"
+kfl00259_0180_v1.1	Pfam	protein_match	7	193	1.1E-58	+	.	date=21-02-2022;Target=kfl00259_0180_v1.1 7 193;ID=match$332_7_193;signature_desc=Major intrinsic protein;Name=PF00230;status=T;Dbxref="InterPro:IPR000425"
+kfl00259_0180_v1.1	PANTHER	protein_match	4	204	2.5E-73	+	.	date=21-02-2022;Target=kfl00259_0180_v1.1 4 204;ID=match$333_4_204;Name=PTHR45687:SF39;status=T
+kfl00259_0180_v1.1	Gene3D	protein_match	1	208	1.0E-65	+	.	date=21-02-2022;Target=kfl00259_0180_v1.1 1 208;ID=match$334_1_208;Name=G3DSA:1.20.1080.10;status=T;Dbxref="InterPro:IPR023271"
+kfl00259_0180_v1.1	PANTHER	protein_match	4	204	2.5E-73	+	.	date=21-02-2022;Target=kfl00259_0180_v1.1 4 204;ID=match$335_4_204;Name=PTHR45687;status=T;Dbxref="InterPro:IPR034294"
+kfl00259_0180_v1.1	SUPERFAMILY	protein_match	4	198	6.8E-53	+	.	date=21-02-2022;Target=kfl00259_0180_v1.1 4 198;ID=match$336_4_198;Name=SSF81338;status=T;Dbxref="InterPro:IPR023271"
+kfl00259_0180_v1.1	ProSitePatterns	protein_match	34	42	.	+	.	date=21-02-2022;Target=kfl00259_0180_v1.1 34 42;ID=match$337_34_42;signature_desc=MIP family signature.;Name=PS00221;status=T;Dbxref="InterPro:IPR022357"
+kfl00259_0180_v1.1	PRINTS	protein_match	16	40	2.1E-42	+	.	date=21-02-2022;Target=kfl00259_0180_v1.1 16 40;ID=match$338_16_40;signature_desc=Major intrinsic protein family signature;Name=PR00783;status=T;Dbxref="InterPro:IPR000425"
+kfl00259_0180_v1.1	PRINTS	protein_match	136	158	2.1E-42	+	.	date=21-02-2022;Target=kfl00259_0180_v1.1 136 158;ID=match$338_136_158;signature_desc=Major intrinsic protein family signature;Name=PR00783;status=T;Dbxref="InterPro:IPR000425"
+kfl00259_0180_v1.1	PRINTS	protein_match	98	116	2.1E-42	+	.	date=21-02-2022;Target=kfl00259_0180_v1.1 98 116;ID=match$338_98_116;signature_desc=Major intrinsic protein family signature;Name=PR00783;status=T;Dbxref="InterPro:IPR000425"
+kfl00259_0180_v1.1	PRINTS	protein_match	176	196	2.1E-42	+	.	date=21-02-2022;Target=kfl00259_0180_v1.1 176 196;ID=match$338_176_196;signature_desc=Major intrinsic protein family signature;Name=PR00783;status=T;Dbxref="InterPro:IPR000425"
+kfl00036_0400_v1.1	.	polypeptide	1	288	.	+	.	ID=kfl00036_0400_v1.1;md5=1873b95d0660f1e469c159065b7468ee
+kfl00036_0400_v1.1	CDD	protein_match	9	278	3.18601E-162	+	.	date=21-02-2022;Target=kfl00036_0400_v1.1 9 278;ID=match$339_9_278;signature_desc=SPFH_like_u4;Name=cd03407;status=T
+kfl00036_0400_v1.1	Pfam	protein_match	10	182	2.7E-23	+	.	date=21-02-2022;Target=kfl00036_0400_v1.1 10 182;ID=match$340_10_182;signature_desc=SPFH domain / Band 7 family;Name=PF01145;status=T;Dbxref="InterPro:IPR001107"
+kfl00036_0400_v1.1	Gene3D	protein_match	42	167	1.8E-18	+	.	date=21-02-2022;Target=kfl00036_0400_v1.1 42 167;ID=match$341_42_167;Name=G3DSA:3.30.479.30;status=T
+kfl00036_0400_v1.1	SUPERFAMILY	protein_match	45	171	9.02E-23	+	.	date=21-02-2022;Target=kfl00036_0400_v1.1 45 171;ID=match$342_45_171;Name=SSF117892;status=T;Dbxref="InterPro:IPR036013"
+kfl00036_0400_v1.1	SMART	protein_match	5	165	5.1E-23	+	.	date=21-02-2022;Target=kfl00036_0400_v1.1 5 165;ID=match$343_5_165;Name=SM00244;status=T;Dbxref="InterPro:IPR001107"
+kfl00036_0400_v1.1	PANTHER	protein_match	1	282	3.4E-131	+	.	date=21-02-2022;Target=kfl00036_0400_v1.1 1 282;ID=match$344_1_282;Name=PTHR43327:SF42;status=T
+kfl00036_0400_v1.1	PANTHER	protein_match	1	282	3.4E-131	+	.	date=21-02-2022;Target=kfl00036_0400_v1.1 1 282;ID=match$345_1_282;Name=PTHR43327;status=T
+kfl00117_0050_v1.1	.	polypeptide	1	848	.	+	.	ID=kfl00117_0050_v1.1;md5=bbb67137c7369a15ab0ac869ed4309df
+kfl00117_0050_v1.1	MobiDBLite	protein_match	1	32	.	+	.	date=21-02-2022;Target=kfl00117_0050_v1.1 1 32;ID=match$346_1_32;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00117_0050_v1.1	MobiDBLite	protein_match	1	47	.	+	.	date=21-02-2022;Target=kfl00117_0050_v1.1 1 47;ID=match$347_1_47;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00117_0050_v1.1	MobiDBLite	protein_match	686	814	.	+	.	date=21-02-2022;Target=kfl00117_0050_v1.1 686 814;ID=match$348_686_814;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00117_0050_v1.1	MobiDBLite	protein_match	765	779	.	+	.	date=21-02-2022;Target=kfl00117_0050_v1.1 765 779;ID=match$349_765_779;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00117_0050_v1.1	Coils	protein_match	74	101	.	+	.	date=21-02-2022;Target=kfl00117_0050_v1.1 74 101;ID=match$350_74_101;Name=Coil;status=T
+kfl00117_0050_v1.1	MobiDBLite	protein_match	648	667	.	+	.	date=21-02-2022;Target=kfl00117_0050_v1.1 648 667;ID=match$351_648_667;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00117_0050_v1.1	MobiDBLite	protein_match	481	511	.	+	.	date=21-02-2022;Target=kfl00117_0050_v1.1 481 511;ID=match$352_481_511;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00117_0050_v1.1	MobiDBLite	protein_match	443	511	.	+	.	date=21-02-2022;Target=kfl00117_0050_v1.1 443 511;ID=match$353_443_511;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00117_0050_v1.1	MobiDBLite	protein_match	309	338	.	+	.	date=21-02-2022;Target=kfl00117_0050_v1.1 309 338;ID=match$354_309_338;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00117_0050_v1.1	Coils	protein_match	116	136	.	+	.	date=21-02-2022;Target=kfl00117_0050_v1.1 116 136;ID=match$355_116_136;Name=Coil;status=T
+kfl00117_0050_v1.1	MobiDBLite	protein_match	216	236	.	+	.	date=21-02-2022;Target=kfl00117_0050_v1.1 216 236;ID=match$356_216_236;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00117_0050_v1.1	MobiDBLite	protein_match	297	338	.	+	.	date=21-02-2022;Target=kfl00117_0050_v1.1 297 338;ID=match$357_297_338;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00117_0050_v1.1	MobiDBLite	protein_match	828	848	.	+	.	date=21-02-2022;Target=kfl00117_0050_v1.1 828 848;ID=match$358_828_848;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00117_0050_v1.1	MobiDBLite	protein_match	447	480	.	+	.	date=21-02-2022;Target=kfl00117_0050_v1.1 447 480;ID=match$359_447_480;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00481_0110_v1.1	.	polypeptide	1	112	.	+	.	ID=kfl00481_0110_v1.1;md5=9649b49b69c473562d0c355f13ef4c49
+kfl00481_0110_v1.1	Pfam	protein_match	25	78	3.2E-22	+	.	date=21-02-2022;Target=kfl00481_0110_v1.1 25 78;ID=match$360_25_78;signature_desc=Protein of unknown function (DUF1294);Name=PF06961;status=T;Dbxref="InterPro:IPR010718"
+kfl00481_0110_v1.1	PANTHER	protein_match	12	95	2.3E-22	+	.	date=21-02-2022;Target=kfl00481_0110_v1.1 12 95;ID=match$361_12_95;Name=PTHR12962:SF1;status=T
+kfl00481_0110_v1.1	PANTHER	protein_match	12	95	2.3E-22	+	.	date=21-02-2022;Target=kfl00481_0110_v1.1 12 95;ID=match$362_12_95;Name=PTHR12962;status=T
+kfl00076_0350_v1.1	.	polypeptide	1	1099	.	+	.	ID=kfl00076_0350_v1.1;md5=5203ff3762250409b9f34331db7f7460
+kfl00076_0350_v1.1	Gene3D	protein_match	703	933	5.4E-32	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 703 933;ID=match$363_703_933;Name=G3DSA:2.40.30.10;status=T
+kfl00076_0350_v1.1	Gene3D	protein_match	290	399	2.0E-114	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 290 399;ID=match$364_290_399;Name=G3DSA:3.90.1230.10;status=T
+kfl00076_0350_v1.1	Gene3D	protein_match	940	1090	6.6E-38	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 940 1090;ID=match$365_940_1090;Name=G3DSA:3.40.50.80;status=T;Dbxref="InterPro:IPR039261"
+kfl00076_0350_v1.1	Gene3D	protein_match	92	425	2.0E-114	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 92 425;ID=match$366_92_425;Name=G3DSA:3.90.340.10;status=T
+kfl00076_0350_v1.1	SUPERFAMILY	protein_match	503	650	5.59E-34	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 503 650;ID=match$367_503_650;Name=SSF52218;status=T;Dbxref="InterPro:IPR029039"
+kfl00076_0350_v1.1	ProSiteProfiles	protein_match	699	950	11.268	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 699 950;ID=match$368_699_950;signature_desc=Ferredoxin reductase-type FAD binding domain profile.;Name=PS51384;status=T;Dbxref="InterPro:IPR017927"
+kfl00076_0350_v1.1	PIRSR	protein_match	506	1066	1.4E-76	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 506 1066;ID=match$369_506_1066;Name=PIRSR000207-1;status=T
+kfl00076_0350_v1.1	ProSiteProfiles	protein_match	505	647	22.858	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 505 647;ID=match$370_505_647;signature_desc=Flavodoxin-like domain profile.;Name=PS50902;status=T;Dbxref="InterPro:IPR008254"
+kfl00076_0350_v1.1	PANTHER	protein_match	96	455	3.7E-102	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 96 455;ID=match$371_96_455;Name=PTHR43410;status=T
+kfl00076_0350_v1.1	SUPERFAMILY	protein_match	939	1088	3.54E-34	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 939 1088;ID=match$372_939_1088;Name=SSF52343;status=T;Dbxref="InterPro:IPR039261"
+kfl00076_0350_v1.1	MobiDBLite	protein_match	19	44	.	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 19 44;ID=match$373_19_44;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00076_0350_v1.1	Pfam	protein_match	507	642	4.5E-25	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 507 642;ID=match$374_507_642;signature_desc=Flavodoxin;Name=PF00258;status=T;Dbxref="InterPro:IPR008254"
+kfl00076_0350_v1.1	Gene3D	protein_match	487	663	1.6E-37	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 487 663;ID=match$375_487_663;Name=G3DSA:3.40.50.360;status=T;Dbxref="InterPro:IPR029039"
+kfl00076_0350_v1.1	MobiDBLite	protein_match	16	44	.	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 16 44;ID=match$376_16_44;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00076_0350_v1.1	PRINTS	protein_match	914	923	8.6E-22	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 914 923;ID=match$377_914_923;signature_desc=Flavoprotein pyridine nucleotide cytochrome reductase signature;Name=PR00371;status=T;Dbxref="InterPro:IPR001709"
+kfl00076_0350_v1.1	PRINTS	protein_match	951	970	8.6E-22	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 951 970;ID=match$377_951_970;signature_desc=Flavoprotein pyridine nucleotide cytochrome reductase signature;Name=PR00371;status=T;Dbxref="InterPro:IPR001709"
+kfl00076_0350_v1.1	PRINTS	protein_match	737	747	8.6E-22	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 737 747;ID=match$377_737_747;signature_desc=Flavoprotein pyridine nucleotide cytochrome reductase signature;Name=PR00371;status=T;Dbxref="InterPro:IPR001709"
+kfl00076_0350_v1.1	PRINTS	protein_match	1048	1056	8.6E-22	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 1048 1056;ID=match$377_1048_1056;signature_desc=Flavoprotein pyridine nucleotide cytochrome reductase signature;Name=PR00371;status=T;Dbxref="InterPro:IPR001709"
+kfl00076_0350_v1.1	PRINTS	protein_match	880	887	8.6E-22	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 880 887;ID=match$377_880_887;signature_desc=Flavoprotein pyridine nucleotide cytochrome reductase signature;Name=PR00371;status=T;Dbxref="InterPro:IPR001709"
+kfl00076_0350_v1.1	PRINTS	protein_match	980	989	8.6E-22	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 980 989;ID=match$377_980_989;signature_desc=Flavoprotein pyridine nucleotide cytochrome reductase signature;Name=PR00371;status=T;Dbxref="InterPro:IPR001709"
+kfl00076_0350_v1.1	PRINTS	protein_match	1024	1040	8.6E-22	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 1024 1040;ID=match$377_1024_1040;signature_desc=Flavoprotein pyridine nucleotide cytochrome reductase signature;Name=PR00371;status=T;Dbxref="InterPro:IPR001709"
+kfl00076_0350_v1.1	Pfam	protein_match	95	455	3.5E-119	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 95 455;ID=match$378_95_455;signature_desc=Nitric oxide synthase, oxygenase domain;Name=PF02898;status=T;Dbxref="InterPro:IPR004030"
+kfl00076_0350_v1.1	PRINTS	protein_match	506	519	6.1E-9	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 506 519;ID=match$379_506_519;signature_desc=Flavodoxin signature;Name=PR00369;status=T;Dbxref="InterPro:IPR001094"
+kfl00076_0350_v1.1	PRINTS	protein_match	588	598	6.1E-9	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 588 598;ID=match$379_588_598;signature_desc=Flavodoxin signature;Name=PR00369;status=T;Dbxref="InterPro:IPR001094"
+kfl00076_0350_v1.1	PRINTS	protein_match	612	631	6.1E-9	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 612 631;ID=match$379_612_631;signature_desc=Flavodoxin signature;Name=PR00369;status=T;Dbxref="InterPro:IPR001094"
+kfl00076_0350_v1.1	PRINTS	protein_match	553	564	6.1E-9	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 553 564;ID=match$379_553_564;signature_desc=Flavodoxin signature;Name=PR00369;status=T;Dbxref="InterPro:IPR001094"
+kfl00076_0350_v1.1	Pfam	protein_match	703	919	6.4E-22	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 703 919;ID=match$380_703_919;signature_desc=FAD binding domain;Name=PF00667;status=T;Dbxref="InterPro:IPR003097"
+kfl00076_0350_v1.1	Pfam	protein_match	952	1061	2.7E-16	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 952 1061;ID=match$381_952_1061;signature_desc=Oxidoreductase NAD-binding domain;Name=PF00175;status=T;Dbxref="InterPro:IPR001433"
+kfl00076_0350_v1.1	SUPERFAMILY	protein_match	92	456	4.19E-118	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 92 456;ID=match$382_92_456;Name=SSF56512;status=T;Dbxref="InterPro:IPR036119"
+kfl00076_0350_v1.1	Gene3D	protein_match	748	878	5.4E-32	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 748 878;ID=match$383_748_878;Name=G3DSA:1.20.990.10;status=T;Dbxref="InterPro:IPR023173"
+kfl00076_0350_v1.1	Gene3D	protein_match	174	289	2.0E-114	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 174 289;ID=match$384_174_289;Name=G3DSA:3.90.440.10;status=T
+kfl00076_0350_v1.1	SUPERFAMILY	protein_match	686	932	9.16E-38	+	.	date=21-02-2022;Target=kfl00076_0350_v1.1 686 932;ID=match$385_686_932;Name=SSF63380;status=T;Dbxref="InterPro:IPR017938"
+kfl00562_0030_v1.1	.	polypeptide	1	1171	.	+	.	ID=kfl00562_0030_v1.1;md5=438c58ca40cb1188631d6c616dbd71f3
+kfl00562_0030_v1.1	MobiDBLite	protein_match	427	455	.	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 427 455;ID=match$386_427_455;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00562_0030_v1.1	PANTHER	protein_match	60	792	4.1E-269	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 60 792;ID=match$387_60_792;Name=PTHR48041;status=T
+kfl00562_0030_v1.1	PANTHER	protein_match	898	1162	4.1E-269	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 898 1162;ID=match$387_898_1162;Name=PTHR48041;status=T
+kfl00562_0030_v1.1	Pfam	protein_match	883	1167	2.7E-106	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 883 1167;ID=match$388_883_1167;signature_desc=ABC-2 type transporter;Name=PF19055;status=T;Dbxref="InterPro:IPR043926"
+kfl00562_0030_v1.1	Pfam	protein_match	706	792	1.5E-34	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 706 792;ID=match$388_706_792;signature_desc=ABC-2 type transporter;Name=PF19055;status=T;Dbxref="InterPro:IPR043926"
+kfl00562_0030_v1.1	PANTHER	protein_match	60	792	4.1E-269	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 60 792;ID=match$389_60_792;Name=PTHR48041:SF1;status=T
+kfl00562_0030_v1.1	PANTHER	protein_match	898	1162	4.1E-269	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 898 1162;ID=match$389_898_1162;Name=PTHR48041:SF1;status=T
+kfl00562_0030_v1.1	MobiDBLite	protein_match	474	493	.	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 474 493;ID=match$390_474_493;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00562_0030_v1.1	MobiDBLite	protein_match	358	406	.	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 358 406;ID=match$391_358_406;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00562_0030_v1.1	MobiDBLite	protein_match	830	845	.	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 830 845;ID=match$392_830_845;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00562_0030_v1.1	Pfam	protein_match	525	677	2.3E-22	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 525 677;ID=match$393_525_677;signature_desc=ABC transporter;Name=PF00005;status=T;Dbxref="InterPro:IPR003439"
+kfl00562_0030_v1.1	SUPERFAMILY	protein_match	515	749	2.8E-41	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 515 749;ID=match$394_515_749;Name=SSF52540;status=T;Dbxref="InterPro:IPR027417"
+kfl00562_0030_v1.1	SMART	protein_match	534	726	2.7E-10	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 534 726;ID=match$395_534_726;Name=SM00382;status=T;Dbxref="InterPro:IPR003593"
+kfl00562_0030_v1.1	Gene3D	protein_match	505	745	2.7E-49	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 505 745;ID=match$396_505_745;Name=G3DSA:3.40.50.300;status=T
+kfl00562_0030_v1.1	ProSiteProfiles	protein_match	510	749	16.633	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 510 749;ID=match$397_510_749;signature_desc=ATP-binding cassette, ABC transporter-type domain profile.;Name=PS50893;status=T;Dbxref="InterPro:IPR003439"
+kfl00562_0030_v1.1	MobiDBLite	protein_match	779	793	.	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 779 793;ID=match$398_779_793;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00562_0030_v1.1	CDD	protein_match	505	732	3.15332E-76	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 505 732;ID=match$399_505_732;signature_desc=ABCG_EPDR;Name=cd03213;status=T
+kfl00562_0030_v1.1	ProSitePatterns	protein_match	649	663	.	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 649 663;ID=match$400_649_663;signature_desc=ABC transporters family signature.;Name=PS00211;status=T;Dbxref="InterPro:IPR017871"
+kfl00562_0030_v1.1	MobiDBLite	protein_match	776	855	.	+	.	date=21-02-2022;Target=kfl00562_0030_v1.1 776 855;ID=match$401_776_855;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00141_0260_v1.1	.	polypeptide	1	127	.	+	.	ID=kfl00141_0260_v1.1;md5=95f46a3247fe87456f4cdd6582d9d4be
+kfl00141_0260_v1.1	PRINTS	protein_match	41	63	5.5E-27	+	.	date=21-02-2022;Target=kfl00141_0260_v1.1 41 63;ID=match$402_41_63;signature_desc=Transcription initiation factor TFIID 23-30kDa subunit signature;Name=PR01443;status=T;Dbxref="InterPro:IPR003923"
+kfl00141_0260_v1.1	PRINTS	protein_match	21	37	5.5E-27	+	.	date=21-02-2022;Target=kfl00141_0260_v1.1 21 37;ID=match$402_21_37;signature_desc=Transcription initiation factor TFIID 23-30kDa subunit signature;Name=PR01443;status=T;Dbxref="InterPro:IPR003923"
+kfl00141_0260_v1.1	PRINTS	protein_match	85	107	5.5E-27	+	.	date=21-02-2022;Target=kfl00141_0260_v1.1 85 107;ID=match$402_85_107;signature_desc=Transcription initiation factor TFIID 23-30kDa subunit signature;Name=PR01443;status=T;Dbxref="InterPro:IPR003923"
+kfl00141_0260_v1.1	PANTHER	protein_match	7	110	1.1E-44	+	.	date=21-02-2022;Target=kfl00141_0260_v1.1 7 110;ID=match$403_7_110;Name=PTHR21242;status=T;Dbxref="InterPro:IPR003923"
+kfl00141_0260_v1.1	CDD	protein_match	7	110	4.09071E-57	+	.	date=21-02-2022;Target=kfl00141_0260_v1.1 7 110;ID=match$404_7_110;signature_desc=TAF10;Name=cd07982;status=T;Dbxref="InterPro:IPR003923"
+kfl00141_0260_v1.1	Pfam	protein_match	21	70	4.7E-25	+	.	date=21-02-2022;Target=kfl00141_0260_v1.1 21 70;ID=match$405_21_70;signature_desc=Transcription initiation factor TFIID 23-30kDa subunit;Name=PF03540;status=T;Dbxref="InterPro:IPR003923"
+kfl00141_0260_v1.1	PIRSF	protein_match	3	111	1.4E-46	+	.	date=21-02-2022;Target=kfl00141_0260_v1.1 3 111;ID=match$406_3_111;Name=PIRSF017246;status=T;Dbxref="InterPro:IPR003923"
+kfl00347_0120_v1.1	.	polypeptide	1	359	.	+	.	ID=kfl00347_0120_v1.1;md5=4dce2f798da08fd6f45a08f914414d3f
+kfl00347_0120_v1.1	MobiDBLite	protein_match	18	38	.	+	.	date=21-02-2022;Target=kfl00347_0120_v1.1 18 38;ID=match$407_18_38;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00347_0120_v1.1	MobiDBLite	protein_match	312	359	.	+	.	date=21-02-2022;Target=kfl00347_0120_v1.1 312 359;ID=match$408_312_359;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00347_0120_v1.1	Coils	protein_match	55	82	.	+	.	date=21-02-2022;Target=kfl00347_0120_v1.1 55 82;ID=match$409_55_82;Name=Coil;status=T
+kfl00347_0120_v1.1	MobiDBLite	protein_match	312	331	.	+	.	date=21-02-2022;Target=kfl00347_0120_v1.1 312 331;ID=match$410_312_331;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00347_0120_v1.1	MobiDBLite	protein_match	1	46	.	+	.	date=21-02-2022;Target=kfl00347_0120_v1.1 1 46;ID=match$411_1_46;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00539_0020_v1.1	.	polypeptide	1	336	.	+	.	ID=kfl00539_0020_v1.1;md5=fe0a017f735ea55ed8d58bb74d9a26f6
+kfl00539_0020_v1.1	ProSiteProfiles	protein_match	46	87	9.677	+	.	date=21-02-2022;Target=kfl00539_0020_v1.1 46 87;ID=match$412_46_87;signature_desc=Armadillo/plakoglobin ARM repeat profile.;Name=PS50176;status=T;Dbxref="InterPro:IPR000225"
+kfl00539_0020_v1.1	SUPERFAMILY	protein_match	4	310	6.17E-20	+	.	date=21-02-2022;Target=kfl00539_0020_v1.1 4 310;ID=match$413_4_310;Name=SSF48371;status=T;Dbxref="InterPro:IPR016024"
+kfl00539_0020_v1.1	Pfam	protein_match	275	320	4.8E-6	+	.	date=21-02-2022;Target=kfl00539_0020_v1.1 275 320;ID=match$414_275_320;signature_desc=Domain of unknown function (DUF384);Name=PF04064;status=T;Dbxref="InterPro:IPR007206"
+kfl00539_0020_v1.1	Gene3D	protein_match	2	311	5.2E-18	+	.	date=21-02-2022;Target=kfl00539_0020_v1.1 2 311;ID=match$415_2_311;Name=G3DSA:1.25.10.10;status=T;Dbxref="InterPro:IPR011989"
+kfl00539_0020_v1.1	Pfam	protein_match	97	262	3.3E-34	+	.	date=21-02-2022;Target=kfl00539_0020_v1.1 97 262;ID=match$416_97_262;signature_desc=Domain of unknown function (DUF383);Name=PF04063;status=T;Dbxref="InterPro:IPR007205"
+kfl00539_0020_v1.1	PANTHER	protein_match	1	328	3.0E-82	+	.	date=21-02-2022;Target=kfl00539_0020_v1.1 1 328;ID=match$417_1_328;Name=PTHR13387;status=T;Dbxref="InterPro:IPR039717"
+kfl00002_0110_v1.1	.	polypeptide	1	421	.	+	.	ID=kfl00002_0110_v1.1;md5=6345494e8bb21a046b740d959f2d4038
+kfl00002_0110_v1.1	CDD	protein_match	149	399	3.53397E-56	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 149 399;ID=match$418_149_399;signature_desc=WD40;Name=cd00200;status=T
+kfl00002_0110_v1.1	ProSitePatterns	protein_match	182	196	.	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 182 196;ID=match$419_182_196;signature_desc=Trp-Asp (WD) repeats signature.;Name=PS00678;status=T;Dbxref="InterPro:IPR019775"
+kfl00002_0110_v1.1	ProSitePatterns	protein_match	277	291	.	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 277 291;ID=match$420_277_291;signature_desc=Trp-Asp (WD) repeats signature.;Name=PS00678;status=T;Dbxref="InterPro:IPR019775"
+kfl00002_0110_v1.1	Gene3D	protein_match	147	407	2.2E-92	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 147 407;ID=match$421_147_407;Name=G3DSA:2.130.10.10;status=T;Dbxref="InterPro:IPR015943"
+kfl00002_0110_v1.1	ProSitePatterns	protein_match	386	400	.	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 386 400;ID=match$422_386_400;signature_desc=Trp-Asp (WD) repeats signature.;Name=PS00678;status=T;Dbxref="InterPro:IPR019775"
+kfl00002_0110_v1.1	SUPERFAMILY	protein_match	155	402	1.28E-50	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 155 402;ID=match$423_155_402;Name=SSF50978;status=T;Dbxref="InterPro:IPR036322"
+kfl00002_0110_v1.1	ProSiteProfiles	protein_match	208	239	14.619	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 208 239;ID=match$424_208_239;signature_desc=Trp-Asp (WD) repeats profile.;Name=PS50082;status=T;Dbxref="InterPro:IPR001680"
+kfl00002_0110_v1.1	PANTHER	protein_match	141	400	1.2E-123	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 141 400;ID=match$425_141_400;Name=PTHR19920:SF1;status=T
+kfl00002_0110_v1.1	ProSiteProfiles	protein_match	163	408	36.938	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 163 408;ID=match$426_163_408;signature_desc=Trp-Asp (WD) repeats circular profile.;Name=PS50294;status=T;Dbxref="InterPro:IPR017986"
+kfl00002_0110_v1.1	SMART	protein_match	305	345	0.018	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 305 345;ID=match$427_305_345;Name=SM00320;status=T;Dbxref="InterPro:IPR001680"
+kfl00002_0110_v1.1	SMART	protein_match	247	290	1.3E-8	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 247 290;ID=match$427_247_290;Name=SM00320;status=T;Dbxref="InterPro:IPR001680"
+kfl00002_0110_v1.1	SMART	protein_match	358	399	6.5E-8	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 358 399;ID=match$427_358_399;Name=SM00320;status=T;Dbxref="InterPro:IPR001680"
+kfl00002_0110_v1.1	SMART	protein_match	201	240	1.2E-8	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 201 240;ID=match$427_201_240;Name=SM00320;status=T;Dbxref="InterPro:IPR001680"
+kfl00002_0110_v1.1	SMART	protein_match	156	195	1.3E-10	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 156 195;ID=match$427_156_195;Name=SM00320;status=T;Dbxref="InterPro:IPR001680"
+kfl00002_0110_v1.1	MobiDBLite	protein_match	107	142	.	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 107 142;ID=match$428_107_142;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00002_0110_v1.1	ProSiteProfiles	protein_match	163	204	14.385	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 163 204;ID=match$429_163_204;signature_desc=Trp-Asp (WD) repeats profile.;Name=PS50082;status=T;Dbxref="InterPro:IPR001680"
+kfl00002_0110_v1.1	ProSiteProfiles	protein_match	366	401	12.179	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 366 401;ID=match$430_366_401;signature_desc=Trp-Asp (WD) repeats profile.;Name=PS50082;status=T;Dbxref="InterPro:IPR001680"
+kfl00002_0110_v1.1	PRINTS	protein_match	277	291	6.6E-6	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 277 291;ID=match$431_277_291;signature_desc=G protein beta WD-40 repeat signature;Name=PR00320;status=T;Dbxref="InterPro:IPR020472"
+kfl00002_0110_v1.1	PRINTS	protein_match	227	241	6.6E-6	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 227 241;ID=match$431_227_241;signature_desc=G protein beta WD-40 repeat signature;Name=PR00320;status=T;Dbxref="InterPro:IPR020472"
+kfl00002_0110_v1.1	PRINTS	protein_match	386	400	6.6E-6	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 386 400;ID=match$431_386_400;signature_desc=G protein beta WD-40 repeat signature;Name=PR00320;status=T;Dbxref="InterPro:IPR020472"
+kfl00002_0110_v1.1	PANTHER	protein_match	141	400	1.2E-123	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 141 400;ID=match$432_141_400;Name=PTHR19920;status=T;Dbxref="InterPro:IPR028608"
+kfl00002_0110_v1.1	ProSiteProfiles	protein_match	258	299	13.85	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 258 299;ID=match$433_258_299;signature_desc=Trp-Asp (WD) repeats profile.;Name=PS50082;status=T;Dbxref="InterPro:IPR001680"
+kfl00002_0110_v1.1	Pfam	protein_match	248	290	1.9E-6	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 248 290;ID=match$434_248_290;signature_desc=WD domain, G-beta repeat;Name=PF00400;status=T;Dbxref="InterPro:IPR001680"
+kfl00002_0110_v1.1	Pfam	protein_match	367	398	3.0E-5	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 367 398;ID=match$434_367_398;signature_desc=WD domain, G-beta repeat;Name=PF00400;status=T;Dbxref="InterPro:IPR001680"
+kfl00002_0110_v1.1	Pfam	protein_match	203	239	7.1E-6	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 203 239;ID=match$434_203_239;signature_desc=WD domain, G-beta repeat;Name=PF00400;status=T;Dbxref="InterPro:IPR001680"
+kfl00002_0110_v1.1	Pfam	protein_match	158	194	5.9E-8	+	.	date=21-02-2022;Target=kfl00002_0110_v1.1 158 194;ID=match$434_158_194;signature_desc=WD domain, G-beta repeat;Name=PF00400;status=T;Dbxref="InterPro:IPR001680"
+kfl00371_0050_v1.1	.	polypeptide	1	1689	.	+	.	ID=kfl00371_0050_v1.1;md5=15092bd623a1abbaae4b8b6864c4272e
+kfl00371_0050_v1.1	MobiDBLite	protein_match	1148	1167	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 1148 1167;ID=match$435_1148_1167;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	1599	1665	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 1599 1665;ID=match$436_1599_1665;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	852	901	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 852 901;ID=match$437_852_901;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	949	972	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 949 972;ID=match$438_949_972;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	1302	1316	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 1302 1316;ID=match$439_1302_1316;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	93	167	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 93 167;ID=match$440_93_167;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	294	357	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 294 357;ID=match$441_294_357;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	1483	1503	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 1483 1503;ID=match$442_1483_1503;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	Gene3D	protein_match	438	487	4.6E-6	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 438 487;ID=match$443_438_487;Name=G3DSA:2.30.30.140;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	395	417	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 395 417;ID=match$444_395_417;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	Coils	protein_match	794	814	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 794 814;ID=match$445_794_814;Name=Coil;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	1191	1205	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 1191 1205;ID=match$446_1191_1205;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	93	107	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 93 107;ID=match$447_93_107;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	849	1252	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 849 1252;ID=match$448_849_1252;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	625	835	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 625 835;ID=match$449_625_835;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	203	230	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 203 230;ID=match$450_203_230;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	627	641	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 627 641;ID=match$451_627_641;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	PANTHER	protein_match	107	564	8.6E-14	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 107 564;ID=match$452_107_564;Name=PTHR12663;status=T;Dbxref="InterPro:IPR039776"
+kfl00371_0050_v1.1	MobiDBLite	protein_match	491	521	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 491 521;ID=match$453_491_521;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	791	819	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 791 819;ID=match$454_791_819;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	491	611	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 491 611;ID=match$455_491_611;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	1075	1097	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 1075 1097;ID=match$456_1075_1097;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	1285	1566	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 1285 1566;ID=match$457_1285_1566;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	203	252	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 203 252;ID=match$458_203_252;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	PANTHER	protein_match	107	564	8.6E-14	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 107 564;ID=match$459_107_564;Name=PTHR12663:SF3;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	1005	1019	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 1005 1019;ID=match$460_1005_1019;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00371_0050_v1.1	MobiDBLite	protein_match	1333	1348	.	+	.	date=21-02-2022;Target=kfl00371_0050_v1.1 1333 1348;ID=match$461_1333_1348;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00240_0180_v1.1	.	polypeptide	1	307	.	+	.	ID=kfl00240_0180_v1.1;md5=eff51e415d84e4c1d73e7ea21b95a905
+kfl00240_0180_v1.1	Pfam	protein_match	143	242	3.0E-8	+	.	date=21-02-2022;Target=kfl00240_0180_v1.1 143 242;ID=match$462_143_242;signature_desc=Glycosyltransferase family 25 (LPS biosynthesis protein);Name=PF01755;status=T;Dbxref="InterPro:IPR002654"
+kfl00240_0180_v1.1	MobiDBLite	protein_match	274	294	.	+	.	date=21-02-2022;Target=kfl00240_0180_v1.1 274 294;ID=match$463_274_294;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00240_0180_v1.1	MobiDBLite	protein_match	1	22	.	+	.	date=21-02-2022;Target=kfl00240_0180_v1.1 1 22;ID=match$464_1_22;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00782_0020_v1.1	.	polypeptide	1	892	.	+	.	ID=kfl00782_0020_v1.1;md5=62ebf9ad38960031edfc621cd681d390
+kfl00782_0020_v1.1	Pfam	protein_match	234	488	2.8E-39	+	.	date=21-02-2022;Target=kfl00782_0020_v1.1 234 488;ID=match$465_234_488;signature_desc=Exocyst complex component Sec3;Name=PF09763;status=T;Dbxref="InterPro:IPR019160"
+kfl00782_0020_v1.1	Pfam	protein_match	517	874	1.1E-37	+	.	date=21-02-2022;Target=kfl00782_0020_v1.1 517 874;ID=match$465_517_874;signature_desc=Exocyst complex component Sec3;Name=PF09763;status=T;Dbxref="InterPro:IPR019160"
+kfl00782_0020_v1.1	SMART	protein_match	48	146	7.4E-11	+	.	date=21-02-2022;Target=kfl00782_0020_v1.1 48 146;ID=match$466_48_146;Name=SM01313;status=T;Dbxref="InterPro:IPR028258"
+kfl00782_0020_v1.1	PANTHER	protein_match	12	889	1.1E-256	+	.	date=21-02-2022;Target=kfl00782_0020_v1.1 12 889;ID=match$467_12_889;Name=PTHR16092:SF29;status=T
+kfl00782_0020_v1.1	Coils	protein_match	231	258	.	+	.	date=21-02-2022;Target=kfl00782_0020_v1.1 231 258;ID=match$468_231_258;Name=Coil;status=T
+kfl00782_0020_v1.1	Coils	protein_match	291	328	.	+	.	date=21-02-2022;Target=kfl00782_0020_v1.1 291 328;ID=match$469_291_328;Name=Coil;status=T
+kfl00782_0020_v1.1	PANTHER	protein_match	12	889	1.1E-256	+	.	date=21-02-2022;Target=kfl00782_0020_v1.1 12 889;ID=match$470_12_889;Name=PTHR16092;status=T
+kfl00782_0020_v1.1	Pfam	protein_match	50	145	9.4E-14	+	.	date=21-02-2022;Target=kfl00782_0020_v1.1 50 145;ID=match$471_50_145;signature_desc=Exocyst complex component SEC3 N-terminal PIP2 binding PH;Name=PF15277;status=T;Dbxref="InterPro:IPR028258"
+kfl00023_0280_v1.1	.	polypeptide	1	4011	.	+	.	ID=kfl00023_0280_v1.1;md5=dcb4310ec1360e73491fb0258cc3fa02
+kfl00023_0280_v1.1	MobiDBLite	protein_match	2599	2632	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 2599 2632;ID=match$472_2599_2632;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	1395	1410	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 1395 1410;ID=match$473_1395_1410;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	3617	3643	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 3617 3643;ID=match$474_3617_3643;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	1762	1851	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 1762 1851;ID=match$475_1762_1851;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	1941	1955	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 1941 1955;ID=match$476_1941_1955;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	Coils	protein_match	3092	3121	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 3092 3121;ID=match$477_3092_3121;Name=Coil;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	773	974	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 773 974;ID=match$478_773_974;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	3175	3196	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 3175 3196;ID=match$479_3175_3196;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	224	258	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 224 258;ID=match$480_224_258;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	786	801	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 786 801;ID=match$481_786_801;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	Coils	protein_match	2501	2546	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 2501 2546;ID=match$482_2501_2546;Name=Coil;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	3754	3776	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 3754 3776;ID=match$483_3754_3776;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	2808	2908	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 2808 2908;ID=match$484_2808_2908;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	2570	2656	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 2570 2656;ID=match$485_2570_2656;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	Coils	protein_match	2244	2310	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 2244 2310;ID=match$486_2244_2310;Name=Coil;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	2173	2312	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 2173 2312;ID=match$487_2173_2312;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	3145	3170	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 3145 3170;ID=match$488_3145_3170;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	Pfam	protein_match	3830	3979	2.1E-11	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 3830 3979;ID=match$489_3830_3979;signature_desc=Domain of unknown function (DUF4378);Name=PF14309;status=T;Dbxref="InterPro:IPR025486"
+kfl00023_0280_v1.1	MobiDBLite	protein_match	59	81	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 59 81;ID=match$490_59_81;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	3370	3392	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 3370 3392;ID=match$491_3370_3392;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	Coils	protein_match	2173	2235	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 2173 2235;ID=match$492_2173_2235;Name=Coil;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	2571	2585	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 2571 2585;ID=match$493_2571_2585;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	Coils	protein_match	894	914	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 894 914;ID=match$494_894_914;Name=Coil;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	2989	3072	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 2989 3072;ID=match$495_2989_3072;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	Coils	protein_match	2748	2775	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 2748 2775;ID=match$496_2748_2775;Name=Coil;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	1821	1844	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 1821 1844;ID=match$497_1821_1844;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	PANTHER	protein_match	315	3123	1.3E-24	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 315 3123;ID=match$498_315_3123;Name=PTHR34491;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	895	920	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 895 920;ID=match$499_895_920;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	1376	1390	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 1376 1390;ID=match$500_1376_1390;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	1319	1375	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 1319 1375;ID=match$501_1319_1375;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	2882	2908	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 2882 2908;ID=match$502_2882_2908;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	3474	3497	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 3474 3497;ID=match$503_3474_3497;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	1066	1125	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 1066 1125;ID=match$504_1066_1125;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	2081	2096	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 2081 2096;ID=match$505_2081_2096;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	3657	3781	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 3657 3781;ID=match$506_3657_3781;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	2327	2341	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 2327 2341;ID=match$507_2327_2341;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	402	531	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 402 531;ID=match$508_402_531;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	Coils	protein_match	1340	1360	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 1340 1360;ID=match$509_1340_1360;Name=Coil;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	1	40	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 1 40;ID=match$510_1_40;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	3442	3456	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 3442 3456;ID=match$511_3442_3456;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	Coils	protein_match	2896	2927	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 2896 2927;ID=match$512_2896_2927;Name=Coil;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	59	75	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 59 75;ID=match$513_59_75;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	1319	1417	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 1319 1417;ID=match$514_1319_1417;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	1897	2128	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 1897 2128;ID=match$515_1897_2128;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	866	882	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 866 882;ID=match$516_866_882;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	177	202	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 177 202;ID=match$517_177_202;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	1921	1940	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 1921 1940;ID=match$518_1921_1940;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	Coils	protein_match	205	225	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 205 225;ID=match$519_205_225;Name=Coil;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	2828	2858	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 2828 2858;ID=match$520_2828_2858;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	15	40	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 15 40;ID=match$521_15_40;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	404	419	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 404 419;ID=match$522_404_419;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	1767	1784	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 1767 1784;ID=match$523_1767_1784;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	1455	1486	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 1455 1486;ID=match$524_1455_1486;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	3417	3506	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 3417 3506;ID=match$525_3417_3506;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	3141	3271	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 3141 3271;ID=match$526_3141_3271;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	3586	3643	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 3586 3643;ID=match$527_3586_3643;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	3023	3060	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 3023 3060;ID=match$528_3023_3060;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	2860	2877	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 2860 2877;ID=match$529_2860_2877;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00023_0280_v1.1	MobiDBLite	protein_match	2173	2373	.	+	.	date=21-02-2022;Target=kfl00023_0280_v1.1 2173 2373;ID=match$530_2173_2373;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00407_0070_v1.1	.	polypeptide	1	496	.	+	.	ID=kfl00407_0070_v1.1;md5=b9404198a7a6bbb03ce3a8323e5eba13
+kfl00407_0070_v1.1	MobiDBLite	protein_match	433	496	.	+	.	date=21-02-2022;Target=kfl00407_0070_v1.1 433 496;ID=match$531_433_496;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00163_0010_v1.1	.	polypeptide	1	1262	.	+	.	ID=kfl00163_0010_v1.1;md5=de2317dce33802eacc84c7377cc7f6b0
+kfl00163_0010_v1.1	MobiDBLite	protein_match	1	23	.	+	.	date=21-02-2022;Target=kfl00163_0010_v1.1 1 23;ID=match$532_1_23;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00163_0010_v1.1	MobiDBLite	protein_match	353	375	.	+	.	date=21-02-2022;Target=kfl00163_0010_v1.1 353 375;ID=match$533_353_375;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00163_0010_v1.1	PANTHER	protein_match	1089	1230	1.4E-20	+	.	date=21-02-2022;Target=kfl00163_0010_v1.1 1089 1230;ID=match$534_1089_1230;Name=PTHR34305;status=T
+kfl00163_0010_v1.1	ProSiteProfiles	protein_match	191	227	8.432	+	.	date=21-02-2022;Target=kfl00163_0010_v1.1 191 227;ID=match$535_191_227;signature_desc=Zinc finger SWIM-type profile.;Name=PS50966;status=T;Dbxref="InterPro:IPR007527"
+kfl00163_0010_v1.1	MobiDBLite	protein_match	359	373	.	+	.	date=21-02-2022;Target=kfl00163_0010_v1.1 359 373;ID=match$536_359_373;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00163_0010_v1.1	Pfam	protein_match	506	632	6.2E-29	+	.	date=21-02-2022;Target=kfl00163_0010_v1.1 506 632;ID=match$537_506_632;signature_desc=CxC4 like cysteine cluster associated with KDZ transposases;Name=PF18717;status=T;Dbxref="InterPro:IPR040648"
+kfl00163_0010_v1.1	MobiDBLite	protein_match	81	130	.	+	.	date=21-02-2022;Target=kfl00163_0010_v1.1 81 130;ID=match$538_81_130;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00282_0070_v1.1	.	polypeptide	1	97	.	+	.	ID=kfl00282_0070_v1.1;md5=c9d89365d04ac6ec5fdc32221cad25e8
+kfl00282_0070_v1.1	MobiDBLite	protein_match	26	57	.	+	.	date=21-02-2022;Target=kfl00282_0070_v1.1 26 57;ID=match$539_26_57;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00317_0020_v1.1	.	polypeptide	1	537	.	+	.	ID=kfl00317_0020_v1.1;md5=e8488bba5b6beed43e23c32ea6efc699
+kfl00317_0020_v1.1	ProSiteProfiles	protein_match	374	512	24.891	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 374 512;ID=match$540_374_512;signature_desc=TPR repeat region circular profile.;Name=PS50293;status=T;Dbxref="InterPro:IPR013026"
+kfl00317_0020_v1.1	SUPERFAMILY	protein_match	375	521	3.04E-21	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 375 521;ID=match$541_375_521;Name=SSF48452;status=T;Dbxref="InterPro:IPR011990"
+kfl00317_0020_v1.1	Gene3D	protein_match	364	446	1.2E-11	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 364 446;ID=match$542_364_446;Name=G3DSA:1.25.40.10;status=T;Dbxref="InterPro:IPR011990"
+kfl00317_0020_v1.1	PANTHER	protein_match	53	466	4.6E-70	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 53 466;ID=match$543_53_466;Name=PTHR12428;status=T;Dbxref="InterPro:IPR001708"
+kfl00317_0020_v1.1	Coils	protein_match	516	536	.	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 516 536;ID=match$544_516_536;Name=Coil;status=T
+kfl00317_0020_v1.1	ProSiteProfiles	protein_match	445	478	9.558	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 445 478;ID=match$545_445_478;signature_desc=TPR repeat profile.;Name=PS50005;status=T;Dbxref="InterPro:IPR019734"
+kfl00317_0020_v1.1	Pfam	protein_match	145	336	2.8E-12	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 145 336;ID=match$546_145_336;signature_desc=60Kd inner membrane protein;Name=PF02096;status=T;Dbxref="InterPro:IPR001708"
+kfl00317_0020_v1.1	SMART	protein_match	479	512	21.0	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 479 512;ID=match$547_479_512;Name=SM00028;status=T;Dbxref="InterPro:IPR019734"
+kfl00317_0020_v1.1	SMART	protein_match	408	441	11.0	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 408 441;ID=match$547_408_441;Name=SM00028;status=T;Dbxref="InterPro:IPR019734"
+kfl00317_0020_v1.1	SMART	protein_match	374	407	0.43	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 374 407;ID=match$547_374_407;Name=SM00028;status=T;Dbxref="InterPro:IPR019734"
+kfl00317_0020_v1.1	SMART	protein_match	445	478	7.9E-4	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 445 478;ID=match$547_445_478;Name=SM00028;status=T;Dbxref="InterPro:IPR019734"
+kfl00317_0020_v1.1	Pfam	protein_match	377	408	0.0012	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 377 408;ID=match$548_377_408;signature_desc=Tetratricopeptide repeat;Name=PF13176;status=T;Dbxref="InterPro:IPR019734"
+kfl00317_0020_v1.1	Pfam	protein_match	412	441	0.0035	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 412 441;ID=match$548_412_441;signature_desc=Tetratricopeptide repeat;Name=PF13176;status=T;Dbxref="InterPro:IPR019734"
+kfl00317_0020_v1.1	Pfam	protein_match	449	508	4.2E-8	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 449 508;ID=match$549_449_508;signature_desc=Tetratricopeptide repeat;Name=PF13432;status=T
+kfl00317_0020_v1.1	ProSiteProfiles	protein_match	374	407	7.021	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 374 407;ID=match$550_374_407;signature_desc=TPR repeat profile.;Name=PS50005;status=T;Dbxref="InterPro:IPR019734"
+kfl00317_0020_v1.1	PANTHER	protein_match	53	466	4.6E-70	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 53 466;ID=match$551_53_466;Name=PTHR12428:SF53;status=T
+kfl00317_0020_v1.1	ProSiteProfiles	protein_match	479	512	7.346	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 479 512;ID=match$552_479_512;signature_desc=TPR repeat profile.;Name=PS50005;status=T;Dbxref="InterPro:IPR019734"
+kfl00317_0020_v1.1	ProSiteProfiles	protein_match	408	441	6.962	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 408 441;ID=match$553_408_441;signature_desc=TPR repeat profile.;Name=PS50005;status=T;Dbxref="InterPro:IPR019734"
+kfl00317_0020_v1.1	MobiDBLite	protein_match	44	83	.	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 44 83;ID=match$554_44_83;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00317_0020_v1.1	MobiDBLite	protein_match	1	21	.	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 1 21;ID=match$555_1_21;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00317_0020_v1.1	Gene3D	protein_match	447	536	1.5E-12	+	.	date=21-02-2022;Target=kfl00317_0020_v1.1 447 536;ID=match$556_447_536;Name=G3DSA:1.25.40.10;status=T;Dbxref="InterPro:IPR011990"
+kfl00454_0110_v1.1	.	polypeptide	1	170	.	+	.	ID=kfl00454_0110_v1.1;md5=bfbebeda303d1bebdad2065125ee3402
+kfl00454_0110_v1.1	PANTHER	protein_match	10	167	8.2E-33	+	.	date=21-02-2022;Target=kfl00454_0110_v1.1 10 167;ID=match$557_10_167;Name=PTHR46100:SF4;status=T
+kfl00454_0110_v1.1	PANTHER	protein_match	10	167	8.2E-33	+	.	date=21-02-2022;Target=kfl00454_0110_v1.1 10 167;ID=match$558_10_167;Name=PTHR46100;status=T
+kfl00454_0110_v1.1	Pfam	protein_match	10	165	2.0E-24	+	.	date=21-02-2022;Target=kfl00454_0110_v1.1 10 165;ID=match$559_10_165;signature_desc=Universal stress protein family;Name=PF00582;status=T;Dbxref="InterPro:IPR006016"
+kfl00454_0110_v1.1	CDD	protein_match	12	164	1.43794E-27	+	.	date=21-02-2022;Target=kfl00454_0110_v1.1 12 164;ID=match$560_12_164;signature_desc=USP_Like;Name=cd00293;status=T
+kfl00454_0110_v1.1	Gene3D	protein_match	9	169	1.3E-29	+	.	date=21-02-2022;Target=kfl00454_0110_v1.1 9 169;ID=match$561_9_169;Name=G3DSA:3.40.50.620;status=T;Dbxref="InterPro:IPR014729"
+kfl00454_0110_v1.1	SUPERFAMILY	protein_match	11	165	4.26E-28	+	.	date=21-02-2022;Target=kfl00454_0110_v1.1 11 165;ID=match$562_11_165;Name=SSF52402;status=T
+kfl00454_0110_v1.1	PRINTS	protein_match	10	28	1.5E-14	+	.	date=21-02-2022;Target=kfl00454_0110_v1.1 10 28;ID=match$563_10_28;signature_desc=Universal stress protein signature;Name=PR01438;status=T;Dbxref="InterPro:IPR006015"
+kfl00454_0110_v1.1	PRINTS	protein_match	125	137	1.5E-14	+	.	date=21-02-2022;Target=kfl00454_0110_v1.1 125 137;ID=match$563_125_137;signature_desc=Universal stress protein signature;Name=PR01438;status=T;Dbxref="InterPro:IPR006015"
+kfl00454_0110_v1.1	PRINTS	protein_match	143	165	1.5E-14	+	.	date=21-02-2022;Target=kfl00454_0110_v1.1 143 165;ID=match$563_143_165;signature_desc=Universal stress protein signature;Name=PR01438;status=T;Dbxref="InterPro:IPR006015"
+kfl00224_0160_v1.1	.	polypeptide	1	809	.	+	.	ID=kfl00224_0160_v1.1;md5=a30f0908871552e87c862f25bbb106f5
+kfl00224_0160_v1.1	MobiDBLite	protein_match	490	505	.	+	.	date=21-02-2022;Target=kfl00224_0160_v1.1 490 505;ID=match$564_490_505;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00224_0160_v1.1	MobiDBLite	protein_match	568	582	.	+	.	date=21-02-2022;Target=kfl00224_0160_v1.1 568 582;ID=match$565_568_582;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00224_0160_v1.1	Pfam	protein_match	639	776	1.8E-28	+	.	date=21-02-2022;Target=kfl00224_0160_v1.1 639 776;ID=match$566_639_776;signature_desc=Colon cancer-associated protein Mic1-like;Name=PF07035;status=T;Dbxref="InterPro:IPR009755"
+kfl00224_0160_v1.1	MobiDBLite	protein_match	412	606	.	+	.	date=21-02-2022;Target=kfl00224_0160_v1.1 412 606;ID=match$567_412_606;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00224_0160_v1.1	MobiDBLite	protein_match	512	542	.	+	.	date=21-02-2022;Target=kfl00224_0160_v1.1 512 542;ID=match$568_512_542;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00224_0160_v1.1	PANTHER	protein_match	2	800	5.2E-161	+	.	date=21-02-2022;Target=kfl00224_0160_v1.1 2 800;ID=match$569_2_800;Name=PTHR12897;status=T;Dbxref="InterPro:IPR040371"
+kfl00714_0050_v1.1	.	polypeptide	1	1991	.	+	.	ID=kfl00714_0050_v1.1;md5=f9fe031c312c126889a7d6768a395805
+kfl00714_0050_v1.1	MobiDBLite	protein_match	117	142	.	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 117 142;ID=match$570_117_142;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00714_0050_v1.1	CDD	protein_match	767	949	7.38937E-90	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 767 949;ID=match$571_767_949;signature_desc=Sec7;Name=cd00171;status=T;Dbxref="InterPro:IPR000904"
+kfl00714_0050_v1.1	Pfam	protein_match	501	659	4.5E-45	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 501 659;ID=match$572_501_659;signature_desc=Guanine nucleotide exchange factor in Golgi transport N-terminal;Name=PF12783;status=T;Dbxref="InterPro:IPR032691"
+kfl00714_0050_v1.1	PANTHER	protein_match	15	67	0.0	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 15 67;ID=match$573_15_67;Name=PTHR10663;status=T
+kfl00714_0050_v1.1	MobiDBLite	protein_match	1681	1753	.	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 1681 1753;ID=match$574_1681_1753;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00714_0050_v1.1	SUPERFAMILY	protein_match	764	954	4.71E-76	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 764 954;ID=match$575_764_954;Name=SSF48425;status=T;Dbxref="InterPro:IPR035999"
+kfl00714_0050_v1.1	Pfam	protein_match	768	949	1.1E-71	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 768 949;ID=match$576_768_949;signature_desc=Sec7 domain;Name=PF01369;status=T;Dbxref="InterPro:IPR000904"
+kfl00714_0050_v1.1	ProSiteProfiles	protein_match	760	947	45.705	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 760 947;ID=match$577_760_947;signature_desc=SEC7 domain profile.;Name=PS50190;status=T;Dbxref="InterPro:IPR000904"
+kfl00714_0050_v1.1	SUPERFAMILY	protein_match	553	1670	9.72E-20	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 553 1670;ID=match$578_553_1670;Name=SSF48371;status=T;Dbxref="InterPro:IPR016024"
+kfl00714_0050_v1.1	SMART	protein_match	764	949	3.0E-99	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 764 949;ID=match$579_764_949;Name=SM00222;status=T;Dbxref="InterPro:IPR000904"
+kfl00714_0050_v1.1	MobiDBLite	protein_match	731	754	.	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 731 754;ID=match$580_731_754;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00714_0050_v1.1	PANTHER	protein_match	233	1979	0.0	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 233 1979;ID=match$581_233_1979;Name=PTHR10663;status=T
+kfl00714_0050_v1.1	PANTHER	protein_match	233	1979	0.0	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 233 1979;ID=match$582_233_1979;Name=PTHR10663:SF366;status=T
+kfl00714_0050_v1.1	Gene3D	protein_match	759	840	1.6E-27	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 759 840;ID=match$583_759_840;Name=G3DSA:1.10.220.20;status=T
+kfl00714_0050_v1.1	Pfam	protein_match	1486	1551	1.6E-11	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 1486 1551;ID=match$584_1486_1551;signature_desc=C-terminal region of Mon2 protein;Name=PF16206;status=T;Dbxref="InterPro:IPR032817"
+kfl00714_0050_v1.1	PANTHER	protein_match	15	67	0.0	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 15 67;ID=match$585_15_67;Name=PTHR10663:SF366;status=T
+kfl00714_0050_v1.1	MobiDBLite	protein_match	164	185	.	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 164 185;ID=match$586_164_185;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00714_0050_v1.1	MobiDBLite	protein_match	52	214	.	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 52 214;ID=match$587_52_214;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00714_0050_v1.1	Pfam	protein_match	1315	1397	3.4E-31	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 1315 1397;ID=match$588_1315_1397;signature_desc=Domain of unknown function (DUF1981);Name=PF09324;status=T;Dbxref="InterPro:IPR015403"
+kfl00714_0050_v1.1	Pfam	protein_match	243	375	1.2E-30	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 243 375;ID=match$589_243_375;signature_desc=Dimerisation and cyclophilin-binding domain of Mon2;Name=PF16213;status=T;Dbxref="InterPro:IPR032629"
+kfl00714_0050_v1.1	Gene3D	protein_match	841	956	1.3E-49	+	.	date=21-02-2022;Target=kfl00714_0050_v1.1 841 956;ID=match$590_841_956;Name=G3DSA:1.10.1000.11;status=T;Dbxref="InterPro:IPR023394"
+kfl00149_0085_v1.1	.	polypeptide	1	853	.	+	.	ID=kfl00149_0085_v1.1;md5=7910946239fdf591a743adddc5b93810
+kfl00149_0085_v1.1	Pfam	protein_match	234	382	5.0E-8	+	.	date=21-02-2022;Target=kfl00149_0085_v1.1 234 382;ID=match$591_234_382;signature_desc=ABC transporter;Name=PF00005;status=T;Dbxref="InterPro:IPR003439"
+kfl00149_0085_v1.1	PANTHER	protein_match	195	657	4.1E-173	+	.	date=21-02-2022;Target=kfl00149_0085_v1.1 195 657;ID=match$592_195_657;Name=PTHR19241;status=T
+kfl00149_0085_v1.1	PANTHER	protein_match	7	177	4.1E-173	+	.	date=21-02-2022;Target=kfl00149_0085_v1.1 7 177;ID=match$592_7_177;Name=PTHR19241;status=T
+kfl00149_0085_v1.1	PANTHER	protein_match	663	847	4.1E-173	+	.	date=21-02-2022;Target=kfl00149_0085_v1.1 663 847;ID=match$592_663_847;Name=PTHR19241;status=T
+kfl00149_0085_v1.1	PANTHER	protein_match	7	177	4.1E-173	+	.	date=21-02-2022;Target=kfl00149_0085_v1.1 7 177;ID=match$593_7_177;Name=PTHR19241:SF630;status=T
+kfl00149_0085_v1.1	Gene3D	protein_match	208	446	2.5E-27	+	.	date=21-02-2022;Target=kfl00149_0085_v1.1 208 446;ID=match$594_208_446;Name=G3DSA:3.40.50.300;status=T
+kfl00149_0085_v1.1	ProSiteProfiles	protein_match	210	457	11.091	+	.	date=21-02-2022;Target=kfl00149_0085_v1.1 210 457;ID=match$595_210_457;signature_desc=ATP-binding cassette, ABC transporter-type domain profile.;Name=PS50893;status=T;Dbxref="InterPro:IPR003439"
+kfl00149_0085_v1.1	PANTHER	protein_match	195	657	4.1E-173	+	.	date=21-02-2022;Target=kfl00149_0085_v1.1 195 657;ID=match$596_195_657;Name=PTHR19241:SF630;status=T
+kfl00149_0085_v1.1	PANTHER	protein_match	663	847	4.1E-173	+	.	date=21-02-2022;Target=kfl00149_0085_v1.1 663 847;ID=match$596_663_847;Name=PTHR19241:SF630;status=T
+kfl00149_0085_v1.1	SMART	protein_match	240	442	0.0057	+	.	date=21-02-2022;Target=kfl00149_0085_v1.1 240 442;ID=match$597_240_442;Name=SM00382;status=T;Dbxref="InterPro:IPR003593"
+kfl00149_0085_v1.1	Pfam	protein_match	661	773	3.1E-11	+	.	date=21-02-2022;Target=kfl00149_0085_v1.1 661 773;ID=match$598_661_773;signature_desc=ABC-2 type transporter;Name=PF01061;status=T;Dbxref="InterPro:IPR013525"
+kfl00149_0085_v1.1	Pfam	protein_match	535	629	2.1E-8	+	.	date=21-02-2022;Target=kfl00149_0085_v1.1 535 629;ID=match$598_535_629;signature_desc=ABC-2 type transporter;Name=PF01061;status=T;Dbxref="InterPro:IPR013525"
+kfl00149_0085_v1.1	Pfam	protein_match	11	76	2.6E-12	+	.	date=21-02-2022;Target=kfl00149_0085_v1.1 11 76;ID=match$598_11_76;signature_desc=ABC-2 type transporter;Name=PF01061;status=T;Dbxref="InterPro:IPR013525"
+kfl00149_0085_v1.1	SUPERFAMILY	protein_match	208	430	2.38E-21	+	.	date=21-02-2022;Target=kfl00149_0085_v1.1 208 430;ID=match$599_208_430;Name=SSF52540;status=T;Dbxref="InterPro:IPR027417"
+kfl01283_0010_v1.1	.	polypeptide	1	74	.	+	.	ID=kfl01283_0010_v1.1;md5=a2307f783fc043760e8f41c52f248961
+kfl01283_0010_v1.1	MobiDBLite	protein_match	9	31	.	+	.	date=21-02-2022;Target=kfl01283_0010_v1.1 9 31;ID=match$600_9_31;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl01283_0010_v1.1	MobiDBLite	protein_match	1	31	.	+	.	date=21-02-2022;Target=kfl01283_0010_v1.1 1 31;ID=match$601_1_31;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00064_0070_v1.1	.	polypeptide	1	463	.	+	.	ID=kfl00064_0070_v1.1;md5=25370716bcabd50c7ee2628019c60265
+kfl00064_0070_v1.1	CDD	protein_match	35	429	0.0	+	.	date=21-02-2022;Target=kfl00064_0070_v1.1 35 429;ID=match$602_35_429;signature_desc=MFS_MFSD5_like;Name=cd17487;status=T
+kfl00064_0070_v1.1	Pfam	protein_match	4	357	8.6E-166	+	.	date=21-02-2022;Target=kfl00064_0070_v1.1 4 357;ID=match$603_4_357;signature_desc=Sugar-tranasporters, 12 TM;Name=PF05631;status=T;Dbxref="InterPro:IPR008509"
+kfl00064_0070_v1.1	SUPERFAMILY	protein_match	43	447	3.79E-33	+	.	date=21-02-2022;Target=kfl00064_0070_v1.1 43 447;ID=match$604_43_447;Name=SSF103473;status=T;Dbxref="InterPro:IPR036259"
+kfl00064_0070_v1.1	PANTHER	protein_match	1	445	6.8E-223	+	.	date=21-02-2022;Target=kfl00064_0070_v1.1 1 445;ID=match$605_1_445;Name=PTHR23516;status=T;Dbxref="InterPro:IPR008509"
+kfl00064_0070_v1.1	Gene3D	protein_match	42	434	1.8E-27	+	.	date=21-02-2022;Target=kfl00064_0070_v1.1 42 434;ID=match$606_42_434;Name=G3DSA:1.20.1250.20;status=T;Dbxref="InterPro:IPR036259"
+kfl00064_0070_v1.1	PANTHER	protein_match	1	445	6.8E-223	+	.	date=21-02-2022;Target=kfl00064_0070_v1.1 1 445;ID=match$607_1_445;Name=PTHR23516:SF13;status=T
+kfl00075_0040_v1.1	.	polypeptide	1	1206	.	+	.	ID=kfl00075_0040_v1.1;md5=cd52f7cbc7fc2d2a053a21ff4080a9b5
+kfl00075_0040_v1.1	MobiDBLite	protein_match	276	406	.	+	.	date=21-02-2022;Target=kfl00075_0040_v1.1 276 406;ID=match$608_276_406;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00075_0040_v1.1	Gene3D	protein_match	836	1091	5.4E-17	+	.	date=21-02-2022;Target=kfl00075_0040_v1.1 836 1091;ID=match$609_836_1091;Name=G3DSA:1.25.10.10;status=T;Dbxref="InterPro:IPR011989"
+kfl00075_0040_v1.1	MobiDBLite	protein_match	1103	1161	.	+	.	date=21-02-2022;Target=kfl00075_0040_v1.1 1103 1161;ID=match$610_1103_1161;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00075_0040_v1.1	MobiDBLite	protein_match	709	740	.	+	.	date=21-02-2022;Target=kfl00075_0040_v1.1 709 740;ID=match$611_709_740;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00075_0040_v1.1	PANTHER	protein_match	35	1095	1.0E-223	+	.	date=21-02-2022;Target=kfl00075_0040_v1.1 35 1095;ID=match$612_35_1095;Name=PTHR13366;status=T
+kfl00075_0040_v1.1	MobiDBLite	protein_match	276	334	.	+	.	date=21-02-2022;Target=kfl00075_0040_v1.1 276 334;ID=match$613_276_334;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00075_0040_v1.1	SUPERFAMILY	protein_match	412	1043	2.79E-27	+	.	date=21-02-2022;Target=kfl00075_0040_v1.1 412 1043;ID=match$614_412_1043;Name=SSF48371;status=T;Dbxref="InterPro:IPR016024"
+kfl00075_0040_v1.1	MobiDBLite	protein_match	709	723	.	+	.	date=21-02-2022;Target=kfl00075_0040_v1.1 709 723;ID=match$615_709_723;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00075_0040_v1.1	Gene3D	protein_match	14	720	7.2E-10	+	.	date=21-02-2022;Target=kfl00075_0040_v1.1 14 720;ID=match$616_14_720;Name=G3DSA:1.25.10.10;status=T;Dbxref="InterPro:IPR011989"
+kfl00075_0040_v1.1	Pfam	protein_match	413	576	3.1E-40	+	.	date=21-02-2022;Target=kfl00075_0040_v1.1 413 576;ID=match$617_413_576;signature_desc=Domain of unknown function (DUF4042);Name=PF13251;status=T;Dbxref="InterPro:IPR025283"
+kfl00075_0040_v1.1	Gene3D	protein_match	749	835	1.5E-5	+	.	date=21-02-2022;Target=kfl00075_0040_v1.1 749 835;ID=match$618_749_835;Name=G3DSA:1.25.10.10;status=T;Dbxref="InterPro:IPR011989"
+kfl00041_0140_v1.1	.	polypeptide	1	466	.	+	.	ID=kfl00041_0140_v1.1;md5=7af040810c469ecf6356afb5ea18eac1
+kfl00041_0140_v1.1	CDD	protein_match	61	433	2.51963E-114	+	.	date=21-02-2022;Target=kfl00041_0140_v1.1 61 433;ID=match$619_61_433;signature_desc=GT4-like;Name=cd03814;status=T
+kfl00041_0140_v1.1	PANTHER	protein_match	57	449	2.2E-150	+	.	date=21-02-2022;Target=kfl00041_0140_v1.1 57 449;ID=match$620_57_449;Name=PTHR45947:SF7;status=T
+kfl00041_0140_v1.1	Pfam	protein_match	267	417	1.2E-28	+	.	date=21-02-2022;Target=kfl00041_0140_v1.1 267 417;ID=match$621_267_417;signature_desc=Glycosyl transferases group 1;Name=PF00534;status=T;Dbxref="InterPro:IPR001296"
+kfl00041_0140_v1.1	SUPERFAMILY	protein_match	64	431	1.06E-73	+	.	date=21-02-2022;Target=kfl00041_0140_v1.1 64 431;ID=match$622_64_431;Name=SSF53756;status=T
+kfl00041_0140_v1.1	Gene3D	protein_match	61	260	2.2E-24	+	.	date=21-02-2022;Target=kfl00041_0140_v1.1 61 260;ID=match$623_61_260;Name=G3DSA:3.40.50.2000;status=T
+kfl00041_0140_v1.1	MobiDBLite	protein_match	1	53	.	+	.	date=21-02-2022;Target=kfl00041_0140_v1.1 1 53;ID=match$624_1_53;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00041_0140_v1.1	Pfam	protein_match	82	247	9.1E-21	+	.	date=21-02-2022;Target=kfl00041_0140_v1.1 82 247;ID=match$625_82_247;signature_desc=Glycosyltransferase Family 4;Name=PF13439;status=T;Dbxref="InterPro:IPR028098"
+kfl00041_0140_v1.1	PANTHER	protein_match	57	449	2.2E-150	+	.	date=21-02-2022;Target=kfl00041_0140_v1.1 57 449;ID=match$626_57_449;Name=PTHR45947;status=T
+kfl00041_0140_v1.1	Gene3D	protein_match	261	422	5.4E-36	+	.	date=21-02-2022;Target=kfl00041_0140_v1.1 261 422;ID=match$627_261_422;Name=G3DSA:3.40.50.2000;status=T
+kfl00229_0020_v1.1	.	polypeptide	1	151	.	+	.	ID=kfl00229_0020_v1.1;md5=2f91b9e5a88ff460b3417042801372e5
+kfl00229_0020_v1.1	Pfam	protein_match	79	146	3.0E-15	+	.	date=21-02-2022;Target=kfl00229_0020_v1.1 79 146;ID=match$628_79_146;signature_desc=Ribosomal protein S15;Name=PF00312;status=T;Dbxref="InterPro:IPR000589"
+kfl00229_0020_v1.1	ProSitePatterns	protein_match	98	128	.	+	.	date=21-02-2022;Target=kfl00229_0020_v1.1 98 128;ID=match$629_98_128;signature_desc=Ribosomal protein S15 signature.;Name=PS00362;status=T;Dbxref="InterPro:IPR000589"
+kfl00229_0020_v1.1	SMART	protein_match	70	149	2.9E-14	+	.	date=21-02-2022;Target=kfl00229_0020_v1.1 70 149;ID=match$630_70_149;Name=SM01387;status=T;Dbxref="InterPro:IPR000589"
+kfl00229_0020_v1.1	SUPERFAMILY	protein_match	66	142	3.24E-21	+	.	date=21-02-2022;Target=kfl00229_0020_v1.1 66 142;ID=match$631_66_142;Name=SSF47060;status=T;Dbxref="InterPro:IPR009068"
+kfl00229_0020_v1.1	Gene3D	protein_match	83	151	7.0E-41	+	.	date=21-02-2022;Target=kfl00229_0020_v1.1 83 151;ID=match$632_83_151;Name=G3DSA:1.10.287.10;status=T
+kfl00229_0020_v1.1	SMART	protein_match	1	60	9.4E-39	+	.	date=21-02-2022;Target=kfl00229_0020_v1.1 1 60;ID=match$633_1_60;Name=SM01386;status=T;Dbxref="InterPro:IPR012606"
+kfl00229_0020_v1.1	PANTHER	protein_match	1	151	6.1E-89	+	.	date=21-02-2022;Target=kfl00229_0020_v1.1 1 151;ID=match$634_1_151;Name=PTHR11885:SF22;status=T
+kfl00229_0020_v1.1	Gene3D	protein_match	35	82	1.9E-28	+	.	date=21-02-2022;Target=kfl00229_0020_v1.1 35 82;ID=match$635_35_82;Name=G3DSA:4.10.860.130;status=T
+kfl00229_0020_v1.1	PANTHER	protein_match	1	151	6.1E-89	+	.	date=21-02-2022;Target=kfl00229_0020_v1.1 1 151;ID=match$636_1_151;Name=PTHR11885;status=T;Dbxref="InterPro:IPR023029"
+kfl00229_0020_v1.1	Pfam	protein_match	1	60	5.9E-31	+	.	date=21-02-2022;Target=kfl00229_0020_v1.1 1 60;ID=match$637_1_60;signature_desc=Ribosomal S13/S15 N-terminal domain;Name=PF08069;status=T;Dbxref="InterPro:IPR012606"
+kfl00229_0020_v1.1	CDD	protein_match	70	145	3.75831E-25	+	.	date=21-02-2022;Target=kfl00229_0020_v1.1 70 145;ID=match$638_70_145;signature_desc=Ribosomal_S15p_S13e;Name=cd00353;status=T;Dbxref="InterPro:IPR000589"
+kfl00341_0130_v1.1	.	polypeptide	1	250	.	+	.	ID=kfl00341_0130_v1.1;md5=5671c58909ee36d437695e6b398371da
+kfl00341_0130_v1.1	MobiDBLite	protein_match	89	113	.	+	.	date=21-02-2022;Target=kfl00341_0130_v1.1 89 113;ID=match$639_89_113;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00341_0130_v1.1	MobiDBLite	protein_match	97	113	.	+	.	date=21-02-2022;Target=kfl00341_0130_v1.1 97 113;ID=match$640_97_113;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00100_0230_v1.1	.	polypeptide	1	1040	.	+	.	ID=kfl00100_0230_v1.1;md5=1723ef9b6bf246633bcccee7729d1cc2
+kfl00100_0230_v1.1	MobiDBLite	protein_match	714	728	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 714 728;ID=match$641_714_728;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00100_0230_v1.1	MobiDBLite	protein_match	515	533	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 515 533;ID=match$642_515_533;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00100_0230_v1.1	ProSitePatterns	protein_match	1008	1027	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 1008 1027;ID=match$643_1008_1027;signature_desc=Nt-dnaJ domain signature.;Name=PS00636;status=T;Dbxref="InterPro:IPR018253"
+kfl00100_0230_v1.1	MobiDBLite	protein_match	637	754	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 637 754;ID=match$644_637_754;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00100_0230_v1.1	PANTHER	protein_match	843	1031	1.4E-34	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 843 1031;ID=match$645_843_1031;Name=PTHR44200;status=T
+kfl00100_0230_v1.1	SUPERFAMILY	protein_match	964	1033	3.79E-21	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 964 1033;ID=match$646_964_1033;Name=SSF46565;status=T;Dbxref="InterPro:IPR036869"
+kfl00100_0230_v1.1	Coils	protein_match	620	647	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 620 647;ID=match$647_620_647;Name=Coil;status=T
+kfl00100_0230_v1.1	Coils	protein_match	815	842	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 815 842;ID=match$648_815_842;Name=Coil;status=T
+kfl00100_0230_v1.1	MobiDBLite	protein_match	61	317	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 61 317;ID=match$649_61_317;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00100_0230_v1.1	SMART	protein_match	917	947	190.0	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 917 947;ID=match$650_917_947;Name=SM00028;status=T;Dbxref="InterPro:IPR019734"
+kfl00100_0230_v1.1	SMART	protein_match	845	878	7.5	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 845 878;ID=match$650_845_878;Name=SM00028;status=T;Dbxref="InterPro:IPR019734"
+kfl00100_0230_v1.1	SMART	protein_match	883	916	0.11	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 883 916;ID=match$650_883_916;Name=SM00028;status=T;Dbxref="InterPro:IPR019734"
+kfl00100_0230_v1.1	ProSiteProfiles	protein_match	845	878	8.113	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 845 878;ID=match$651_845_878;signature_desc=TPR repeat profile.;Name=PS50005;status=T;Dbxref="InterPro:IPR019734"
+kfl00100_0230_v1.1	MobiDBLite	protein_match	159	175	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 159 175;ID=match$652_159_175;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00100_0230_v1.1	MobiDBLite	protein_match	67	90	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 67 90;ID=match$653_67_90;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00100_0230_v1.1	Pfam	protein_match	968	1028	2.7E-17	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 968 1028;ID=match$654_968_1028;signature_desc=DnaJ domain;Name=PF00226;status=T;Dbxref="InterPro:IPR001623"
+kfl00100_0230_v1.1	MobiDBLite	protein_match	236	252	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 236 252;ID=match$655_236_252;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00100_0230_v1.1	MobiDBLite	protein_match	384	402	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 384 402;ID=match$656_384_402;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00100_0230_v1.1	Gene3D	protein_match	964	1039	1.0E-18	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 964 1039;ID=match$657_964_1039;Name=G3DSA:1.10.287.110;status=T;Dbxref="InterPro:IPR036869"
+kfl00100_0230_v1.1	MobiDBLite	protein_match	334	375	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 334 375;ID=match$658_334_375;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00100_0230_v1.1	MobiDBLite	protein_match	191	205	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 191 205;ID=match$659_191_205;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00100_0230_v1.1	MobiDBLite	protein_match	773	794	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 773 794;ID=match$660_773_794;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00100_0230_v1.1	ProSiteProfiles	protein_match	883	916	5.369	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 883 916;ID=match$661_883_916;signature_desc=TPR repeat profile.;Name=PS50005;status=T;Dbxref="InterPro:IPR019734"
+kfl00100_0230_v1.1	MobiDBLite	protein_match	294	315	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 294 315;ID=match$662_294_315;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00100_0230_v1.1	PRINTS	protein_match	970	988	1.9E-6	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 970 988;ID=match$663_970_988;signature_desc=DnaJ domain signature;Name=PR00625;status=T;Dbxref="InterPro:IPR001623"
+kfl00100_0230_v1.1	PRINTS	protein_match	988	1003	1.9E-6	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 988 1003;ID=match$663_988_1003;signature_desc=DnaJ domain signature;Name=PR00625;status=T;Dbxref="InterPro:IPR001623"
+kfl00100_0230_v1.1	PANTHER	protein_match	843	1031	1.4E-34	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 843 1031;ID=match$664_843_1031;Name=PTHR44200:SF1;status=T
+kfl00100_0230_v1.1	MobiDBLite	protein_match	773	790	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 773 790;ID=match$665_773_790;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00100_0230_v1.1	Gene3D	protein_match	842	963	3.4E-24	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 842 963;ID=match$666_842_963;Name=G3DSA:1.25.40.10;status=T;Dbxref="InterPro:IPR011990"
+kfl00100_0230_v1.1	MobiDBLite	protein_match	334	594	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 334 594;ID=match$667_334_594;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00100_0230_v1.1	ProSiteProfiles	protein_match	845	950	14.078	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 845 950;ID=match$668_845_950;signature_desc=TPR repeat region circular profile.;Name=PS50293;status=T;Dbxref="InterPro:IPR013026"
+kfl00100_0230_v1.1	MobiDBLite	protein_match	544	576	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 544 576;ID=match$669_544_576;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00100_0230_v1.1	MobiDBLite	protein_match	670	700	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 670 700;ID=match$670_670_700;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00100_0230_v1.1	MobiDBLite	protein_match	480	502	.	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 480 502;ID=match$671_480_502;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00100_0230_v1.1	SUPERFAMILY	protein_match	845	942	9.49E-20	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 845 942;ID=match$672_845_942;Name=SSF48452;status=T;Dbxref="InterPro:IPR011990"
+kfl00100_0230_v1.1	SMART	protein_match	967	1023	6.4E-19	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 967 1023;ID=match$673_967_1023;Name=SM00271;status=T;Dbxref="InterPro:IPR001623"
+kfl00100_0230_v1.1	ProSiteProfiles	protein_match	968	1031	17.786	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 968 1031;ID=match$674_968_1031;signature_desc=dnaJ domain profile.;Name=PS50076;status=T;Dbxref="InterPro:IPR001623"
+kfl00100_0230_v1.1	ProSiteProfiles	protein_match	917	950	5.605	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 917 950;ID=match$675_917_950;signature_desc=TPR repeat profile.;Name=PS50005;status=T;Dbxref="InterPro:IPR019734"
+kfl00100_0230_v1.1	CDD	protein_match	968	1020	2.05944E-18	+	.	date=21-02-2022;Target=kfl00100_0230_v1.1 968 1020;ID=match$676_968_1020;signature_desc=DnaJ;Name=cd06257;status=T;Dbxref="InterPro:IPR001623"
+kfl00190_0140_v1.1	.	polypeptide	1	737	.	+	.	ID=kfl00190_0140_v1.1;md5=49188154d4149de590f9b8e2fa607068
+kfl00190_0140_v1.1	PRINTS	protein_match	415	423	1.3E-18	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 415 423;ID=match$677_415_423;signature_desc=Glutamyl-tRNA synthetase signature;Name=PR00987;status=T;Dbxref="InterPro:IPR000924"
+kfl00190_0140_v1.1	PRINTS	protein_match	399	409	1.3E-18	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 399 409;ID=match$677_399_409;signature_desc=Glutamyl-tRNA synthetase signature;Name=PR00987;status=T;Dbxref="InterPro:IPR000924"
+kfl00190_0140_v1.1	PRINTS	protein_match	253	266	1.3E-18	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 253 266;ID=match$677_253_266;signature_desc=Glutamyl-tRNA synthetase signature;Name=PR00987;status=T;Dbxref="InterPro:IPR000924"
+kfl00190_0140_v1.1	PRINTS	protein_match	224	236	1.3E-18	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 224 236;ID=match$677_224_236;signature_desc=Glutamyl-tRNA synthetase signature;Name=PR00987;status=T;Dbxref="InterPro:IPR000924"
+kfl00190_0140_v1.1	PRINTS	protein_match	238	249	1.3E-18	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 238 249;ID=match$677_238_249;signature_desc=Glutamyl-tRNA synthetase signature;Name=PR00987;status=T;Dbxref="InterPro:IPR000924"
+kfl00190_0140_v1.1	TIGRFAM	protein_match	204	706	3.7E-154	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 204 706;ID=match$678_204_706;signature_desc=gltX_arch: glutamate--tRNA ligase;Name=TIGR00463;status=T;Dbxref="InterPro:IPR004526"
+kfl00190_0140_v1.1	SUPERFAMILY	protein_match	56	159	1.04E-16	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 56 159;ID=match$679_56_159;Name=SSF47616;status=T;Dbxref="InterPro:IPR036282"
+kfl00190_0140_v1.1	Gene3D	protein_match	221	436	1.8E-89	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 221 436;ID=match$680_221_436;Name=G3DSA:3.40.50.620;status=T;Dbxref="InterPro:IPR014729"
+kfl00190_0140_v1.1	MobiDBLite	protein_match	181	208	.	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 181 208;ID=match$681_181_208;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00190_0140_v1.1	Pfam	protein_match	220	524	2.5E-107	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 220 524;ID=match$682_220_524;signature_desc=tRNA synthetases class I (E and Q), catalytic domain;Name=PF00749;status=T;Dbxref="InterPro:IPR020058"
+kfl00190_0140_v1.1	Gene3D	protein_match	449	526	9.3E-30	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 449 526;ID=match$683_449_526;Name=G3DSA:1.10.1160.10;status=T;Dbxref="InterPro:IPR020061"
+kfl00190_0140_v1.1	PANTHER	protein_match	1	730	0.0	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 1 730;ID=match$684_1_730;Name=PTHR43097;status=T
+kfl00190_0140_v1.1	Pfam	protein_match	103	156	1.8E-5	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 103 156;ID=match$685_103_156;signature_desc=Glutathione S-transferase, C-terminal domain;Name=PF00043;status=T;Dbxref="InterPro:IPR004046"
+kfl00190_0140_v1.1	Gene3D	protein_match	639	721	2.4E-8	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 639 721;ID=match$686_639_721;Name=G3DSA:2.40.240.10;status=T;Dbxref="InterPro:IPR020056"
+kfl00190_0140_v1.1	MobiDBLite	protein_match	177	209	.	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 177 209;ID=match$687_177_209;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00190_0140_v1.1	ProSitePatterns	protein_match	227	238	.	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 227 238;ID=match$688_227_238;signature_desc=Aminoacyl-transfer RNA synthetases class-I signature.;Name=PS00178;status=T;Dbxref="InterPro:IPR001412"
+kfl00190_0140_v1.1	Pfam	protein_match	528	706	1.3E-31	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 528 706;ID=match$689_528_706;signature_desc=tRNA synthetases class I (E and Q), anti-codon binding domain;Name=PF03950;status=T;Dbxref="InterPro:IPR020059"
+kfl00190_0140_v1.1	SUPERFAMILY	protein_match	528	726	6.8E-45	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 528 726;ID=match$690_528_726;Name=SSF50715;status=T;Dbxref="InterPro:IPR011035"
+kfl00190_0140_v1.1	ProSiteProfiles	protein_match	33	176	9.761	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 33 176;ID=match$691_33_176;signature_desc=Soluble glutathione S-transferase C-terminal domain profile.;Name=PS50405;status=T;Dbxref="InterPro:IPR010987"
+kfl00190_0140_v1.1	PANTHER	protein_match	1	730	0.0	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 1 730;ID=match$692_1_730;Name=PTHR43097:SF12;status=T
+kfl00190_0140_v1.1	Gene3D	protein_match	1	169	6.0E-35	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 1 169;ID=match$693_1_169;Name=G3DSA:1.20.1050.130;status=T
+kfl00190_0140_v1.1	Gene3D	protein_match	294	398	1.8E-89	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 294 398;ID=match$694_294_398;Name=G3DSA:3.90.800.10;status=T
+kfl00190_0140_v1.1	CDD	protein_match	77	156	5.26225E-26	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 77 156;ID=match$695_77_156;signature_desc=GST_C_AaRS_like;Name=cd10289;status=T
+kfl00190_0140_v1.1	SUPERFAMILY	protein_match	220	534	8.31E-84	+	.	date=21-02-2022;Target=kfl00190_0140_v1.1 220 534;ID=match$696_220_534;Name=SSF52374;status=T
+kfl00438_0030_v1.1	.	polypeptide	1	88	.	+	.	ID=kfl00438_0030_v1.1;md5=976c4e972c402efdcf55c93f7885206f
+kfl00438_0030_v1.1	MobiDBLite	protein_match	52	88	.	+	.	date=21-02-2022;Target=kfl00438_0030_v1.1 52 88;ID=match$697_52_88;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00438_0030_v1.1	PANTHER	protein_match	4	88	3.9E-24	+	.	date=21-02-2022;Target=kfl00438_0030_v1.1 4 88;ID=match$698_4_88;Name=PTHR13362;status=T;Dbxref="InterPro:IPR013219"
+kfl00438_0030_v1.1	MobiDBLite	protein_match	53	70	.	+	.	date=21-02-2022;Target=kfl00438_0030_v1.1 53 70;ID=match$699_53_70;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00438_0030_v1.1	Pfam	protein_match	4	78	2.1E-17	+	.	date=21-02-2022;Target=kfl00438_0030_v1.1 4 78;ID=match$700_4_78;signature_desc=Mitochondrial ribosomal subunit S27;Name=PF08293;status=T;Dbxref="InterPro:IPR013219"
+kfl00438_0030_v1.1	MobiDBLite	protein_match	71	88	.	+	.	date=21-02-2022;Target=kfl00438_0030_v1.1 71 88;ID=match$701_71_88;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl01139_0010_v1.1	.	polypeptide	1	204	.	+	.	ID=kfl01139_0010_v1.1;md5=4fadf139be96a696423be95c89a0124c
+kfl01139_0010_v1.1	PANTHER	protein_match	33	173	4.2E-21	+	.	date=21-02-2022;Target=kfl01139_0010_v1.1 33 173;ID=match$702_33_173;Name=PTHR34305;status=T
+kfl00468_0090_v1.1	.	polypeptide	1	539	.	+	.	ID=kfl00468_0090_v1.1;md5=b0565fd6d87552b0f341014c54c27949
+kfl00468_0090_v1.1	MobiDBLite	protein_match	135	159	.	+	.	date=21-02-2022;Target=kfl00468_0090_v1.1 135 159;ID=match$703_135_159;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00468_0090_v1.1	MobiDBLite	protein_match	376	404	.	+	.	date=21-02-2022;Target=kfl00468_0090_v1.1 376 404;ID=match$704_376_404;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00468_0090_v1.1	MobiDBLite	protein_match	123	412	.	+	.	date=21-02-2022;Target=kfl00468_0090_v1.1 123 412;ID=match$705_123_412;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00468_0090_v1.1	MobiDBLite	protein_match	183	207	.	+	.	date=21-02-2022;Target=kfl00468_0090_v1.1 183 207;ID=match$706_183_207;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00674_0040_v1.1	.	polypeptide	1	749	.	+	.	ID=kfl00674_0040_v1.1;md5=2854397622a93ffa1e2300fe71f7a288
+kfl00674_0040_v1.1	Pfam	protein_match	253	557	9.8E-43	+	.	date=21-02-2022;Target=kfl00674_0040_v1.1 253 557;ID=match$707_253_557;signature_desc=Amidase;Name=PF01425;status=T;Dbxref="InterPro:IPR023631"
+kfl00674_0040_v1.1	Gene3D	protein_match	197	741	1.0E-97	+	.	date=21-02-2022;Target=kfl00674_0040_v1.1 197 741;ID=match$708_197_741;Name=G3DSA:3.90.1300.10;status=T;Dbxref="InterPro:IPR036928"
+kfl00674_0040_v1.1	ProSiteProfiles	protein_match	1	18	6.0	+	.	date=21-02-2022;Target=kfl00674_0040_v1.1 1 18;ID=match$709_1_18;signature_desc=Prokaryotic membrane lipoprotein lipid attachment site profile.;Name=PS51257;status=T
+kfl00674_0040_v1.1	SUPERFAMILY	protein_match	208	733	5.63E-70	+	.	date=21-02-2022;Target=kfl00674_0040_v1.1 208 733;ID=match$710_208_733;Name=SSF75304;status=T;Dbxref="InterPro:IPR036928"
+kfl00674_0040_v1.1	PANTHER	protein_match	208	732	1.2E-93	+	.	date=21-02-2022;Target=kfl00674_0040_v1.1 208 732;ID=match$711_208_732;Name=PTHR42678;status=T
+kfl00002_0170_v1.1	.	polypeptide	1	688	.	+	.	ID=kfl00002_0170_v1.1;md5=241d13b0adcd4fb5d365db534004e4e0
+kfl00002_0170_v1.1	MobiDBLite	protein_match	306	335	.	+	.	date=21-02-2022;Target=kfl00002_0170_v1.1 306 335;ID=match$712_306_335;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00002_0170_v1.1	SUPERFAMILY	protein_match	363	402	3.12E-6	+	.	date=21-02-2022;Target=kfl00002_0170_v1.1 363 402;ID=match$713_363_402;Name=SSF46934;status=T;Dbxref="InterPro:IPR009060"
+kfl00002_0170_v1.1	ProSiteProfiles	protein_match	352	396	8.643	+	.	date=21-02-2022;Target=kfl00002_0170_v1.1 352 396;ID=match$714_352_396;signature_desc=Ubiquitin-associated domain (UBA) profile.;Name=PS50030;status=T;Dbxref="InterPro:IPR015940"
+kfl00002_0170_v1.1	MobiDBLite	protein_match	157	335	.	+	.	date=21-02-2022;Target=kfl00002_0170_v1.1 157 335;ID=match$715_157_335;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00002_0170_v1.1	MobiDBLite	protein_match	572	587	.	+	.	date=21-02-2022;Target=kfl00002_0170_v1.1 572 587;ID=match$716_572_587;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00002_0170_v1.1	MobiDBLite	protein_match	457	637	.	+	.	date=21-02-2022;Target=kfl00002_0170_v1.1 457 637;ID=match$717_457_637;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00002_0170_v1.1	MobiDBLite	protein_match	61	92	.	+	.	date=21-02-2022;Target=kfl00002_0170_v1.1 61 92;ID=match$718_61_92;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00002_0170_v1.1	PANTHER	protein_match	89	619	2.9E-23	+	.	date=21-02-2022;Target=kfl00002_0170_v1.1 89 619;ID=match$719_89_619;Name=PTHR48148;status=T
+kfl00002_0170_v1.1	MobiDBLite	protein_match	53	141	.	+	.	date=21-02-2022;Target=kfl00002_0170_v1.1 53 141;ID=match$720_53_141;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00002_0170_v1.1	MobiDBLite	protein_match	514	544	.	+	.	date=21-02-2022;Target=kfl00002_0170_v1.1 514 544;ID=match$721_514_544;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00002_0170_v1.1	Gene3D	protein_match	360	409	1.6E-5	+	.	date=21-02-2022;Target=kfl00002_0170_v1.1 360 409;ID=match$722_360_409;Name=G3DSA:1.10.8.10;status=T
+kfl00146_0030_v1.1	.	polypeptide	1	379	.	+	.	ID=kfl00146_0030_v1.1;md5=8fc98a4c692cc015c42270c3a24912a5
+kfl00146_0030_v1.1	MobiDBLite	protein_match	184	267	.	+	.	date=21-02-2022;Target=kfl00146_0030_v1.1 184 267;ID=match$723_184_267;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00146_0030_v1.1	MobiDBLite	protein_match	215	243	.	+	.	date=21-02-2022;Target=kfl00146_0030_v1.1 215 243;ID=match$724_215_243;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00146_0030_v1.1	PANTHER	protein_match	312	374	1.5E-34	+	.	date=21-02-2022;Target=kfl00146_0030_v1.1 312 374;ID=match$725_312_374;Name=PTHR36361;status=T;Dbxref="InterPro:IPR034571"
+kfl00146_0030_v1.1	PANTHER	protein_match	3	121	1.5E-34	+	.	date=21-02-2022;Target=kfl00146_0030_v1.1 3 121;ID=match$725_3_121;Name=PTHR36361;status=T;Dbxref="InterPro:IPR034571"
+kfl00437_0020_v1.1	.	polypeptide	1	181	.	+	.	ID=kfl00437_0020_v1.1;md5=93096fc80d5b7ed4db975eed9233aa94
+kfl00437_0020_v1.1	Pfam	protein_match	9	172	5.6E-76	+	.	date=21-02-2022;Target=kfl00437_0020_v1.1 9 172;ID=match$726_9_172;signature_desc=Ribosomal protein S7e;Name=PF01251;status=T;Dbxref="InterPro:IPR000554"
+kfl00437_0020_v1.1	ProSitePatterns	protein_match	64	77	.	+	.	date=21-02-2022;Target=kfl00437_0020_v1.1 64 77;ID=match$727_64_77;signature_desc=Ribosomal protein S7e signature.;Name=PS00948;status=T;Dbxref="InterPro:IPR000554"
+kfl00437_0020_v1.1	PANTHER	protein_match	10	174	9.7E-100	+	.	date=21-02-2022;Target=kfl00437_0020_v1.1 10 174;ID=match$728_10_174;Name=PTHR11278:SF19;status=T
+kfl00437_0020_v1.1	Coils	protein_match	12	32	.	+	.	date=21-02-2022;Target=kfl00437_0020_v1.1 12 32;ID=match$729_12_32;Name=Coil;status=T
+kfl00437_0020_v1.1	PANTHER	protein_match	10	174	9.7E-100	+	.	date=21-02-2022;Target=kfl00437_0020_v1.1 10 174;ID=match$730_10_174;Name=PTHR11278;status=T;Dbxref="InterPro:IPR000554"
+kfl00326_0110_v1.1	.	polypeptide	1	244	.	+	.	ID=kfl00326_0110_v1.1;md5=26f5cdb8888c6c1e528a1b624ba16222
+kfl00326_0110_v1.1	MobiDBLite	protein_match	41	85	.	+	.	date=21-02-2022;Target=kfl00326_0110_v1.1 41 85;ID=match$731_41_85;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00326_0110_v1.1	MobiDBLite	protein_match	41	79	.	+	.	date=21-02-2022;Target=kfl00326_0110_v1.1 41 79;ID=match$732_41_79;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00326_0110_v1.1	PANTHER	protein_match	4	240	1.5E-55	+	.	date=21-02-2022;Target=kfl00326_0110_v1.1 4 240;ID=match$733_4_240;Name=PTHR13486;status=T;Dbxref="InterPro:IPR010756"
+kfl00326_0110_v1.1	MobiDBLite	protein_match	169	244	.	+	.	date=21-02-2022;Target=kfl00326_0110_v1.1 169 244;ID=match$734_169_244;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00326_0110_v1.1	MobiDBLite	protein_match	1	26	.	+	.	date=21-02-2022;Target=kfl00326_0110_v1.1 1 26;ID=match$735_1_26;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00326_0110_v1.1	MobiDBLite	protein_match	1	19	.	+	.	date=21-02-2022;Target=kfl00326_0110_v1.1 1 19;ID=match$736_1_19;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00326_0110_v1.1	MobiDBLite	protein_match	177	192	.	+	.	date=21-02-2022;Target=kfl00326_0110_v1.1 177 192;ID=match$737_177_192;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00326_0110_v1.1	Pfam	protein_match	80	171	1.3E-20	+	.	date=21-02-2022;Target=kfl00326_0110_v1.1 80 171;ID=match$738_80_171;signature_desc=Hepatocellular carcinoma-associated antigen 59;Name=PF07052;status=T;Dbxref="InterPro:IPR010756"
+kfl00640_0070_v1.1	.	polypeptide	1	318	.	+	.	ID=kfl00640_0070_v1.1;md5=c88c419f6fcc482e019bc8520965bcc4
+kfl00640_0070_v1.1	CDD	protein_match	117	178	5.88382E-18	+	.	date=21-02-2022;Target=kfl00640_0070_v1.1 117 178;ID=match$739_117_178;signature_desc=SNARE_SNAP25N_23N_29N_SEC9N;Name=cd15861;status=T;Dbxref="InterPro:IPR044766"
+kfl00640_0070_v1.1	PANTHER	protein_match	109	314	5.3E-51	+	.	date=21-02-2022;Target=kfl00640_0070_v1.1 109 314;ID=match$740_109_314;Name=PTHR19305:SF25;status=T
+kfl00640_0070_v1.1	MobiDBLite	protein_match	1	97	.	+	.	date=21-02-2022;Target=kfl00640_0070_v1.1 1 97;ID=match$741_1_97;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00640_0070_v1.1	ProSiteProfiles	protein_match	249	311	11.528	+	.	date=21-02-2022;Target=kfl00640_0070_v1.1 249 311;ID=match$742_249_311;signature_desc=t-SNARE coiled-coil homology domain profile.;Name=PS50192;status=T;Dbxref="InterPro:IPR000727"
+kfl00640_0070_v1.1	Gene3D	protein_match	239	314	7.9E-12	+	.	date=21-02-2022;Target=kfl00640_0070_v1.1 239 314;ID=match$743_239_314;Name=G3DSA:1.20.5.110;status=T
+kfl00640_0070_v1.1	SMART	protein_match	113	180	0.018	+	.	date=21-02-2022;Target=kfl00640_0070_v1.1 113 180;ID=match$744_113_180;Name=SM00397;status=T;Dbxref="InterPro:IPR000727"
+kfl00640_0070_v1.1	SMART	protein_match	244	311	1.7	+	.	date=21-02-2022;Target=kfl00640_0070_v1.1 244 311;ID=match$744_244_311;Name=SM00397;status=T;Dbxref="InterPro:IPR000727"
+kfl00640_0070_v1.1	SUPERFAMILY	protein_match	249	311	2.06E-10	+	.	date=21-02-2022;Target=kfl00640_0070_v1.1 249 311;ID=match$745_249_311;Name=SSF58038;status=T
+kfl00640_0070_v1.1	PANTHER	protein_match	109	314	5.3E-51	+	.	date=21-02-2022;Target=kfl00640_0070_v1.1 109 314;ID=match$746_109_314;Name=PTHR19305;status=T
+kfl00640_0070_v1.1	CDD	protein_match	252	307	2.34745E-9	+	.	date=21-02-2022;Target=kfl00640_0070_v1.1 252 307;ID=match$747_252_307;signature_desc=SNARE_Qc;Name=cd15841;status=T
+kfl00640_0070_v1.1	Gene3D	protein_match	109	181	3.4E-16	+	.	date=21-02-2022;Target=kfl00640_0070_v1.1 109 181;ID=match$748_109_181;Name=G3DSA:1.20.5.110;status=T
+kfl00640_0070_v1.1	SUPERFAMILY	protein_match	111	181	1.79E-15	+	.	date=21-02-2022;Target=kfl00640_0070_v1.1 111 181;ID=match$749_111_181;Name=SSF58038;status=T
+kfl00001_0520_v1.1	.	polypeptide	1	1876	.	+	.	ID=kfl00001_0520_v1.1;md5=36b03b3456ec3be684e4887fa6dc1fc4
+kfl00001_0520_v1.1	MobiDBLite	protein_match	978	1011	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 978 1011;ID=match$750_978_1011;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	MobiDBLite	protein_match	236	258	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 236 258;ID=match$751_236_258;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	Coils	protein_match	462	531	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 462 531;ID=match$752_462_531;Name=Coil;status=T
+kfl00001_0520_v1.1	Coils	protein_match	380	453	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 380 453;ID=match$753_380_453;Name=Coil;status=T
+kfl00001_0520_v1.1	MobiDBLite	protein_match	764	794	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 764 794;ID=match$754_764_794;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	MobiDBLite	protein_match	24	69	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 24 69;ID=match$755_24_69;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	Coils	protein_match	581	685	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 581 685;ID=match$756_581_685;Name=Coil;status=T
+kfl00001_0520_v1.1	MobiDBLite	protein_match	41	55	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 41 55;ID=match$757_41_55;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	Coils	protein_match	76	131	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 76 131;ID=match$758_76_131;Name=Coil;status=T
+kfl00001_0520_v1.1	MobiDBLite	protein_match	522	543	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 522 543;ID=match$759_522_543;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	MobiDBLite	protein_match	1248	1275	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1248 1275;ID=match$760_1248_1275;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	PANTHER	protein_match	1176	1871	5.6E-30	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1176 1871;ID=match$761_1176_1871;Name=PTHR34491:SF9;status=T
+kfl00001_0520_v1.1	PANTHER	protein_match	1176	1871	5.6E-30	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1176 1871;ID=match$762_1176_1871;Name=PTHR34491;status=T
+kfl00001_0520_v1.1	PANTHER	protein_match	86	1212	5.6E-30	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 86 1212;ID=match$763_86_1212;Name=PTHR34491;status=T
+kfl00001_0520_v1.1	Coils	protein_match	995	1036	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 995 1036;ID=match$764_995_1036;Name=Coil;status=T
+kfl00001_0520_v1.1	MobiDBLite	protein_match	635	679	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 635 679;ID=match$765_635_679;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	Coils	protein_match	797	845	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 797 845;ID=match$766_797_845;Name=Coil;status=T
+kfl00001_0520_v1.1	Gene3D	protein_match	861	950	3.4E-5	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 861 950;ID=match$767_861_950;Name=G3DSA:1.20.5.1700;status=T
+kfl00001_0520_v1.1	MobiDBLite	protein_match	1653	1670	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1653 1670;ID=match$768_1653_1670;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	Coils	protein_match	745	779	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 745 779;ID=match$769_745_779;Name=Coil;status=T
+kfl00001_0520_v1.1	MobiDBLite	protein_match	842	901	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 842 901;ID=match$770_842_901;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	MobiDBLite	protein_match	1248	1297	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1248 1297;ID=match$771_1248_1297;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	Coils	protein_match	1424	1462	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1424 1462;ID=match$772_1424_1462;Name=Coil;status=T
+kfl00001_0520_v1.1	MobiDBLite	protein_match	1641	1670	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1641 1670;ID=match$773_1641_1670;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	MobiDBLite	protein_match	1135	1150	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1135 1150;ID=match$774_1135_1150;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	Gene3D	protein_match	621	784	1.4E-5	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 621 784;ID=match$775_621_784;Name=G3DSA:1.10.287.1490;status=T
+kfl00001_0520_v1.1	MobiDBLite	protein_match	764	779	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 764 779;ID=match$776_764_779;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	Coils	protein_match	1335	1390	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1335 1390;ID=match$777_1335_1390;Name=Coil;status=T
+kfl00001_0520_v1.1	Coils	protein_match	693	720	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 693 720;ID=match$778_693_720;Name=Coil;status=T
+kfl00001_0520_v1.1	Coils	protein_match	1173	1256	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1173 1256;ID=match$779_1173_1256;Name=Coil;status=T
+kfl00001_0520_v1.1	MobiDBLite	protein_match	922	950	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 922 950;ID=match$780_922_950;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	Coils	protein_match	197	224	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 197 224;ID=match$781_197_224;Name=Coil;status=T
+kfl00001_0520_v1.1	Coils	protein_match	861	895	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 861 895;ID=match$782_861_895;Name=Coil;status=T
+kfl00001_0520_v1.1	Coils	protein_match	286	306	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 286 306;ID=match$783_286_306;Name=Coil;status=T
+kfl00001_0520_v1.1	MobiDBLite	protein_match	1190	1216	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1190 1216;ID=match$784_1190_1216;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	PANTHER	protein_match	86	1212	5.6E-30	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 86 1212;ID=match$785_86_1212;Name=PTHR34491:SF9;status=T
+kfl00001_0520_v1.1	MobiDBLite	protein_match	1119	1161	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1119 1161;ID=match$786_1119_1161;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	Coils	protein_match	1041	1114	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1041 1114;ID=match$787_1041_1114;Name=Coil;status=T
+kfl00001_0520_v1.1	Coils	protein_match	1728	1755	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1728 1755;ID=match$788_1728_1755;Name=Coil;status=T
+kfl00001_0520_v1.1	Coils	protein_match	1661	1723	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1661 1723;ID=match$789_1661_1723;Name=Coil;status=T
+kfl00001_0520_v1.1	Coils	protein_match	1779	1876	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1779 1876;ID=match$790_1779_1876;Name=Coil;status=T
+kfl00001_0520_v1.1	Coils	protein_match	900	934	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 900 934;ID=match$791_900_934;Name=Coil;status=T
+kfl00001_0520_v1.1	Coils	protein_match	152	186	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 152 186;ID=match$792_152_186;Name=Coil;status=T
+kfl00001_0520_v1.1	MobiDBLite	protein_match	842	887	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 842 887;ID=match$793_842_887;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	Coils	protein_match	553	573	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 553 573;ID=match$794_553_573;Name=Coil;status=T
+kfl00001_0520_v1.1	Coils	protein_match	1264	1313	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1264 1313;ID=match$795_1264_1313;Name=Coil;status=T
+kfl00001_0520_v1.1	Coils	protein_match	1473	1524	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1473 1524;ID=match$796_1473_1524;Name=Coil;status=T
+kfl00001_0520_v1.1	Coils	protein_match	1532	1642	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1532 1642;ID=match$797_1532_1642;Name=Coil;status=T
+kfl00001_0520_v1.1	MobiDBLite	protein_match	1192	1216	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 1192 1216;ID=match$798_1192_1216;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00001_0520_v1.1	Coils	protein_match	960	987	.	+	.	date=21-02-2022;Target=kfl00001_0520_v1.1 960 987;ID=match$799_960_987;Name=Coil;status=T
+kfl00091_0220_v1.1	.	polypeptide	1	380	.	+	.	ID=kfl00091_0220_v1.1;md5=5640bce50d42224c146a41350cb27305
+kfl00091_0220_v1.1	Coils	protein_match	373	380	.	+	.	date=21-02-2022;Target=kfl00091_0220_v1.1 373 380;ID=match$800_373_380;Name=Coil;status=T
+kfl00091_0220_v1.1	Gene3D	protein_match	16	375	3.4E-103	+	.	date=21-02-2022;Target=kfl00091_0220_v1.1 16 375;ID=match$801_16_375;Name=G3DSA:3.20.20.80;status=T
+kfl00091_0220_v1.1	CDD	protein_match	20	363	1.87601E-158	+	.	date=21-02-2022;Target=kfl00091_0220_v1.1 20 363;ID=match$802_20_363;signature_desc=GH99;Name=cd11574;status=T;Dbxref="InterPro:IPR026071"
+kfl00091_0220_v1.1	Pfam	protein_match	18	367	1.3E-112	+	.	date=21-02-2022;Target=kfl00091_0220_v1.1 18 367;ID=match$803_18_367;signature_desc=Glycosyl hydrolase family 99;Name=PF16317;status=T;Dbxref="InterPro:IPR026071"
+kfl00091_0220_v1.1	PANTHER	protein_match	15	371	1.5E-123	+	.	date=21-02-2022;Target=kfl00091_0220_v1.1 15 371;ID=match$804_15_371;Name=PTHR13572;status=T;Dbxref="InterPro:IPR026071"
+kfl00756_0050_v1.1	.	polypeptide	1	360	.	+	.	ID=kfl00756_0050_v1.1;md5=616a2d0651ca95bd92e262a495969418
+kfl00756_0050_v1.1	MobiDBLite	protein_match	85	114	.	+	.	date=21-02-2022;Target=kfl00756_0050_v1.1 85 114;ID=match$805_85_114;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00756_0050_v1.1	Pfam	protein_match	171	339	1.0E-59	+	.	date=21-02-2022;Target=kfl00756_0050_v1.1 171 339;ID=match$806_171_339;signature_desc=B domain of TMEM189, localisation domain;Name=PF10520;status=T;Dbxref="InterPro:IPR019547"
+kfl00756_0050_v1.1	PANTHER	protein_match	88	347	2.4E-100	+	.	date=21-02-2022;Target=kfl00756_0050_v1.1 88 347;ID=match$807_88_347;Name=PTHR48231;status=T
+kfl00255_0150_v1.1	.	polypeptide	1	1303	.	+	.	ID=kfl00255_0150_v1.1;md5=7e729d5f336fcfea70844c5b36f2504a
+kfl00255_0150_v1.1	MobiDBLite	protein_match	1027	1043	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 1027 1043;ID=match$808_1027_1043;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00255_0150_v1.1	Coils	protein_match	518	552	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 518 552;ID=match$809_518_552;Name=Coil;status=T
+kfl00255_0150_v1.1	MobiDBLite	protein_match	979	1025	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 979 1025;ID=match$810_979_1025;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00255_0150_v1.1	Coils	protein_match	765	830	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 765 830;ID=match$811_765_830;Name=Coil;status=T
+kfl00255_0150_v1.1	Coils	protein_match	430	450	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 430 450;ID=match$812_430_450;Name=Coil;status=T
+kfl00255_0150_v1.1	MobiDBLite	protein_match	1257	1291	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 1257 1291;ID=match$813_1257_1291;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00255_0150_v1.1	Coils	protein_match	199	247	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 199 247;ID=match$814_199_247;Name=Coil;status=T
+kfl00255_0150_v1.1	MobiDBLite	protein_match	280	423	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 280 423;ID=match$815_280_423;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00255_0150_v1.1	MobiDBLite	protein_match	979	1054	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 979 1054;ID=match$816_979_1054;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00255_0150_v1.1	PRINTS	protein_match	119	133	7.7E-6	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 119 133;ID=match$817_119_133;signature_desc=Ankyrin repeat signature;Name=PR01415;status=T;Dbxref="InterPro:IPR002110"
+kfl00255_0150_v1.1	PRINTS	protein_match	37	52	7.7E-6	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 37 52;ID=match$817_37_52;signature_desc=Ankyrin repeat signature;Name=PR01415;status=T;Dbxref="InterPro:IPR002110"
+kfl00255_0150_v1.1	MobiDBLite	protein_match	1262	1291	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 1262 1291;ID=match$818_1262_1291;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00255_0150_v1.1	Gene3D	protein_match	5	75	1.0E-21	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 5 75;ID=match$819_5_75;Name=G3DSA:1.25.40.20;status=T;Dbxref="InterPro:IPR036770"
+kfl00255_0150_v1.1	MobiDBLite	protein_match	403	420	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 403 420;ID=match$820_403_420;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00255_0150_v1.1	Gene3D	protein_match	76	163	8.5E-25	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 76 163;ID=match$821_76_163;Name=G3DSA:1.25.40.20;status=T;Dbxref="InterPro:IPR036770"
+kfl00255_0150_v1.1	MobiDBLite	protein_match	1159	1201	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 1159 1201;ID=match$822_1159_1201;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00255_0150_v1.1	ProSiteProfiles	protein_match	8	156	45.546	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 8 156;ID=match$823_8_156;signature_desc=Ankyrin repeat region circular profile.;Name=PS50297;status=T;Dbxref="InterPro:IPR020683"
+kfl00255_0150_v1.1	PANTHER	protein_match	72	310	3.6E-40	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 72 310;ID=match$824_72_310;Name=PTHR24178:SF9;status=T
+kfl00255_0150_v1.1	Coils	protein_match	255	275	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 255 275;ID=match$825_255_275;Name=Coil;status=T
+kfl00255_0150_v1.1	Pfam	protein_match	9	101	2.7E-16	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 9 101;ID=match$826_9_101;signature_desc=Ankyrin repeats (3 copies);Name=PF12796;status=T;Dbxref="InterPro:IPR020683"
+kfl00255_0150_v1.1	ProSiteProfiles	protein_match	36	68	15.307	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 36 68;ID=match$827_36_68;signature_desc=Ankyrin repeat profile.;Name=PS50088;status=T;Dbxref="InterPro:IPR002110"
+kfl00255_0150_v1.1	Coils	protein_match	1070	1242	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 1070 1242;ID=match$828_1070_1242;Name=Coil;status=T
+kfl00255_0150_v1.1	PANTHER	protein_match	8	157	3.6E-40	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 8 157;ID=match$829_8_157;Name=PTHR24178;status=T
+kfl00255_0150_v1.1	Coils	protein_match	346	380	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 346 380;ID=match$830_346_380;Name=Coil;status=T
+kfl00255_0150_v1.1	MobiDBLite	protein_match	458	478	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 458 478;ID=match$831_458_478;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00255_0150_v1.1	ProSiteProfiles	protein_match	103	135	13.197	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 103 135;ID=match$832_103_135;signature_desc=Ankyrin repeat profile.;Name=PS50088;status=T;Dbxref="InterPro:IPR002110"
+kfl00255_0150_v1.1	Coils	protein_match	697	724	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 697 724;ID=match$833_697_724;Name=Coil;status=T
+kfl00255_0150_v1.1	PANTHER	protein_match	72	310	3.6E-40	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 72 310;ID=match$834_72_310;Name=PTHR24178;status=T
+kfl00255_0150_v1.1	Coils	protein_match	732	752	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 732 752;ID=match$835_732_752;Name=Coil;status=T
+kfl00255_0150_v1.1	Coils	protein_match	283	331	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 283 331;ID=match$836_283_331;Name=Coil;status=T
+kfl00255_0150_v1.1	MobiDBLite	protein_match	344	380	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 344 380;ID=match$837_344_380;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00255_0150_v1.1	ProSiteProfiles	protein_match	73	102	10.499	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 73 102;ID=match$838_73_102;signature_desc=Ankyrin repeat profile.;Name=PS50088;status=T;Dbxref="InterPro:IPR002110"
+kfl00255_0150_v1.1	Coils	protein_match	924	1061	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 924 1061;ID=match$839_924_1061;Name=Coil;status=T
+kfl00255_0150_v1.1	MobiDBLite	protein_match	715	735	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 715 735;ID=match$840_715_735;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00255_0150_v1.1	MobiDBLite	protein_match	1158	1201	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 1158 1201;ID=match$841_1158_1201;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00255_0150_v1.1	MobiDBLite	protein_match	796	859	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 796 859;ID=match$842_796_859;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00255_0150_v1.1	Coils	protein_match	859	911	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 859 911;ID=match$843_859_911;Name=Coil;status=T
+kfl00255_0150_v1.1	MobiDBLite	protein_match	290	336	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 290 336;ID=match$844_290_336;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00255_0150_v1.1	Pfam	protein_match	105	134	9.3E-6	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 105 134;ID=match$845_105_134;signature_desc=Ankyrin repeat;Name=PF00023;status=T;Dbxref="InterPro:IPR002110"
+kfl00255_0150_v1.1	SUPERFAMILY	protein_match	8	157	2.93E-41	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 8 157;ID=match$846_8_157;Name=SSF48403;status=T;Dbxref="InterPro:IPR036770"
+kfl00255_0150_v1.1	MobiDBLite	protein_match	231	258	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 231 258;ID=match$847_231_258;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+kfl00255_0150_v1.1	Coils	protein_match	592	633	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 592 633;ID=match$848_592_633;Name=Coil;status=T
+kfl00255_0150_v1.1	PANTHER	protein_match	8	157	3.6E-40	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 8 157;ID=match$849_8_157;Name=PTHR24178:SF9;status=T
+kfl00255_0150_v1.1	Coils	protein_match	469	510	.	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 469 510;ID=match$850_469_510;Name=Coil;status=T
+kfl00255_0150_v1.1	SMART	protein_match	70	99	0.004	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 70 99;ID=match$851_70_99;Name=SM00248;status=T;Dbxref="InterPro:IPR002110"
+kfl00255_0150_v1.1	SMART	protein_match	36	65	1.6E-5	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 36 65;ID=match$851_36_65;Name=SM00248;status=T;Dbxref="InterPro:IPR002110"
+kfl00255_0150_v1.1	SMART	protein_match	103	132	1.3E-5	+	.	date=21-02-2022;Target=kfl00255_0150_v1.1 103 132;ID=match$851_103_132;Name=SM00248;status=T;Dbxref="InterPro:IPR002110"
+kfl00730_0060_v1.1	.	polypeptide	1	352	.	+	.	ID=kfl00730_0060_v1.1;md5=a485cf749754e9e3cff361c6578faed0
+kfl00730_0060_v1.1	MobiDBLite	protein_match	190	204	.	+	.	date=21-02-2022;Target=kfl00730_0060_v1.1 190 204;ID=match$852_190_204;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
