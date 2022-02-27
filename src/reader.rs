@@ -15,11 +15,7 @@ use crate::parser::Expr;
 fn is_compressed<P: AsRef<Path>>(p: &P) -> bool {
     let ext = p.as_ref().extension();
 
-    if ext == Some(OsStr::new("gz")) {
-        true
-    } else {
-        false
-    }
+    ext == Some(OsStr::new("gz"))
 }
 
 pub fn read_with_gz<P: AsRef<Path>>(p: &P) -> Result<Box<dyn BufRead>, Box<dyn Error>> {
@@ -77,7 +73,7 @@ impl DomainRecord {
 pub fn parse_line(line: &str) -> Result<(String, DomainRecord), Box<dyn Error>> {
     let line = line.trim();
 
-    let records: Vec<&str> = line.split("\t").collect();
+    let records: Vec<&str> = line.split('\t').collect();
     if records.len() != 9 {
         let err: Box<dyn Error> = Box::new(io::Error::new(
             io::ErrorKind::InvalidData,
@@ -94,8 +90,8 @@ pub fn parse_line(line: &str) -> Result<(String, DomainRecord), Box<dyn Error>> 
 
     let mut domain_name = "No Name";
     let mut domain_desc = "No Description";
-    for attr in records[8].split(";") {
-        let attr_records: Vec<&str> = attr.split("=").collect();
+    for attr in records[8].split(';') {
+        let attr_records: Vec<&str> = attr.split('=').collect();
 
         if attr_records.len() != 2 {
             continue;
@@ -272,7 +268,7 @@ impl<R: BufRead> InterproGffReader<R> {
             .into_values()
             .filter(|x| {
                 if let Some(expr) = &self.domain_expr {
-                    let expr_result = expr.matches_domains(&x);
+                    let expr_result = expr.matches_domains(x);
 
                     if let Ok(is_ok) = expr_result {
                         is_ok

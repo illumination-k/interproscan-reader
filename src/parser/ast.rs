@@ -37,125 +37,121 @@ impl Node {
             return Err(err);
         }
 
-        loop {
-            let next = match tokens.front() {
-                Some(x) => x,
-                None => {
-                    let err: Box<dyn Error> =
-                        Box::new(ParseError::new("unexpected end of expression"));
-                    return Err(err);
-                }
-            };
+        let next = match tokens.front() {
+            Some(x) => x,
+            None => {
+                let err: Box<dyn Error> = Box::new(ParseError::new("unexpected end of expression"));
+                return Err(err);
+            }
+        };
 
-            match next {
-                Token::CloseBracket => {
-                    let err: Box<dyn Error> =
-                        Box::new(ParseError::new("Unexpected closing bracket"));
-                    return Err(err);
-                }
-                Token::OpenBracket => {
-                    let _ = tokens.pop_front();
-                    let result = Self::munch_tokens(tokens, depth - 1)?;
+        match next {
+            Token::CloseBracket => {
+                let err: Box<dyn Error> = Box::new(ParseError::new("Unexpected closing bracket"));
+                return Err(err);
+            }
+            Token::OpenBracket => {
+                let _ = tokens.pop_front();
+                let result = Self::munch_tokens(tokens, depth - 1)?;
 
-                    if let Some(tk) = tokens.pop_front() {
-                        if tk != Token::CloseBracket {
-                            let err: Box<dyn Error> =
-                                Box::new(ParseError::new("expected closing bracket"));
-                            return Err(err);
-                        }
-                    }
-
-                    return match tokens.front() {
-                        Some(Token::And) => {
-                            tokens.pop_front();
-                            let result = Node::And {
-                                lhs: Box::new(result),
-                                rhs: Box::new(Self::munch_tokens(tokens, depth - 1)?),
-                            };
-                            return Ok(result);
-                        }
-                        Some(Token::Or) => {
-                            let _ = tokens.pop_front();
-                            let result = Node::Or {
-                                lhs: Box::new(result),
-                                rhs: Box::new(Self::munch_tokens(tokens, depth - 1)?),
-                            };
-                            return Ok(result);
-                        }
-                        None | Some(Token::CloseBracket) => Ok(result),
-                        Some(_) => {
-                            let err: Box<dyn Error> =
-                                Box::new(ParseError::new("invald token after closing bracket"));
-                            return Err(err);
-                        }
-                    };
-                }
-                Token::Invert => {
-                    let _ = tokens.pop_front();
-
-                    match tokens.front() {
-                        Some(Token::OpenBracket) => {
-                            return Ok(Node::Invert(Box::new(Self::munch_tokens(
-                                tokens,
-                                depth - 1,
-                            )?)))
-                        }
-                        Some(Token::Name(text)) => {
-                            let inverted = Node::Invert(Box::new(Node::Name(text.clone())));
-                            match tokens.get(1) {
-                                Some(Token::And) | Some(Token::Or) => {
-                                    // "!abc & xyz"
-                                    // convert to unambiguous form and try again
-                                    tokens.insert(0, Token::OpenBracket);
-                                    tokens.insert(1, Token::Invert);
-                                    tokens.insert(2, Token::OpenBracket);
-                                    tokens.insert(4, Token::CloseBracket);
-                                    tokens.insert(5, Token::CloseBracket);
-                                    return Self::munch_tokens(tokens, depth - 1);
-                                }
-                                None | Some(Token::CloseBracket) => {
-                                    // "!abc"
-                                    tokens.remove(0); // remove name
-                                    return Ok(inverted);
-                                }
-                                Some(_) => {
-                                    return Err(Box::new(ParseError::new(
-                                        "invalid token after inverted name",
-                                    )))
-                                }
-                            }
-                        }
-                        Some(Token::Invert) => {
-                            return Err(Box::new(ParseError::new(
-                                "Can't double invert, that would be no mean",
-                            )));
-                        }
-                        Some(_) => return Err(Box::new(ParseError::new("expected expression"))),
-                        None => {
-                            return Err(Box::new(ParseError::new(
-                                "Expected token to invert, got EOF",
-                            )))
-                        }
-                    }
-                }
-                Token::Name(text) => match tokens.get(1) {
-                    Some(Token::And) | Some(Token::Or) => {
-                        add_bracket(tokens);
-                        return Self::munch_tokens(tokens, depth - 1);
-                    }
-                    Some(Token::CloseBracket) | None => {
-                        let text = text.clone();
-                        let _ = tokens.pop_front();
-                        return Ok(Node::Name(text));
-                    }
-                    Some(_) => {
-                        let err = Box::new(ParseError::new("Name followed by invalid token"));
+                if let Some(tk) = tokens.pop_front() {
+                    if tk != Token::CloseBracket {
+                        let err: Box<dyn Error> =
+                            Box::new(ParseError::new("expected closing bracket"));
                         return Err(err);
                     }
-                },
-                Token::And | Token::Or => {
-                    return Err(Box::new(ParseError::new("Unexpected binary operator")))
                 }
+
+                return match tokens.front() {
+                    Some(Token::And) => {
+                        tokens.pop_front();
+                        let result = Node::And {
+                            lhs: Box::new(result),
+                            rhs: Box::new(Self::munch_tokens(tokens, depth - 1)?),
+                        };
+                        return Ok(result);
+                    }
+                    Some(Token::Or) => {
+                        let _ = tokens.pop_front();
+                        let result = Node::Or {
+                            lhs: Box::new(result),
+                            rhs: Box::new(Self::munch_tokens(tokens, depth - 1)?),
+                        };
+                        return Ok(result);
+                    }
+                    None | Some(Token::CloseBracket) => Ok(result),
+                    Some(_) => {
+                        let err: Box<dyn Error> =
+                            Box::new(ParseError::new("invald token after closing bracket"));
+                        return Err(err);
+                    }
+                };
+            }
+            Token::Invert => {
+                let _ = tokens.pop_front();
+
+                match tokens.front() {
+                    Some(Token::OpenBracket) => {
+                        return Ok(Node::Invert(Box::new(Self::munch_tokens(
+                            tokens,
+                            depth - 1,
+                        )?)))
+                    }
+                    Some(Token::Name(text)) => {
+                        let inverted = Node::Invert(Box::new(Node::Name(text.clone())));
+                        match tokens.get(1) {
+                            Some(Token::And) | Some(Token::Or) => {
+                                // "!abc & xyz"
+                                // convert to unambiguous form and try again
+                                tokens.insert(0, Token::OpenBracket);
+                                tokens.insert(1, Token::Invert);
+                                tokens.insert(2, Token::OpenBracket);
+                                tokens.insert(4, Token::CloseBracket);
+                                tokens.insert(5, Token::CloseBracket);
+                                return Self::munch_tokens(tokens, depth - 1);
+                            }
+                            None | Some(Token::CloseBracket) => {
+                                // "!abc"
+                                tokens.remove(0); // remove name
+                                return Ok(inverted);
+                            }
+                            Some(_) => {
+                                return Err(Box::new(ParseError::new(
+                                    "invalid token after inverted name",
+                                )))
+                            }
+                        }
+                    }
+                    Some(Token::Invert) => {
+                        return Err(Box::new(ParseError::new(
+                            "Can't double invert, that would be no mean",
+                        )));
+                    }
+                    Some(_) => return Err(Box::new(ParseError::new("expected expression"))),
+                    None => {
+                        return Err(Box::new(ParseError::new(
+                            "Expected token to invert, got EOF",
+                        )))
+                    }
+                }
+            }
+            Token::Name(text) => match tokens.get(1) {
+                Some(Token::And) | Some(Token::Or) => {
+                    add_bracket(tokens);
+                    return Self::munch_tokens(tokens, depth - 1);
+                }
+                Some(Token::CloseBracket) | None => {
+                    let text = text.clone();
+                    let _ = tokens.pop_front();
+                    return Ok(Node::Name(text));
+                }
+                Some(_) => {
+                    let err = Box::new(ParseError::new("Name followed by invalid token"));
+                    return Err(err);
+                }
+            },
+            Token::And | Token::Or => {
+                return Err(Box::new(ParseError::new("Unexpected binary operator")))
             }
         }
     }
@@ -165,7 +161,7 @@ impl Node {
             Self::Invert(inverted) => !inverted.matches(tags)?,
             Self::Name(text) => {
                 // counting numbers of elements
-                let splitted: Vec<&str> = text.split("$").collect();
+                let splitted: Vec<&str> = text.split('$').collect();
                 match splitted.len() {
                     1 => tags.contains(&&**text),
                     2 => {

@@ -46,24 +46,20 @@ pub fn lex(s: &str) -> Result<Vec<Token>, Box<dyn Error>> {
 
                     state = ParseState::Ready;
                     cur_name = String::new();
+                } else if c.is_whitespace() {
+                    tokens.push(Token::Name(cur_name.to_owned()));
+                    state = ParseState::Ready;
+                    cur_name = String::new();
                 } else {
-                    if c.is_whitespace() {
-                        tokens.push(Token::Name(cur_name.to_owned()));
-                        state = ParseState::Ready;
-                        cur_name = String::new();
-                    } else {
-                        cur_name.push(c)
-                    }
+                    cur_name.push(c)
                 }
             }
             ParseState::Ready => {
                 if let Some(op) = op_token {
                     tokens.push(op);
-                } else {
-                    if !c.is_whitespace() {
-                        cur_name.push(c);
-                        state = ParseState::InName
-                    }
+                } else if !c.is_whitespace() {
+                    cur_name.push(c);
+                    state = ParseState::InName
                 }
             }
         }
@@ -86,9 +82,9 @@ mod test_lex {
         let tokens = lex(s).unwrap();
         assert_eq!(
             vec![
-                Token::Name("a".to_string()),
+                Token::Name('a'.to_string()),
                 Token::And,
-                Token::Name("b".to_string())
+                Token::Name('b'.to_string())
             ],
             tokens
         );
