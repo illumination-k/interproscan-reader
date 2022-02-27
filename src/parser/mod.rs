@@ -3,6 +3,7 @@ This parser is referred to https://github.com/Smittyvb/ttw/blob/f77fa34e62739b02
 */
 
 pub mod ast;
+pub mod expr;
 pub mod lex;
 
-pub use ast::Expr;
+pub use expr::{Expr, MAX_RECURSION};

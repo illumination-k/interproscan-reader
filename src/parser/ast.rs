@@ -1,8 +1,8 @@
-use super::lex::{lex, Token};
+use super::lex::Token;
 use std::{collections::VecDeque, error::Error, fmt};
 
 #[derive(Debug, Clone, PartialEq, Eq)]
-enum Node {
+pub enum Node {
     Invert(Box<Node>),
     And { lhs: Box<Node>, rhs: Box<Node> },
     Or { lhs: Box<Node>, rhs: Box<Node> },
@@ -31,7 +31,7 @@ impl fmt::Display for ParseError {
 impl Error for ParseError {}
 
 impl Node {
-    fn munch_tokens(tokens: &mut VecDeque<Token>, depth: u16) -> Result<Self, Box<dyn Error>> {
+    pub fn munch_tokens(tokens: &mut VecDeque<Token>, depth: u16) -> Result<Self, Box<dyn Error>> {
         if depth == 0 {
             let err: Box<dyn Error> = Box::new(ParseError::new("Expression too deep"));
             return Err(err);
@@ -160,7 +160,7 @@ impl Node {
         }
     }
 
-    fn matches(&self, tags: &[&str]) -> Result<bool, Box<dyn Error>> {
+    pub fn matches(&self, tags: &[&str]) -> Result<bool, Box<dyn Error>> {
         let result = match self {
             Self::Invert(inverted) => !inverted.matches(tags)?,
             Self::Name(text) => {
@@ -190,46 +190,8 @@ fn add_bracket(tokens: &mut VecDeque<Token>) {
     tokens.push_front(Token::OpenBracket);
 }
 
-#[derive(Debug, Clone, PartialEq, Eq)]
-enum ExprData {
-    Empty,
-    HasNodes(Node),
-}
-
-#[derive(Debug, Clone, PartialEq, Eq)]
-pub struct Expr(ExprData);
-
-pub const MAX_RECURSION: u16 = 20;
-
-impl Expr {
-    pub fn from_string(s: &str) -> Result<Self, Box<dyn Error>> {
-        // lex and convert to a deque
-        let mut tokens: VecDeque<Token> = VecDeque::from(lex(s)?);
-        if tokens.is_empty() {
-            // no tokens
-            return Ok(Self(ExprData::Empty));
-        }
-
-        let ast = Node::munch_tokens(&mut tokens, MAX_RECURSION)?;
-        if !tokens.is_empty() {
-            return Err(Box::new(ParseError::new(
-                "expected EOF, found extra tokens",
-            )));
-        }
-
-        Ok(Self(ExprData::HasNodes(ast)))
-    }
-
-    pub fn matches(&self, tags: &[&str]) -> Result<bool, Box<dyn Error>> {
-        match &self.0 {
-            ExprData::Empty => Ok(true),
-            ExprData::HasNodes(node) => node.matches(tags),
-        }
-    }
-}
-
 #[cfg(test)]
-mod test_parser {
+mod test_ast {
     use super::*;
 
     #[test]
@@ -251,202 +213,5 @@ mod test_parser {
         ]);
 
         assert_eq!(vq3, excpected);
-    }
-
-    #[test]
-    fn or_alias() {
-        assert_eq!(
-            Expr::from_string("a | b").unwrap().0,
-            Expr::from_string("a , b").unwrap().0,
-        );
-    }
-
-    #[test]
-    fn simple_and() {
-        let expr = Expr::from_string("a & b").unwrap();
-        assert_eq!(
-            expr.to_owned().0,
-            ExprData::HasNodes(Node::And {
-                lhs: Box::new(Node::Name("a".to_string())),
-                rhs: Box::new(Node::Name("b".to_string())),
-            })
-        );
-
-        assert!(expr.matches(&["a", "b"]).unwrap());
-        assert!(!expr.matches(&["a"]).unwrap());
-        assert!(!expr.matches(&["c"]).unwrap());
-    }
-
-    #[test]
-    fn test_simple_count_and() {
-        let expr = Expr::from_string("a$2 & b").unwrap();
-        assert!(expr.matches(&["a", "a", "b"]).unwrap());
-    }
-
-    #[test]
-    fn simple_inversion() {
-        let expr = Expr::from_string("!a & b").unwrap();
-        assert_eq!(
-            expr.to_owned().0,
-            ExprData::HasNodes(Node::And {
-                lhs: Box::new(Node::Invert(Box::new(Node::Name("a".to_string())))),
-                rhs: Box::new(Node::Name("b".to_string())),
-            })
-        );
-
-        assert!(expr.matches(&["b"]).unwrap());
-        assert!(!expr.matches(&["a", "b"]).unwrap());
-        assert!(!expr.matches(&["a"]).unwrap());
-        assert!(!expr.matches(&["c"]).unwrap());
-    }
-
-    #[test]
-    fn simple_and_matching() {
-        assert!(Expr::from_string("a & b & c")
-            .unwrap()
-            .matches(&["a", "b", "c"])
-            .unwrap());
-        assert!(!Expr::from_string("a & b & c")
-            .unwrap()
-            .matches(&["a", "c"])
-            .unwrap());
-        assert!(!Expr::from_string("a & b & c")
-            .unwrap()
-            .matches(&["a", "b"])
-            .unwrap());
-        assert!(!Expr::from_string("a & b & c")
-            .unwrap()
-            .matches(&["c", "b"])
-            .unwrap());
-        assert!(Expr::from_string("a & b & c")
-            .unwrap()
-            .matches(&["a", "b", "c", "d"])
-            .unwrap());
-        assert!(!Expr::from_string("a & b & c")
-            .unwrap()
-            .matches(&["a", "c", "d"])
-            .unwrap());
-        assert!(!Expr::from_string("a & b & c")
-            .unwrap()
-            .matches(&["a", "b", "d"])
-            .unwrap());
-        assert!(!Expr::from_string("a & b & c")
-            .unwrap()
-            .matches(&["c", "b", "d"])
-            .unwrap());
-    }
-
-    #[test]
-    fn simple_or_matching() {
-        assert!(Expr::from_string("a | b | c")
-            .unwrap()
-            .matches(&["a", "b", "c"])
-            .unwrap());
-        assert!(Expr::from_string("a | b | c")
-            .unwrap()
-            .matches(&["a", "c"])
-            .unwrap());
-        assert!(Expr::from_string("a | b | c")
-            .unwrap()
-            .matches(&["a", "b"])
-            .unwrap());
-        assert!(Expr::from_string("a | b | c")
-            .unwrap()
-            .matches(&["c", "b"])
-            .unwrap());
-        assert!(Expr::from_string("a | b | c")
-            .unwrap()
-            .matches(&["c"])
-            .unwrap());
-        assert!(Expr::from_string("a | b | c")
-            .unwrap()
-            .matches(&["b"])
-            .unwrap());
-        assert!(Expr::from_string("a | b | c")
-            .unwrap()
-            .matches(&["a"])
-            .unwrap());
-        assert!(Expr::from_string("a | b | c")
-            .unwrap()
-            .matches(&["a", "b", "c", "d"])
-            .unwrap());
-        assert!(Expr::from_string("a | b | c")
-            .unwrap()
-            .matches(&["a", "c", "d"])
-            .unwrap());
-        assert!(Expr::from_string("a | b | c")
-            .unwrap()
-            .matches(&["a", "b", "d"])
-            .unwrap());
-        assert!(Expr::from_string("a | b | c")
-            .unwrap()
-            .matches(&["c", "b", "d"])
-            .unwrap());
-        assert!(Expr::from_string("a | b | c")
-            .unwrap()
-            .matches(&["c", "d"])
-            .unwrap());
-        assert!(Expr::from_string("a | b | c")
-            .unwrap()
-            .matches(&["b", "d"])
-            .unwrap());
-        assert!(Expr::from_string("a | b | c")
-            .unwrap()
-            .matches(&["a", "d"])
-            .unwrap());
-        assert!(!Expr::from_string("a | b | c")
-            .unwrap()
-            .matches(&["ddwf"])
-            .unwrap());
-        assert!(!Expr::from_string("a | b | c")
-            .unwrap()
-            .matches(&["d"])
-            .unwrap());
-        assert!(!Expr::from_string("a | b | c")
-            .unwrap()
-            .matches(&["hdwf", "dtw"])
-            .unwrap());
-    }
-
-    #[test]
-    fn lone_name() {
-        assert!(Expr::from_string("a").unwrap().matches(&["a"]).unwrap());
-        assert!(Expr::from_string("a")
-            .unwrap()
-            .matches(&["a", "b"])
-            .unwrap());
-        assert!(!Expr::from_string("a").unwrap().matches(&["b"]).unwrap());
-    }
-
-    #[test]
-    fn lone_inverted_name() {
-        assert!(!Expr::from_string("!a").unwrap().matches(&["a"]).unwrap());
-        assert!(!Expr::from_string("!a")
-            .unwrap()
-            .matches(&["a", "b"])
-            .unwrap());
-        assert!(Expr::from_string("!a").unwrap().matches(&["b"]).unwrap());
-    }
-
-    #[test]
-    fn lone_inverted_bracketed_name() {
-        assert!(!Expr::from_string("!(a)").unwrap().matches(&["a"]).unwrap());
-        assert!(!Expr::from_string("!(a)")
-            .unwrap()
-            .matches(&["a", "b"])
-            .unwrap());
-        assert!(Expr::from_string("!(a)").unwrap().matches(&["b"]).unwrap());
-    }
-
-    #[test]
-    fn check_expr() {
-        let s = "a | b | c";
-        let expr = Expr::from_string(s).unwrap();
-        assert!(expr.matches(&["a"]).unwrap());
-        let s = "(a | b | c) | (d & e & c)";
-        let expr = Expr::from_string(s).unwrap();
-        assert!(expr.matches(&["a"]).unwrap());
-        assert!(expr.matches(&["d", "e", "c"]).unwrap());
-        assert!(!expr.matches(&["d"]).unwrap());
     }
 }

@@ -2,15 +2,16 @@ use std::{
     collections::HashMap,
     error::Error,
     ffi::OsStr,
-    io::{self, BufRead, Read},
+    fs::File,
+    io::{self, BufRead, BufReader},
     path::Path,
 };
 
-use regex::Regex;
+use flate2::read::MultiGzDecoder;
 
 use crate::parser::Expr;
 
-pub fn is_compressed<P: AsRef<Path>>(p: &P) -> bool {
+fn is_compressed<P: AsRef<Path>>(p: &P) -> bool {
     let ext = p.as_ref().extension();
 
     if ext == Some(OsStr::new("gz")) {
@@ -18,6 +19,18 @@ pub fn is_compressed<P: AsRef<Path>>(p: &P) -> bool {
     } else {
         false
     }
+}
+
+pub fn read_with_gz<P: AsRef<Path>>(p: &P) -> Result<Box<dyn BufRead>, Box<dyn Error>> {
+    let file = File::open(p)?;
+    let reader: Box<dyn BufRead> = if is_compressed(p) {
+        let gz = MultiGzDecoder::new(file);
+        Box::new(BufReader::new(gz))
+    } else {
+        Box::new(BufReader::new(file))
+    };
+
+    Ok(reader)
 }
 
 #[derive(Debug, Clone)]
@@ -110,6 +123,10 @@ impl GeneRecord {
     pub fn push_domain(&mut self, domain: DomainRecord) {
         self.domains.push(domain);
     }
+
+    pub fn iter_domains(&self) -> std::slice::Iter<'_, DomainRecord> {
+        self.domains.iter()
+    }
 }
 
 #[must_use]
@@ -120,6 +137,8 @@ pub struct InterproGffReader<R: BufRead> {
     id_expr: Option<Expr>,
     domain_expr: Option<Expr>,
     source_expr: Option<Expr>,
+    max_length: Option<u64>,
+    min_length: Option<u64>,
 }
 
 impl<R: BufRead> InterproGffReader<R> {
@@ -131,6 +150,8 @@ impl<R: BufRead> InterproGffReader<R> {
             id_expr: None,
             domain_expr: None,
             source_expr: None,
+            max_length: None,
+            min_length: None,
         }
     }
 
@@ -139,6 +160,7 @@ impl<R: BufRead> InterproGffReader<R> {
         self
     }
 
+    #[allow(dead_code)]
     pub fn with_finish_line(mut self, finish_line: String) -> Self {
         self.finish_line = finish_line;
         self
@@ -156,6 +178,16 @@ impl<R: BufRead> InterproGffReader<R> {
 
     pub fn with_source_expr(mut self, expr: Option<Expr>) -> Self {
         self.source_expr = expr;
+        self
+    }
+
+    pub fn with_max_length(mut self, length: Option<u64>) -> Self {
+        self.max_length = length;
+        self
+    }
+
+    pub fn with_min_length(mut self, length: Option<u64>) -> Self {
+        self.min_length = length;
         self
     }
 
@@ -178,20 +210,56 @@ impl<R: BufRead> InterproGffReader<R> {
 
             let (id, domain) = parse_line(&line)?;
 
+            if let Some(expr) = &self.id_expr {
+                if !expr.matches(&[&id])? {
+                    continue;
+                }
+            }
+
             if domain.is_gene() {
-                records_map.entry(id.clone()).or_insert(GeneRecord::new(
-                    id,
-                    domain.start,
-                    domain.end,
-                ));
+                let gene_record = GeneRecord::new(id.clone(), domain.start, domain.end);
+
+                if let Some(max_length) = self.max_length {
+                    if gene_record.length > max_length {
+                        continue;
+                    }
+                }
+
+                if let Some(min_length) = self.min_length {
+                    if gene_record.length < min_length {
+                        continue;
+                    }
+                }
+
+                records_map.entry(id).or_insert(gene_record);
             } else {
+                if let Some(expr) = &self.source_expr {
+                    if !expr.matches(&[&domain.source])? {
+                        continue;
+                    }
+                }
                 if let Some(gene_record) = records_map.get_mut(&id) {
                     gene_record.push_domain(domain);
                 }
             }
         }
 
-        let records = records_map.into_values().collect();
+        let records = records_map
+            .into_values()
+            .filter(|x| {
+                if let Some(expr) = &self.domain_expr {
+                    let expr_result = expr.matches_domains(&x);
+
+                    if let Ok(is_ok) = expr_result {
+                        is_ok
+                    } else {
+                        false
+                    }
+                } else {
+                    true
+                }
+            })
+            .collect();
 
         Ok(records)
     }

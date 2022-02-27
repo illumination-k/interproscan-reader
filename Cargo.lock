@@ -136,6 +136,7 @@ name = "interproscan-reader"
 version = "0.1.0"
 dependencies = [
  "flate2",
+ "log",
  "pest",
  "pretty_env_logger",
  "regex",
