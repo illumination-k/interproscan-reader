@@ -49,6 +49,20 @@ fn main() -> Result<(), Box<dyn Error>> {
         );
 
     let records = reader.finish()?;
-    dbg!(&records);
+
+    let outformat = opt.out_format.unwrap_or(opt::OutputFormat::ID);
+
+    match outformat {
+        opt::OutputFormat::ID => {
+            for record in records {
+                println!("{}", record.id)
+            }
+        }
+        opt::OutputFormat::ALL => {
+            for record in records {
+                println!("{}", record)
+            }
+        }
+    }
     Ok(())
 }

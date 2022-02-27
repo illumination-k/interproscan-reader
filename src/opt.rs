@@ -10,6 +10,8 @@ pub struct Opt {
     pub log_level: Option<LogLevel>,
     #[structopt(long = "input", short = "i")]
     pub input: PathBuf,
+    #[structopt(long = "outformat", possible_values(&OutputFormat::variants()))]
+    pub out_format: Option<OutputFormat>,
     #[structopt(long = "id-expr")]
     pub id_expr: Option<String>,
     #[structopt(long = "domain-expr")]

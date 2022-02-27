@@ -2,6 +2,7 @@ use std::{
     collections::HashMap,
     error::Error,
     ffi::OsStr,
+    fmt::Display,
     fs::File,
     io::{self, BufRead, BufReader},
     path::Path,
@@ -40,6 +41,15 @@ pub struct DomainRecord {
     pub end: u64,
     pub domain_name: String,
     pub domain_desc: String,
+}
+
+impl ToString for DomainRecord {
+    fn to_string(&self) -> String {
+        format!(
+            "{}-{} {} {}",
+            self.start, self.end, self.domain_name, self.domain_desc
+        )
+    }
 }
 
 impl DomainRecord {
@@ -106,7 +116,7 @@ pub fn parse_line(line: &str) -> Result<(String, DomainRecord), Box<dyn Error>> 
 
 #[derive(Debug, Clone)]
 pub struct GeneRecord {
-    id: String,
+    pub id: String,
     length: u64,
     domains: Vec<DomainRecord>,
 }
@@ -126,6 +136,20 @@ impl GeneRecord {
 
     pub fn iter_domains(&self) -> std::slice::Iter<'_, DomainRecord> {
         self.domains.iter()
+    }
+}
+
+impl Display for GeneRecord {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        let header = format!("--- id: {}, length {} ---", self.id, self.length);
+        let domains = self
+            .domains
+            .iter()
+            .map(|x| x.to_string())
+            .collect::<Vec<String>>()
+            .join("\n");
+
+        write!(f, "{}\n{}", header, domains)
     }
 }
 
