@@ -8,6 +8,7 @@ use structopt::StructOpt;
 mod opt;
 mod parser;
 mod reader;
+mod utils;
 
 use crate::opt::{LogLevel, Opt};
 use crate::parser::Expr;
@@ -29,6 +30,12 @@ fn main() -> Result<(), Box<dyn Error>> {
     debug!("{:?}", opt);
 
     let input = opt.input;
+    let source_expr = opt
+        .source_expr
+        .map(|s| Expr::from_string(&s).expect("Invalid source expr"));
+
+    utils::validate_source_expr(&source_expr)?;
+
     let bufreader: Box<dyn BufRead> = reader::read_with_gz(&input)?;
 
     let reader = reader::InterproGffReader::new(bufreader)
@@ -43,11 +50,7 @@ fn main() -> Result<(), Box<dyn Error>> {
             opt.domain_expr
                 .map(|s| Expr::from_string(&s).expect("Invalid domain expr")),
         )
-        .with_source_expr(
-            opt.source_expr
-                .clone()
-                .map(|s| Expr::from_string(&s).expect("Invalid source expr")),
-        );
+        .with_source_expr(source_expr);
 
     let records = reader.finish()?;
 
