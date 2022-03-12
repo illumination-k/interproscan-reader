@@ -41,5 +41,6 @@ arg_enum! {
     pub enum OutputFormat {
         ID,
         ALL,
+        TSV
     }
 }

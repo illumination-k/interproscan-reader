@@ -45,6 +45,7 @@ fn main() -> Result<(), Box<dyn Error>> {
         )
         .with_source_expr(
             opt.source_expr
+                .clone()
                 .map(|s| Expr::from_string(&s).expect("Invalid source expr")),
         );
 
@@ -61,6 +62,14 @@ fn main() -> Result<(), Box<dyn Error>> {
         opt::OutputFormat::ALL => {
             for record in records {
                 println!("{}", record)
+            }
+        }
+        opt::OutputFormat::TSV => {
+            let expr = opt
+                .source_expr
+                .map(|s| Expr::from_string(&s).expect("Invalid source expr"));
+            for record in records {
+                println!("{}", record.to_tsv_record())
             }
         }
     }

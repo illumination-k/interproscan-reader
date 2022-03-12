@@ -133,6 +133,44 @@ impl GeneRecord {
     pub fn iter_domains(&self) -> std::slice::Iter<'_, DomainRecord> {
         self.domains.iter()
     }
+
+    pub fn filter_by_source_expr(self, source_expr: &Option<Expr>) -> Self {
+        if let Some(expr) = source_expr {
+            let domains: Vec<DomainRecord> = self
+                .iter_domains()
+                .filter(|domain| expr.matches(&[&domain.source]).expect("must ok"))
+                .cloned()
+                .collect();
+
+            Self {
+                id: self.id,
+                length: self.length,
+                domains,
+            }
+        } else {
+            self
+        }
+    }
+
+    pub fn to_tsv_record(&self) -> String {
+        // gene_id source term_id term_desc start end
+        let mut lines = Vec::with_capacity(self.domains.len() + 1);
+        lines.push(format!("{}\t.\t.\t.\t0\t{}", self.id, self.length));
+
+        for domain in self.domains.iter() {
+            lines.push(format!(
+                "{}\t{}\t{}\t{}\t{}\t{}",
+                self.id,
+                domain.source,
+                domain.domain_name,
+                domain.domain_desc,
+                domain.start,
+                domain.end,
+            ));
+        }
+
+        lines.join("\n")
+    }
 }
 
 impl Display for GeneRecord {
@@ -253,11 +291,6 @@ impl<R: BufRead> InterproGffReader<R> {
 
                 records_map.entry(id).or_insert(gene_record);
             } else {
-                if let Some(expr) = &self.source_expr {
-                    if !expr.matches(&[&domain.source])? {
-                        continue;
-                    }
-                }
                 if let Some(gene_record) = records_map.get_mut(&id) {
                     gene_record.push_domain(domain);
                 }
@@ -279,6 +312,7 @@ impl<R: BufRead> InterproGffReader<R> {
                     true
                 }
             })
+            .map(|d| d.filter_by_source_expr(&self.source_expr))
             .collect();
 
         Ok(records)
