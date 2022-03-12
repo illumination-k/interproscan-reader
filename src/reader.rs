@@ -290,10 +290,8 @@ impl<R: BufRead> InterproGffReader<R> {
                 }
 
                 records_map.entry(id).or_insert(gene_record);
-            } else {
-                if let Some(gene_record) = records_map.get_mut(&id) {
-                    gene_record.push_domain(domain);
-                }
+            } else if let Some(gene_record) = records_map.get_mut(&id) {
+                gene_record.push_domain(domain);
             }
         }
 

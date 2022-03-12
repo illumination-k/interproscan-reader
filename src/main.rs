@@ -65,9 +65,6 @@ fn main() -> Result<(), Box<dyn Error>> {
             }
         }
         opt::OutputFormat::TSV => {
-            let expr = opt
-                .source_expr
-                .map(|s| Expr::from_string(&s).expect("Invalid source expr"));
             for record in records {
                 println!("{}", record.to_tsv_record())
             }
