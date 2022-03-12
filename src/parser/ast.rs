@@ -46,10 +46,7 @@ impl Node {
         };
 
         match next {
-            Token::CloseBracket => {
-                let err: Box<dyn Error> = Box::new(ParseError::new("Unexpected closing bracket"));
-                return Err(err);
-            }
+            Token::CloseBracket => Err(Box::new(ParseError::new("Unexpected closing bracket"))),
             Token::OpenBracket => {
                 let _ = tokens.pop_front();
                 let result = Self::munch_tokens(tokens, depth - 1)?;
@@ -91,12 +88,10 @@ impl Node {
                 let _ = tokens.pop_front();
 
                 match tokens.front() {
-                    Some(Token::OpenBracket) => {
-                        return Ok(Node::Invert(Box::new(Self::munch_tokens(
-                            tokens,
-                            depth - 1,
-                        )?)))
-                    }
+                    Some(Token::OpenBracket) => Ok(Node::Invert(Box::new(Self::munch_tokens(
+                        tokens,
+                        depth - 1,
+                    )?))),
                     Some(Token::Name(text)) => {
                         let inverted = Node::Invert(Box::new(Node::Name(text.clone())));
                         match tokens.get(1) {
@@ -108,51 +103,40 @@ impl Node {
                                 tokens.insert(2, Token::OpenBracket);
                                 tokens.insert(4, Token::CloseBracket);
                                 tokens.insert(5, Token::CloseBracket);
-                                return Self::munch_tokens(tokens, depth - 1);
+                                Self::munch_tokens(tokens, depth - 1)
                             }
                             None | Some(Token::CloseBracket) => {
                                 // "!abc"
                                 tokens.remove(0); // remove name
-                                return Ok(inverted);
+                                Ok(inverted)
                             }
-                            Some(_) => {
-                                return Err(Box::new(ParseError::new(
-                                    "invalid token after inverted name",
-                                )))
-                            }
+                            Some(_) => Err(Box::new(ParseError::new(
+                                "invalid token after inverted name",
+                            ))),
                         }
                     }
-                    Some(Token::Invert) => {
-                        return Err(Box::new(ParseError::new(
-                            "Can't double invert, that would be no mean",
-                        )));
-                    }
-                    Some(_) => return Err(Box::new(ParseError::new("expected expression"))),
-                    None => {
-                        return Err(Box::new(ParseError::new(
-                            "Expected token to invert, got EOF",
-                        )))
-                    }
+                    Some(Token::Invert) => Err(Box::new(ParseError::new(
+                        "Can't double invert, that would be no mean",
+                    ))),
+                    Some(_) => Err(Box::new(ParseError::new("expected expression"))),
+                    None => Err(Box::new(ParseError::new(
+                        "Expected token to invert, got EOF",
+                    ))),
                 }
             }
             Token::Name(text) => match tokens.get(1) {
                 Some(Token::And) | Some(Token::Or) => {
                     add_bracket(tokens);
-                    return Self::munch_tokens(tokens, depth - 1);
+                    Self::munch_tokens(tokens, depth - 1)
                 }
                 Some(Token::CloseBracket) | None => {
                     let text = text.clone();
                     let _ = tokens.pop_front();
-                    return Ok(Node::Name(text));
+                    Ok(Node::Name(text))
                 }
-                Some(_) => {
-                    let err = Box::new(ParseError::new("Name followed by invalid token"));
-                    return Err(err);
-                }
+                Some(_) => Err(Box::new(ParseError::new("Name followed by invalid token"))),
             },
-            Token::And | Token::Or => {
-                return Err(Box::new(ParseError::new("Unexpected binary operator")))
-            }
+            Token::And | Token::Or => Err(Box::new(ParseError::new("Unexpected binary operator"))),
         }
     }
 
