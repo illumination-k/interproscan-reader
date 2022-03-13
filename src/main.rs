@@ -1,6 +1,7 @@
 #[macro_use]
 extern crate log;
 
+use comfy_table::Table;
 use std::io::BufRead;
 use std::{env::set_var, error::Error};
 use structopt::StructOpt;
@@ -8,6 +9,7 @@ use structopt::StructOpt;
 mod opt;
 mod parser;
 mod reader;
+mod records;
 mod utils;
 
 use crate::opt::{LogLevel, Opt};
@@ -63,13 +65,19 @@ fn main() -> Result<(), Box<dyn Error>> {
             }
         }
         opt::OutputFormat::ALL => {
+            let mut table = Table::new();
+            table.set_header(vec!["id", "source", "term_id", "term_desc", "start", "end"]);
             for record in records {
-                println!("{}", record)
+                for row in record.to_table_row().iter() {
+                    table.add_row(row);
+                }
             }
+
+            println!("{table}");
         }
         opt::OutputFormat::TSV => {
             for record in records {
-                println!("{}", record.to_tsv_record())
+                println!("{}", record.to_tsv_line())
             }
         }
     }

@@ -1,6 +1,6 @@
 use std::{collections::VecDeque, error::Error};
 
-use crate::reader::GeneRecord;
+use crate::records::GeneRecord;
 
 use super::ast::{Node, ParseError};
 use super::lex::{lex, Token};

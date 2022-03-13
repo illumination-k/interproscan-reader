@@ -2,7 +2,6 @@ use std::{
     collections::HashMap,
     error::Error,
     ffi::OsStr,
-    fmt::Display,
     fs::File,
     io::{self, BufRead, BufReader},
     path::Path,
@@ -11,6 +10,7 @@ use std::{
 use flate2::read::MultiGzDecoder;
 
 use crate::parser::Expr;
+use crate::records::{DomainRecord, GeneRecord};
 
 fn is_compressed<P: AsRef<Path>>(p: &P) -> bool {
     let ext = p.as_ref().extension();
@@ -28,46 +28,6 @@ pub fn read_with_gz<P: AsRef<Path>>(p: &P) -> Result<Box<dyn BufRead>, Box<dyn E
     };
 
     Ok(reader)
-}
-
-#[derive(Debug, Clone)]
-pub struct DomainRecord {
-    pub source: String,
-    pub start: u64,
-    pub end: u64,
-    pub domain_name: String,
-    pub domain_desc: String,
-}
-
-impl ToString for DomainRecord {
-    fn to_string(&self) -> String {
-        format!(
-            "{}-{} {} {}",
-            self.start, self.end, self.domain_name, self.domain_desc
-        )
-    }
-}
-
-impl DomainRecord {
-    pub fn new<S: ToString>(
-        source: S,
-        start: u64,
-        end: u64,
-        domain_name: S,
-        domain_desc: S,
-    ) -> Self {
-        Self {
-            source: source.to_string(),
-            start,
-            end,
-            domain_name: domain_name.to_string(),
-            domain_desc: domain_desc.to_string(),
-        }
-    }
-
-    pub fn is_gene(&self) -> bool {
-        self.source == "."
-    }
 }
 
 pub fn parse_line(line: &str) -> Result<(String, DomainRecord), Box<dyn Error>> {
@@ -108,83 +68,6 @@ pub fn parse_line(line: &str) -> Result<(String, DomainRecord), Box<dyn Error>> 
         id.to_string(),
         DomainRecord::new(source, start, end, domain_name, domain_desc),
     ))
-}
-
-#[derive(Debug, Clone)]
-pub struct GeneRecord {
-    pub id: String,
-    length: u64,
-    domains: Vec<DomainRecord>,
-}
-
-impl GeneRecord {
-    pub fn new(id: String, start: u64, end: u64) -> Self {
-        Self {
-            id,
-            length: end - start + 1,
-            domains: Vec::new(),
-        }
-    }
-
-    pub fn push_domain(&mut self, domain: DomainRecord) {
-        self.domains.push(domain);
-    }
-
-    pub fn iter_domains(&self) -> std::slice::Iter<'_, DomainRecord> {
-        self.domains.iter()
-    }
-
-    pub fn filter_by_source_expr(self, source_expr: &Option<Expr>) -> Self {
-        if let Some(expr) = source_expr {
-            let domains: Vec<DomainRecord> = self
-                .iter_domains()
-                .filter(|domain| expr.matches(&[&domain.source]).expect("must ok"))
-                .cloned()
-                .collect();
-
-            Self {
-                id: self.id,
-                length: self.length,
-                domains,
-            }
-        } else {
-            self
-        }
-    }
-
-    pub fn to_tsv_record(&self) -> String {
-        // gene_id source term_id term_desc start end
-        let mut lines = Vec::with_capacity(self.domains.len() + 1);
-        lines.push(format!("{}\t.\t.\t.\t0\t{}", self.id, self.length));
-
-        for domain in self.domains.iter() {
-            lines.push(format!(
-                "{}\t{}\t{}\t{}\t{}\t{}",
-                self.id,
-                domain.source,
-                domain.domain_name,
-                domain.domain_desc,
-                domain.start,
-                domain.end,
-            ));
-        }
-
-        lines.join("\n")
-    }
-}
-
-impl Display for GeneRecord {
-    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
-        let header = format!("--- id: {}, length {} ---", self.id, self.length);
-        let domains = self
-            .domains
-            .iter()
-            .map(|x| x.to_string())
-            .collect::<Vec<String>>()
-            .join("\n");
-
-        write!(f, "{}\n{}", header, domains)
-    }
 }
 
 #[must_use]
